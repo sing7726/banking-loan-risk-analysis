@@ -90,9 +90,10 @@ The Power BI dashboard includes DAX measures for:
 
 - `Banking_Loan_Risk_Analysis_PowerBI.pbix` — Power BI report
 - `Banking_Loan_Risk_Analysis_SQL_Google_Colab.ipynb` — SQL analysis notebook
-- `data/loan_analysis_view.csv` — Loan analysis dataset
-- `data/customer_risk_view.csv` — Customer risk dataset
-- `images/` — Dashboard screenshots
+- `loan_analysis_view.csv` — Loan analysis dataset
+- `customer_risk_view.csv` — Customer risk dataset
+- `executive_summary.png` — Dashboard screenshot
+- `loan_risk_analysis.png` — Dashboard screenshot
 
 ## Note
 
