@@ -1,0 +1,1001 @@
+customer_id,age,age_group,gender,employment_status,annual_income,income_group,credit_score,credit_score_group,city,province,branch_name
+1001,56,51-65,Female,Part-time,36652,Middle Income,579,Poor,Brampton,Ontario,Brampton Main Branch
+1002,69,66+,Female,Full-time,83543,High Income,674,Good,Ottawa,Ontario,Ottawa Main Branch
+1003,46,36-50,Male,Retired,55049,Middle Income,619,Fair,Regina,Saskatchewan,Regina Main Branch
+1004,32,26-35,Female,Part-time,35964,Middle Income,689,Good,Mississauga,Ontario,Mississauga Main Branch
+1005,60,51-65,Female,Self-employed,57524,Middle Income,494,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1006,25,18-25,Female,Full-time,78151,High Income,653,Fair,Surrey,British Columbia,Surrey Main Branch
+1007,38,36-50,Male,Full-time,73410,High Income,582,Fair,Montreal,Quebec,Montreal Main Branch
+1008,56,51-65,Male,Full-time,62012,Middle Income,553,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1009,36,36-50,Male,Student,15261,Low Income,528,Poor,Toronto,Ontario,Toronto Main Branch
+1010,40,36-50,Female,Full-time,79389,High Income,638,Fair,Quebec City,Quebec,Quebec City Main Branch
+1011,28,26-35,Female,Full-time,81902,High Income,644,Fair,Calgary,Alberta,Calgary Main Branch
+1012,28,26-35,Female,Retired,40600,Middle Income,490,Poor,Brampton,Ontario,Brampton Main Branch
+1013,41,36-50,Male,Full-time,61561,Middle Income,578,Poor,Ottawa,Ontario,Ottawa Main Branch
+1014,70,66+,Female,Full-time,57055,Middle Income,626,Fair,Edmonton,Alberta,Edmonton Main Branch
+1015,53,51-65,Male,Full-time,78881,High Income,577,Poor,Calgary,Alberta,Calgary Main Branch
+1016,57,51-65,Male,Retired,33940,Middle Income,508,Poor,Brampton,Ontario,Brampton Main Branch
+1017,41,36-50,Male,Full-time,112340,High Income,528,Poor,Edmonton,Alberta,Edmonton Main Branch
+1018,20,18-25,Female,Self-employed,67692,Middle Income,578,Poor,Ottawa,Ontario,Ottawa Main Branch
+1019,39,36-50,Male,Self-employed,12000,Low Income,479,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1020,70,66+,Female,Full-time,71457,High Income,561,Poor,Regina,Saskatchewan,Regina Main Branch
+1021,19,18-25,Female,Self-employed,77809,High Income,615,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1022,41,36-50,Male,Full-time,92011,High Income,611,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1023,61,51-65,Female,Full-time,77186,High Income,556,Poor,Mississauga,Ontario,Mississauga Main Branch
+1024,47,36-50,Male,Student,15329,Low Income,420,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1025,55,51-65,Male,Student,19709,Low Income,583,Fair,Mississauga,Ontario,Mississauga Main Branch
+1026,19,18-25,Male,Part-time,41929,Middle Income,639,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1027,38,36-50,Male,Part-time,12023,Low Income,528,Poor,Calgary,Alberta,Calgary Main Branch
+1028,50,36-50,Female,Full-time,96095,High Income,637,Fair,Montreal,Quebec,Montreal Main Branch
+1029,29,26-35,Male,Full-time,57039,Middle Income,608,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1030,39,36-50,Female,Full-time,97507,High Income,759,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1031,61,51-65,Female,Full-time,79064,High Income,532,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1032,42,36-50,Female,Full-time,83333,High Income,613,Fair,Quebec City,Quebec,Quebec City Main Branch
+1033,66,66+,Female,Full-time,92690,High Income,539,Poor,Brampton,Ontario,Brampton Main Branch
+1034,44,36-50,Female,Full-time,82316,High Income,662,Fair,Montreal,Quebec,Montreal Main Branch
+1035,59,51-65,Male,Full-time,84112,High Income,631,Fair,Quebec City,Quebec,Quebec City Main Branch
+1036,45,36-50,Male,Part-time,36027,Middle Income,596,Fair,Quebec City,Quebec,Quebec City Main Branch
+1037,33,26-35,Female,Student,24977,Low Income,579,Poor,Brampton,Ontario,Brampton Main Branch
+1038,32,26-35,Female,Full-time,61425,Middle Income,678,Good,Halifax,Nova Scotia,Halifax Main Branch
+1039,64,51-65,Male,Retired,40849,Middle Income,623,Fair,Ottawa,Ontario,Ottawa Main Branch
+1040,68,66+,Female,Unemployed,31753,Middle Income,632,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1041,61,51-65,Male,Full-time,57453,Middle Income,539,Poor,Quebec City,Quebec,Quebec City Main Branch
+1042,69,66+,Female,Student,23235,Low Income,645,Fair,Brampton,Ontario,Brampton Main Branch
+1043,20,18-25,Male,Part-time,39362,Middle Income,540,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1044,54,51-65,Male,Part-time,34271,Middle Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch
+1045,68,66+,Male,Full-time,81259,High Income,655,Fair,Surrey,British Columbia,Surrey Main Branch
+1046,24,18-25,Female,Part-time,45077,Middle Income,613,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1047,38,36-50,Female,Full-time,55335,Middle Income,536,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1048,26,26-35,Male,Part-time,39216,Middle Income,575,Poor,Calgary,Alberta,Calgary Main Branch
+1049,56,51-65,Female,Part-time,25012,Low Income,666,Fair,Quebec City,Quebec,Quebec City Main Branch
+1050,35,26-35,Male,Self-employed,103656,High Income,568,Poor,Surrey,British Columbia,Surrey Main Branch
+1051,21,18-25,Female,Part-time,40118,Middle Income,684,Good,Calgary,Alberta,Calgary Main Branch
+1052,42,36-50,Male,Self-employed,82470,High Income,623,Fair,Regina,Saskatchewan,Regina Main Branch
+1053,31,26-35,Male,Full-time,83863,High Income,488,Poor,Quebec City,Quebec,Quebec City Main Branch
+1054,67,66+,Female,Full-time,67041,Middle Income,531,Poor,Edmonton,Alberta,Edmonton Main Branch
+1055,26,26-35,Other,Student,29312,Low Income,512,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1056,43,36-50,Female,Full-time,54928,Middle Income,565,Poor,Ottawa,Ontario,Ottawa Main Branch
+1057,70,66+,Female,Full-time,97414,High Income,650,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1058,19,18-25,Female,Full-time,62084,Middle Income,438,Poor,Ottawa,Ontario,Ottawa Main Branch
+1059,37,36-50,Male,Full-time,41469,Middle Income,601,Fair,Montreal,Quebec,Montreal Main Branch
+1060,45,36-50,Other,Retired,41072,Middle Income,520,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1061,64,51-65,Female,Part-time,32696,Middle Income,669,Fair,Hamilton,Ontario,Hamilton Main Branch
+1062,24,18-25,Female,Unemployed,15647,Low Income,541,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1063,61,51-65,Female,Part-time,40780,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch
+1064,25,18-25,Female,Full-time,91761,High Income,722,Good,Ottawa,Ontario,Ottawa Main Branch
+1065,64,51-65,Female,Full-time,68549,Middle Income,692,Good,Regina,Saskatchewan,Regina Main Branch
+1066,52,51-65,Male,Part-time,29701,Low Income,538,Poor,Brampton,Ontario,Brampton Main Branch
+1067,31,26-35,Female,Full-time,51722,Middle Income,564,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1068,34,26-35,Male,Unemployed,14723,Low Income,542,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1069,53,51-65,Female,Student,12000,Low Income,595,Fair,Calgary,Alberta,Calgary Main Branch
+1070,67,66+,Female,Full-time,58948,Middle Income,577,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1071,57,51-65,Male,Retired,64661,Middle Income,609,Fair,Surrey,British Columbia,Surrey Main Branch
+1072,21,18-25,Female,Student,15413,Low Income,576,Poor,Calgary,Alberta,Calgary Main Branch
+1073,19,18-25,Female,Self-employed,98861,High Income,599,Fair,Quebec City,Quebec,Quebec City Main Branch
+1074,23,18-25,Female,Full-time,49923,Middle Income,536,Poor,Mississauga,Ontario,Mississauga Main Branch
+1075,59,51-65,Female,Full-time,103880,High Income,654,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1076,21,18-25,Male,Part-time,60051,Middle Income,610,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1077,46,36-50,Female,Full-time,82638,High Income,667,Fair,Hamilton,Ontario,Hamilton Main Branch
+1078,35,26-35,Female,Full-time,107843,High Income,713,Good,Ottawa,Ontario,Ottawa Main Branch
+1079,43,36-50,Male,Student,24846,Low Income,498,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1080,61,51-65,Female,Full-time,85833,High Income,590,Fair,Toronto,Ontario,Toronto Main Branch
+1081,51,51-65,Male,Part-time,53143,Middle Income,540,Poor,Hamilton,Ontario,Hamilton Main Branch
+1082,27,26-35,Male,Unemployed,19258,Low Income,654,Fair,Montreal,Quebec,Montreal Main Branch
+1083,53,51-65,Female,Unemployed,12000,Low Income,546,Poor,Quebec City,Quebec,Quebec City Main Branch
+1084,31,26-35,Female,Full-time,86201,High Income,644,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1085,48,36-50,Male,Student,18225,Low Income,565,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1086,65,51-65,Female,Full-time,64844,Middle Income,571,Poor,Ottawa,Ontario,Ottawa Main Branch
+1087,32,26-35,Male,Full-time,77362,High Income,734,Good,Surrey,British Columbia,Surrey Main Branch
+1088,25,18-25,Male,Part-time,44795,Middle Income,620,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1089,31,26-35,Male,Full-time,74702,High Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch
+1090,40,36-50,Male,Full-time,83443,High Income,568,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1091,57,51-65,Male,Part-time,29518,Low Income,499,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1092,38,36-50,Female,Full-time,71231,High Income,605,Fair,Toronto,Ontario,Toronto Main Branch
+1093,33,26-35,Female,Full-time,87284,High Income,599,Fair,Montreal,Quebec,Montreal Main Branch
+1094,62,51-65,Male,Part-time,59273,Middle Income,541,Poor,Surrey,British Columbia,Surrey Main Branch
+1095,35,26-35,Female,Self-employed,143793,Very High Income,688,Good,Calgary,Alberta,Calgary Main Branch
+1096,64,51-65,Female,Part-time,43196,Middle Income,577,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1097,70,66+,Male,Full-time,87120,High Income,653,Fair,Surrey,British Columbia,Surrey Main Branch
+1098,41,36-50,Female,Full-time,107668,High Income,636,Fair,Montreal,Quebec,Montreal Main Branch
+1099,43,36-50,Other,Full-time,59925,Middle Income,546,Poor,Regina,Saskatchewan,Regina Main Branch
+1100,42,36-50,Male,Full-time,83335,High Income,576,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1101,62,51-65,Male,Student,28147,Low Income,652,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1102,58,51-65,Female,Full-time,98062,High Income,576,Poor,Hamilton,Ontario,Hamilton Main Branch
+1103,46,36-50,Female,Full-time,51531,Middle Income,625,Fair,Calgary,Alberta,Calgary Main Branch
+1104,32,26-35,Male,Self-employed,51818,Middle Income,635,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1105,62,51-65,Female,Part-time,38257,Middle Income,577,Poor,Ottawa,Ontario,Ottawa Main Branch
+1106,18,18-25,Female,Part-time,42533,Middle Income,705,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1107,42,36-50,Female,Full-time,92212,High Income,683,Good,Edmonton,Alberta,Edmonton Main Branch
+1108,24,18-25,Female,Full-time,81316,High Income,757,Very Good,Quebec City,Quebec,Quebec City Main Branch
+1109,26,26-35,Female,Full-time,69275,Middle Income,580,Fair,Quebec City,Quebec,Quebec City Main Branch
+1110,41,36-50,Male,Full-time,79496,High Income,594,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1111,18,18-25,Male,Self-employed,89031,High Income,681,Good,Ottawa,Ontario,Ottawa Main Branch
+1112,61,51-65,Female,Student,35960,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch
+1113,25,18-25,Female,Self-employed,84970,High Income,751,Very Good,Quebec City,Quebec,Quebec City Main Branch
+1114,41,36-50,Male,Student,18935,Low Income,584,Fair,Edmonton,Alberta,Edmonton Main Branch
+1115,28,26-35,Female,Full-time,80093,High Income,568,Poor,Quebec City,Quebec,Quebec City Main Branch
+1116,68,66+,Female,Self-employed,85955,High Income,530,Poor,Ottawa,Ontario,Ottawa Main Branch
+1117,34,26-35,Male,Full-time,43722,Middle Income,587,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1118,25,18-25,Female,Part-time,37812,Middle Income,579,Poor,Hamilton,Ontario,Hamilton Main Branch
+1119,52,51-65,Female,Part-time,36791,Middle Income,604,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1120,52,51-65,Female,Full-time,62210,Middle Income,693,Good,Quebec City,Quebec,Quebec City Main Branch
+1121,50,36-50,Female,Full-time,90640,High Income,718,Good,Calgary,Alberta,Calgary Main Branch
+1122,22,18-25,Male,Retired,34215,Middle Income,543,Poor,Mississauga,Ontario,Mississauga Main Branch
+1123,59,51-65,Female,Full-time,80201,High Income,552,Poor,Ottawa,Ontario,Ottawa Main Branch
+1124,56,51-65,Male,Full-time,69339,Middle Income,542,Poor,Brampton,Ontario,Brampton Main Branch
+1125,58,51-65,Male,Full-time,73939,High Income,580,Fair,Regina,Saskatchewan,Regina Main Branch
+1126,45,36-50,Female,Student,25294,Low Income,546,Poor,Brampton,Ontario,Brampton Main Branch
+1127,24,18-25,Male,Part-time,22309,Low Income,586,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1128,26,26-35,Male,Self-employed,85750,High Income,590,Fair,Surrey,British Columbia,Surrey Main Branch
+1129,25,18-25,Female,Full-time,113201,High Income,694,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1130,29,26-35,Male,Part-time,19319,Low Income,586,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1131,51,51-65,Male,Full-time,70963,High Income,634,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1132,50,36-50,Female,Student,30986,Middle Income,503,Poor,Regina,Saskatchewan,Regina Main Branch
+1133,65,51-65,Female,Part-time,41619,Middle Income,620,Fair,Montreal,Quebec,Montreal Main Branch
+1134,40,36-50,Male,Full-time,84383,High Income,776,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1135,41,36-50,Female,Full-time,29238,Low Income,591,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1136,54,51-65,Female,Full-time,82768,High Income,447,Poor,Hamilton,Ontario,Hamilton Main Branch
+1137,52,51-65,Female,Full-time,58290,Middle Income,690,Good,Ottawa,Ontario,Ottawa Main Branch
+1138,61,51-65,Female,Full-time,77578,High Income,587,Fair,Toronto,Ontario,Toronto Main Branch
+1139,57,51-65,Other,Part-time,37647,Middle Income,732,Good,Surrey,British Columbia,Surrey Main Branch
+1140,39,36-50,Female,Part-time,65340,Middle Income,625,Fair,Calgary,Alberta,Calgary Main Branch
+1141,44,36-50,Female,Full-time,81841,High Income,528,Poor,Edmonton,Alberta,Edmonton Main Branch
+1142,52,51-65,Female,Full-time,69973,Middle Income,489,Poor,Calgary,Alberta,Calgary Main Branch
+1143,18,18-25,Male,Full-time,44826,Middle Income,693,Good,Ottawa,Ontario,Ottawa Main Branch
+1144,52,51-65,Male,Student,22969,Low Income,639,Fair,Mississauga,Ontario,Mississauga Main Branch
+1145,54,51-65,Female,Full-time,86818,High Income,788,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1146,64,51-65,Female,Self-employed,77583,High Income,633,Fair,Montreal,Quebec,Montreal Main Branch
+1147,31,26-35,Female,Student,17955,Low Income,557,Poor,Edmonton,Alberta,Edmonton Main Branch
+1148,20,18-25,Male,Part-time,31129,Middle Income,552,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1149,18,18-25,Female,Student,26281,Low Income,528,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1150,22,18-25,Male,Full-time,85669,High Income,617,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1151,43,36-50,Male,Retired,66418,Middle Income,633,Fair,Ottawa,Ontario,Ottawa Main Branch
+1152,31,26-35,Female,Full-time,54090,Middle Income,549,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1153,56,51-65,Female,Full-time,81468,High Income,529,Poor,Mississauga,Ontario,Mississauga Main Branch
+1154,44,36-50,Female,Self-employed,76349,High Income,641,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1155,26,26-35,Female,Retired,44616,Middle Income,537,Poor,Mississauga,Ontario,Mississauga Main Branch
+1156,32,26-35,Male,Student,25215,Low Income,359,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1157,32,26-35,Female,Full-time,79338,High Income,671,Good,Quebec City,Quebec,Quebec City Main Branch
+1158,43,36-50,Male,Full-time,81518,High Income,565,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1159,59,51-65,Female,Unemployed,12000,Low Income,597,Fair,Hamilton,Ontario,Hamilton Main Branch
+1160,30,26-35,Female,Full-time,58503,Middle Income,651,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1161,68,66+,Female,Student,33887,Middle Income,599,Fair,Brampton,Ontario,Brampton Main Branch
+1162,49,36-50,Female,Student,20235,Low Income,726,Good,Calgary,Alberta,Calgary Main Branch
+1163,56,51-65,Female,Part-time,41672,Middle Income,580,Fair,Hamilton,Ontario,Hamilton Main Branch
+1164,66,66+,Female,Full-time,90984,High Income,630,Fair,Edmonton,Alberta,Edmonton Main Branch
+1165,69,66+,Male,Full-time,80342,High Income,680,Good,Surrey,British Columbia,Surrey Main Branch
+1166,49,36-50,Male,Full-time,81837,High Income,634,Fair,Quebec City,Quebec,Quebec City Main Branch
+1167,21,18-25,Male,Unemployed,24262,Low Income,644,Fair,Brampton,Ontario,Brampton Main Branch
+1168,47,36-50,Male,Full-time,33900,Middle Income,498,Poor,Hamilton,Ontario,Hamilton Main Branch
+1169,54,51-65,Female,Unemployed,14570,Low Income,476,Poor,Ottawa,Ontario,Ottawa Main Branch
+1170,40,36-50,Female,Full-time,80435,High Income,686,Good,Mississauga,Ontario,Mississauga Main Branch
+1171,56,51-65,Male,Retired,66815,Middle Income,544,Poor,Edmonton,Alberta,Edmonton Main Branch
+1172,62,51-65,Male,Full-time,73190,High Income,667,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1173,32,26-35,Male,Full-time,56795,Middle Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch
+1174,60,51-65,Female,Full-time,57274,Middle Income,563,Poor,Brampton,Ontario,Brampton Main Branch
+1175,46,36-50,Female,Self-employed,106516,High Income,691,Good,Montreal,Quebec,Montreal Main Branch
+1176,53,51-65,Male,Self-employed,73467,High Income,547,Poor,Mississauga,Ontario,Mississauga Main Branch
+1177,30,26-35,Female,Student,21942,Low Income,501,Poor,Regina,Saskatchewan,Regina Main Branch
+1178,49,36-50,Female,Full-time,83071,High Income,624,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1179,24,18-25,Male,Full-time,19773,Low Income,568,Poor,Edmonton,Alberta,Edmonton Main Branch
+1180,68,66+,Female,Part-time,62004,Middle Income,594,Fair,Surrey,British Columbia,Surrey Main Branch
+1181,39,36-50,Female,Full-time,58841,Middle Income,638,Fair,Brampton,Ontario,Brampton Main Branch
+1182,45,36-50,Male,Full-time,76355,High Income,656,Fair,Edmonton,Alberta,Edmonton Main Branch
+1183,19,18-25,Male,Retired,20430,Low Income,663,Fair,Regina,Saskatchewan,Regina Main Branch
+1184,59,51-65,Male,Retired,39662,Middle Income,581,Fair,Hamilton,Ontario,Hamilton Main Branch
+1185,62,51-65,Male,Retired,64670,Middle Income,695,Good,Halifax,Nova Scotia,Halifax Main Branch
+1186,70,66+,Female,Student,12000,Low Income,614,Fair,Edmonton,Alberta,Edmonton Main Branch
+1187,23,18-25,Female,Full-time,92272,High Income,799,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1188,45,36-50,Male,Full-time,67073,Middle Income,612,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1189,45,36-50,Male,Part-time,43846,Middle Income,565,Poor,Brampton,Ontario,Brampton Main Branch
+1190,61,51-65,Male,Student,27260,Low Income,654,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1191,61,51-65,Male,Full-time,79946,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch
+1192,37,36-50,Female,Full-time,56431,Middle Income,690,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1193,47,36-50,Male,Full-time,65438,Middle Income,665,Fair,Quebec City,Quebec,Quebec City Main Branch
+1194,28,26-35,Male,Part-time,20461,Low Income,427,Poor,Hamilton,Ontario,Hamilton Main Branch
+1195,45,36-50,Male,Unemployed,21443,Low Income,590,Fair,Ottawa,Ontario,Ottawa Main Branch
+1196,42,36-50,Female,Student,35616,Middle Income,602,Fair,Brampton,Ontario,Brampton Main Branch
+1197,56,51-65,Male,Full-time,39160,Middle Income,595,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1198,50,36-50,Female,Retired,34575,Middle Income,572,Poor,Toronto,Ontario,Toronto Main Branch
+1199,18,18-25,Male,Self-employed,74547,High Income,525,Poor,Surrey,British Columbia,Surrey Main Branch
+1200,44,36-50,Female,Full-time,75120,High Income,686,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1201,69,66+,Female,Full-time,87825,High Income,669,Fair,Toronto,Ontario,Toronto Main Branch
+1202,30,26-35,Male,Full-time,69260,Middle Income,694,Good,Montreal,Quebec,Montreal Main Branch
+1203,58,51-65,Male,Full-time,66313,Middle Income,519,Poor,Montreal,Quebec,Montreal Main Branch
+1204,20,18-25,Female,Retired,62547,Middle Income,647,Fair,Calgary,Alberta,Calgary Main Branch
+1205,56,51-65,Female,Full-time,83916,High Income,625,Fair,Mississauga,Ontario,Mississauga Main Branch
+1206,23,18-25,Male,Unemployed,21773,Low Income,575,Poor,Regina,Saskatchewan,Regina Main Branch
+1207,25,18-25,Female,Full-time,74025,High Income,614,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1208,44,36-50,Female,Full-time,89697,High Income,682,Good,Vancouver,British Columbia,Vancouver Main Branch
+1209,26,26-35,Female,Full-time,60186,Middle Income,601,Fair,Surrey,British Columbia,Surrey Main Branch
+1210,54,51-65,Male,Full-time,57732,Middle Income,540,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1211,50,36-50,Female,Part-time,46953,Middle Income,601,Fair,Toronto,Ontario,Toronto Main Branch
+1212,68,66+,Male,Unemployed,12000,Low Income,540,Poor,Regina,Saskatchewan,Regina Main Branch
+1213,59,51-65,Female,Part-time,39106,Middle Income,581,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1214,61,51-65,Male,Part-time,34201,Middle Income,373,Poor,Surrey,British Columbia,Surrey Main Branch
+1215,41,36-50,Male,Full-time,46696,Middle Income,640,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1216,32,26-35,Male,Full-time,55237,Middle Income,585,Fair,Hamilton,Ontario,Hamilton Main Branch
+1217,49,36-50,Female,Full-time,70038,High Income,536,Poor,Toronto,Ontario,Toronto Main Branch
+1218,49,36-50,Male,Part-time,50408,Middle Income,660,Fair,Montreal,Quebec,Montreal Main Branch
+1219,41,36-50,Male,Full-time,60247,Middle Income,653,Fair,Edmonton,Alberta,Edmonton Main Branch
+1220,58,51-65,Male,Full-time,93841,High Income,631,Fair,Hamilton,Ontario,Hamilton Main Branch
+1221,69,66+,Female,Part-time,38758,Middle Income,511,Poor,Surrey,British Columbia,Surrey Main Branch
+1222,66,66+,Other,Full-time,95587,High Income,666,Fair,Surrey,British Columbia,Surrey Main Branch
+1223,66,66+,Male,Full-time,61119,Middle Income,621,Fair,Brampton,Ontario,Brampton Main Branch
+1224,69,66+,Female,Full-time,71121,High Income,685,Good,Toronto,Ontario,Toronto Main Branch
+1225,29,26-35,Female,Unemployed,20579,Low Income,535,Poor,Calgary,Alberta,Calgary Main Branch
+1226,56,51-65,Female,Self-employed,74615,High Income,707,Good,Calgary,Alberta,Calgary Main Branch
+1227,19,18-25,Male,Part-time,49436,Middle Income,564,Poor,Surrey,British Columbia,Surrey Main Branch
+1228,20,18-25,Male,Full-time,32264,Middle Income,491,Poor,Regina,Saskatchewan,Regina Main Branch
+1229,66,66+,Male,Retired,82336,High Income,565,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1230,54,51-65,Male,Self-employed,105733,High Income,662,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1231,66,66+,Male,Full-time,68876,Middle Income,618,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1232,34,26-35,Female,Unemployed,14134,Low Income,578,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1233,66,66+,Male,Full-time,56404,Middle Income,601,Fair,Calgary,Alberta,Calgary Main Branch
+1234,19,18-25,Male,Part-time,45747,Middle Income,658,Fair,Mississauga,Ontario,Mississauga Main Branch
+1235,19,18-25,Female,Part-time,49940,Middle Income,582,Fair,Montreal,Quebec,Montreal Main Branch
+1236,45,36-50,Male,Full-time,69075,Middle Income,493,Poor,Brampton,Ontario,Brampton Main Branch
+1237,40,36-50,Female,Retired,62605,Middle Income,607,Fair,Surrey,British Columbia,Surrey Main Branch
+1238,54,51-65,Female,Self-employed,52782,Middle Income,472,Poor,Calgary,Alberta,Calgary Main Branch
+1239,49,36-50,Male,Part-time,24994,Low Income,587,Fair,Toronto,Ontario,Toronto Main Branch
+1240,50,36-50,Female,Full-time,104640,High Income,734,Good,Quebec City,Quebec,Quebec City Main Branch
+1241,18,18-25,Female,Full-time,82640,High Income,575,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1242,36,36-50,Female,Full-time,97143,High Income,748,Very Good,Edmonton,Alberta,Edmonton Main Branch
+1243,19,18-25,Female,Self-employed,54382,Middle Income,659,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1244,70,66+,Female,Full-time,55377,Middle Income,684,Good,Halifax,Nova Scotia,Halifax Main Branch
+1245,61,51-65,Female,Part-time,33697,Middle Income,592,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1246,43,36-50,Male,Self-employed,55278,Middle Income,541,Poor,Montreal,Quebec,Montreal Main Branch
+1247,49,36-50,Male,Full-time,84697,High Income,692,Good,Hamilton,Ontario,Hamilton Main Branch
+1248,23,18-25,Male,Self-employed,57466,Middle Income,568,Poor,Regina,Saskatchewan,Regina Main Branch
+1249,49,36-50,Female,Full-time,50910,Middle Income,608,Fair,Quebec City,Quebec,Quebec City Main Branch
+1250,21,18-25,Male,Retired,48130,Middle Income,586,Fair,Regina,Saskatchewan,Regina Main Branch
+1251,28,26-35,Female,Part-time,22520,Low Income,640,Fair,Hamilton,Ontario,Hamilton Main Branch
+1252,34,26-35,Female,Full-time,39610,Middle Income,634,Fair,Mississauga,Ontario,Mississauga Main Branch
+1253,55,51-65,Female,Full-time,74399,High Income,623,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1254,41,36-50,Other,Full-time,40514,Middle Income,461,Poor,Toronto,Ontario,Toronto Main Branch
+1255,22,18-25,Female,Self-employed,103258,High Income,622,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1256,69,66+,Female,Self-employed,38140,Middle Income,631,Fair,Brampton,Ontario,Brampton Main Branch
+1257,51,51-65,Male,Part-time,12000,Low Income,572,Poor,Edmonton,Alberta,Edmonton Main Branch
+1258,23,18-25,Female,Full-time,66712,Middle Income,522,Poor,Brampton,Ontario,Brampton Main Branch
+1259,39,36-50,Male,Full-time,74603,High Income,512,Poor,Surrey,British Columbia,Surrey Main Branch
+1260,28,26-35,Male,Full-time,80847,High Income,649,Fair,Quebec City,Quebec,Quebec City Main Branch
+1261,65,51-65,Female,Part-time,40064,Middle Income,519,Poor,Toronto,Ontario,Toronto Main Branch
+1262,33,26-35,Female,Unemployed,12000,Low Income,491,Poor,Quebec City,Quebec,Quebec City Main Branch
+1263,50,36-50,Male,Full-time,84835,High Income,685,Good,Surrey,British Columbia,Surrey Main Branch
+1264,26,26-35,Female,Full-time,89282,High Income,725,Good,Ottawa,Ontario,Ottawa Main Branch
+1265,23,18-25,Female,Part-time,23531,Low Income,519,Poor,Calgary,Alberta,Calgary Main Branch
+1266,33,26-35,Female,Student,20552,Low Income,561,Poor,Hamilton,Ontario,Hamilton Main Branch
+1267,46,36-50,Female,Self-employed,71767,High Income,621,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1268,20,18-25,Female,Unemployed,19543,Low Income,552,Poor,Quebec City,Quebec,Quebec City Main Branch
+1269,37,36-50,Other,Full-time,68311,Middle Income,624,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1270,53,51-65,Female,Full-time,70778,High Income,674,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1271,36,36-50,Female,Unemployed,22493,Low Income,523,Poor,Surrey,British Columbia,Surrey Main Branch
+1272,43,36-50,Female,Self-employed,46584,Middle Income,496,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1273,20,18-25,Female,Full-time,85273,High Income,752,Very Good,Ottawa,Ontario,Ottawa Main Branch
+1274,36,36-50,Male,Self-employed,114234,High Income,747,Very Good,Hamilton,Ontario,Hamilton Main Branch
+1275,37,36-50,Male,Student,35073,Middle Income,510,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1276,49,36-50,Male,Part-time,12280,Low Income,563,Poor,Surrey,British Columbia,Surrey Main Branch
+1277,24,18-25,Male,Self-employed,74513,High Income,695,Good,Quebec City,Quebec,Quebec City Main Branch
+1278,69,66+,Female,Full-time,36628,Middle Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch
+1279,58,51-65,Female,Part-time,12000,Low Income,584,Fair,Ottawa,Ontario,Ottawa Main Branch
+1280,50,36-50,Female,Part-time,39729,Middle Income,576,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1281,57,51-65,Male,Student,18807,Low Income,674,Good,Toronto,Ontario,Toronto Main Branch
+1282,56,51-65,Female,Student,24399,Low Income,583,Fair,Brampton,Ontario,Brampton Main Branch
+1283,35,26-35,Female,Student,25889,Low Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch
+1284,57,51-65,Female,Full-time,94462,High Income,709,Good,Halifax,Nova Scotia,Halifax Main Branch
+1285,18,18-25,Female,Self-employed,81618,High Income,644,Fair,Mississauga,Ontario,Mississauga Main Branch
+1286,28,26-35,Female,Self-employed,167701,Very High Income,763,Very Good,Regina,Saskatchewan,Regina Main Branch
+1287,45,36-50,Male,Self-employed,89192,High Income,660,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1288,42,36-50,Female,Self-employed,135274,Very High Income,734,Good,Brampton,Ontario,Brampton Main Branch
+1289,67,66+,Male,Student,12000,Low Income,490,Poor,Regina,Saskatchewan,Regina Main Branch
+1290,40,36-50,Male,Full-time,96295,High Income,561,Poor,Regina,Saskatchewan,Regina Main Branch
+1291,48,36-50,Female,Part-time,35831,Middle Income,676,Good,Hamilton,Ontario,Hamilton Main Branch
+1292,47,36-50,Male,Full-time,36930,Middle Income,600,Fair,Hamilton,Ontario,Hamilton Main Branch
+1293,59,51-65,Female,Full-time,79570,High Income,685,Good,Hamilton,Ontario,Hamilton Main Branch
+1294,52,51-65,Male,Part-time,34365,Middle Income,466,Poor,Hamilton,Ontario,Hamilton Main Branch
+1295,24,18-25,Female,Student,26640,Low Income,641,Fair,Mississauga,Ontario,Mississauga Main Branch
+1296,33,26-35,Male,Full-time,90199,High Income,614,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1297,43,36-50,Other,Full-time,45195,Middle Income,541,Poor,Quebec City,Quebec,Quebec City Main Branch
+1298,65,51-65,Female,Self-employed,110448,High Income,668,Fair,Surrey,British Columbia,Surrey Main Branch
+1299,69,66+,Male,Full-time,72117,High Income,562,Poor,Edmonton,Alberta,Edmonton Main Branch
+1300,66,66+,Female,Full-time,96351,High Income,655,Fair,Quebec City,Quebec,Quebec City Main Branch
+1301,19,18-25,Other,Full-time,68307,Middle Income,613,Fair,Ottawa,Ontario,Ottawa Main Branch
+1302,18,18-25,Male,Full-time,63533,Middle Income,685,Good,Hamilton,Ontario,Hamilton Main Branch
+1303,65,51-65,Male,Full-time,72487,High Income,725,Good,Montreal,Quebec,Montreal Main Branch
+1304,29,26-35,Female,Full-time,73833,High Income,724,Good,Brampton,Ontario,Brampton Main Branch
+1305,22,18-25,Female,Full-time,60070,Middle Income,464,Poor,Brampton,Ontario,Brampton Main Branch
+1306,54,51-65,Female,Unemployed,14526,Low Income,496,Poor,Ottawa,Ontario,Ottawa Main Branch
+1307,49,36-50,Female,Part-time,23277,Low Income,420,Poor,Surrey,British Columbia,Surrey Main Branch
+1308,26,26-35,Male,Self-employed,66961,Middle Income,542,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1309,58,51-65,Male,Full-time,84174,High Income,598,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1310,52,51-65,Female,Full-time,69528,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch
+1311,36,36-50,Male,Self-employed,110272,High Income,638,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1312,65,51-65,Male,Full-time,68662,Middle Income,590,Fair,Surrey,British Columbia,Surrey Main Branch
+1313,33,26-35,Female,Part-time,20822,Low Income,576,Poor,Ottawa,Ontario,Ottawa Main Branch
+1314,20,18-25,Female,Part-time,45167,Middle Income,483,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1315,37,36-50,Female,Part-time,29917,Low Income,521,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1316,41,36-50,Female,Full-time,67799,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1317,50,36-50,Female,Full-time,94276,High Income,639,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1318,41,36-50,Female,Part-time,24070,Low Income,573,Poor,Montreal,Quebec,Montreal Main Branch
+1319,69,66+,Female,Full-time,74965,High Income,727,Good,Quebec City,Quebec,Quebec City Main Branch
+1320,28,26-35,Male,Self-employed,78784,High Income,693,Good,Mississauga,Ontario,Mississauga Main Branch
+1321,66,66+,Male,Self-employed,101028,High Income,611,Fair,Ottawa,Ontario,Ottawa Main Branch
+1322,25,18-25,Female,Retired,58827,Middle Income,593,Fair,Calgary,Alberta,Calgary Main Branch
+1323,53,51-65,Female,Full-time,76749,High Income,610,Fair,Toronto,Ontario,Toronto Main Branch
+1324,55,51-65,Male,Student,19117,Low Income,529,Poor,Quebec City,Quebec,Quebec City Main Branch
+1325,57,51-65,Male,Part-time,43680,Middle Income,610,Fair,Toronto,Ontario,Toronto Main Branch
+1326,37,36-50,Male,Full-time,96042,High Income,534,Poor,Surrey,British Columbia,Surrey Main Branch
+1327,52,51-65,Male,Full-time,71509,High Income,683,Good,Regina,Saskatchewan,Regina Main Branch
+1328,65,51-65,Female,Self-employed,71982,High Income,736,Good,Ottawa,Ontario,Ottawa Main Branch
+1329,42,36-50,Male,Full-time,78987,High Income,617,Fair,Regina,Saskatchewan,Regina Main Branch
+1330,52,51-65,Female,Full-time,72697,High Income,608,Fair,Ottawa,Ontario,Ottawa Main Branch
+1331,42,36-50,Female,Full-time,47921,Middle Income,607,Fair,Toronto,Ontario,Toronto Main Branch
+1332,46,36-50,Female,Student,23915,Low Income,634,Fair,Edmonton,Alberta,Edmonton Main Branch
+1333,35,26-35,Female,Self-employed,39597,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch
+1334,63,51-65,Male,Self-employed,91234,High Income,710,Good,Ottawa,Ontario,Ottawa Main Branch
+1335,35,26-35,Female,Full-time,57651,Middle Income,640,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1336,19,18-25,Male,Full-time,72664,High Income,780,Very Good,Edmonton,Alberta,Edmonton Main Branch
+1337,52,51-65,Male,Part-time,42687,Middle Income,569,Poor,Regina,Saskatchewan,Regina Main Branch
+1338,33,26-35,Female,Part-time,67447,Middle Income,492,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1339,58,51-65,Male,Full-time,85369,High Income,549,Poor,Hamilton,Ontario,Hamilton Main Branch
+1340,53,51-65,Male,Self-employed,120944,Very High Income,685,Good,Halifax,Nova Scotia,Halifax Main Branch
+1341,50,36-50,Female,Retired,74076,High Income,695,Good,Calgary,Alberta,Calgary Main Branch
+1342,21,18-25,Male,Self-employed,94678,High Income,611,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1343,50,36-50,Female,Self-employed,88571,High Income,631,Fair,Montreal,Quebec,Montreal Main Branch
+1344,31,26-35,Male,Retired,29999,Low Income,620,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1345,38,36-50,Female,Full-time,69901,Middle Income,561,Poor,Mississauga,Ontario,Mississauga Main Branch
+1346,65,51-65,Female,Part-time,29323,Low Income,535,Poor,Hamilton,Ontario,Hamilton Main Branch
+1347,37,36-50,Female,Retired,39984,Middle Income,512,Poor,Brampton,Ontario,Brampton Main Branch
+1348,25,18-25,Female,Full-time,105672,High Income,743,Very Good,Toronto,Ontario,Toronto Main Branch
+1349,24,18-25,Male,Self-employed,83439,High Income,740,Very Good,Halifax,Nova Scotia,Halifax Main Branch
+1350,20,18-25,Female,Part-time,27489,Low Income,470,Poor,Regina,Saskatchewan,Regina Main Branch
+1351,34,26-35,Male,Part-time,54494,Middle Income,596,Fair,Calgary,Alberta,Calgary Main Branch
+1352,50,36-50,Female,Self-employed,108658,High Income,761,Very Good,Toronto,Ontario,Toronto Main Branch
+1353,65,51-65,Male,Unemployed,25054,Low Income,595,Fair,Regina,Saskatchewan,Regina Main Branch
+1354,29,26-35,Female,Student,12000,Low Income,522,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1355,68,66+,Male,Full-time,107076,High Income,567,Poor,Montreal,Quebec,Montreal Main Branch
+1356,39,36-50,Female,Student,17532,Low Income,635,Fair,Toronto,Ontario,Toronto Main Branch
+1357,39,36-50,Female,Full-time,86003,High Income,666,Fair,Hamilton,Ontario,Hamilton Main Branch
+1358,63,51-65,Female,Full-time,117428,High Income,585,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1359,47,36-50,Male,Full-time,110796,High Income,750,Very Good,Quebec City,Quebec,Quebec City Main Branch
+1360,55,51-65,Female,Part-time,26269,Low Income,467,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1361,55,51-65,Male,Full-time,45999,Middle Income,580,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1362,62,51-65,Male,Unemployed,28012,Low Income,556,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1363,68,66+,Male,Self-employed,84262,High Income,746,Very Good,Edmonton,Alberta,Edmonton Main Branch
+1364,25,18-25,Male,Part-time,31989,Middle Income,561,Poor,Toronto,Ontario,Toronto Main Branch
+1365,44,36-50,Female,Full-time,83182,High Income,622,Fair,Surrey,British Columbia,Surrey Main Branch
+1366,44,36-50,Female,Unemployed,16860,Low Income,471,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1367,51,51-65,Male,Unemployed,22909,Low Income,525,Poor,Montreal,Quebec,Montreal Main Branch
+1368,38,36-50,Male,Student,22536,Low Income,513,Poor,Ottawa,Ontario,Ottawa Main Branch
+1369,47,36-50,Male,Full-time,85003,High Income,592,Fair,Quebec City,Quebec,Quebec City Main Branch
+1370,50,36-50,Male,Full-time,55898,Middle Income,607,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1371,45,36-50,Female,Full-time,97640,High Income,498,Poor,Calgary,Alberta,Calgary Main Branch
+1372,64,51-65,Male,Full-time,84557,High Income,543,Poor,Regina,Saskatchewan,Regina Main Branch
+1373,50,36-50,Male,Full-time,83633,High Income,633,Fair,Surrey,British Columbia,Surrey Main Branch
+1374,22,18-25,Male,Unemployed,12000,Low Income,562,Poor,Hamilton,Ontario,Hamilton Main Branch
+1375,65,51-65,Female,Full-time,102593,High Income,647,Fair,Hamilton,Ontario,Hamilton Main Branch
+1376,36,36-50,Female,Full-time,71753,High Income,623,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1377,21,18-25,Female,Full-time,85105,High Income,615,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1378,52,51-65,Female,Full-time,66189,Middle Income,618,Fair,Edmonton,Alberta,Edmonton Main Branch
+1379,66,66+,Female,Full-time,76696,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch
+1380,34,26-35,Male,Full-time,77348,High Income,660,Fair,Ottawa,Ontario,Ottawa Main Branch
+1381,61,51-65,Female,Full-time,21241,Low Income,520,Poor,Calgary,Alberta,Calgary Main Branch
+1382,45,36-50,Female,Student,26660,Low Income,631,Fair,Ottawa,Ontario,Ottawa Main Branch
+1383,47,36-50,Female,Retired,75480,High Income,640,Fair,Brampton,Ontario,Brampton Main Branch
+1384,46,36-50,Female,Full-time,81716,High Income,718,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1385,63,51-65,Female,Full-time,54761,Middle Income,698,Good,Vancouver,British Columbia,Vancouver Main Branch
+1386,70,66+,Female,Student,27200,Low Income,478,Poor,Edmonton,Alberta,Edmonton Main Branch
+1387,23,18-25,Other,Full-time,91071,High Income,593,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1388,52,51-65,Female,Full-time,81224,High Income,690,Good,Mississauga,Ontario,Mississauga Main Branch
+1389,58,51-65,Female,Student,21407,Low Income,457,Poor,Toronto,Ontario,Toronto Main Branch
+1390,54,51-65,Female,Full-time,67641,Middle Income,713,Good,Toronto,Ontario,Toronto Main Branch
+1391,41,36-50,Male,Part-time,35044,Middle Income,559,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1392,46,36-50,Female,Part-time,46373,Middle Income,632,Fair,Mississauga,Ontario,Mississauga Main Branch
+1393,66,66+,Male,Full-time,46672,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1394,63,51-65,Female,Full-time,65306,Middle Income,527,Poor,Ottawa,Ontario,Ottawa Main Branch
+1395,70,66+,Other,Student,34765,Middle Income,650,Fair,Mississauga,Ontario,Mississauga Main Branch
+1396,48,36-50,Female,Full-time,101416,High Income,840,Excellent,Edmonton,Alberta,Edmonton Main Branch
+1397,52,51-65,Male,Full-time,45393,Middle Income,560,Poor,Calgary,Alberta,Calgary Main Branch
+1398,50,36-50,Male,Self-employed,46058,Middle Income,574,Poor,Mississauga,Ontario,Mississauga Main Branch
+1399,69,66+,Male,Part-time,34753,Middle Income,409,Poor,Edmonton,Alberta,Edmonton Main Branch
+1400,38,36-50,Female,Full-time,88067,High Income,733,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1401,49,36-50,Male,Unemployed,12000,Low Income,613,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1402,40,36-50,Male,Full-time,71013,High Income,512,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1403,50,36-50,Male,Student,18207,Low Income,427,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1404,20,18-25,Female,Student,32608,Middle Income,452,Poor,Surrey,British Columbia,Surrey Main Branch
+1405,35,26-35,Female,Part-time,17877,Low Income,603,Fair,Hamilton,Ontario,Hamilton Main Branch
+1406,42,36-50,Male,Part-time,39110,Middle Income,635,Fair,Hamilton,Ontario,Hamilton Main Branch
+1407,59,51-65,Male,Retired,40096,Middle Income,528,Poor,Quebec City,Quebec,Quebec City Main Branch
+1408,48,36-50,Female,Full-time,98456,High Income,690,Good,Halifax,Nova Scotia,Halifax Main Branch
+1409,20,18-25,Female,Self-employed,97930,High Income,667,Fair,Brampton,Ontario,Brampton Main Branch
+1410,57,51-65,Female,Full-time,61455,Middle Income,589,Fair,Ottawa,Ontario,Ottawa Main Branch
+1411,63,51-65,Male,Full-time,87361,High Income,707,Good,Calgary,Alberta,Calgary Main Branch
+1412,41,36-50,Female,Full-time,65001,Middle Income,539,Poor,Surrey,British Columbia,Surrey Main Branch
+1413,67,66+,Female,Retired,60990,Middle Income,687,Good,Surrey,British Columbia,Surrey Main Branch
+1414,49,36-50,Female,Retired,42444,Middle Income,543,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1415,64,51-65,Female,Full-time,90984,High Income,764,Very Good,Mississauga,Ontario,Mississauga Main Branch
+1416,39,36-50,Male,Full-time,79849,High Income,570,Poor,Ottawa,Ontario,Ottawa Main Branch
+1417,40,36-50,Male,Self-employed,177815,Very High Income,730,Good,Halifax,Nova Scotia,Halifax Main Branch
+1418,19,18-25,Female,Full-time,71048,High Income,629,Fair,Toronto,Ontario,Toronto Main Branch
+1419,44,36-50,Female,Full-time,78892,High Income,638,Fair,Surrey,British Columbia,Surrey Main Branch
+1420,59,51-65,Female,Self-employed,65617,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch
+1421,19,18-25,Female,Part-time,38032,Middle Income,502,Poor,Toronto,Ontario,Toronto Main Branch
+1422,43,36-50,Female,Retired,12000,Low Income,551,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1423,34,26-35,Female,Full-time,80381,High Income,645,Fair,Brampton,Ontario,Brampton Main Branch
+1424,57,51-65,Male,Full-time,96172,High Income,621,Fair,Mississauga,Ontario,Mississauga Main Branch
+1425,50,36-50,Female,Part-time,42760,Middle Income,617,Fair,Mississauga,Ontario,Mississauga Main Branch
+1426,26,26-35,Male,Student,12000,Low Income,466,Poor,Calgary,Alberta,Calgary Main Branch
+1427,60,51-65,Male,Part-time,28379,Low Income,552,Poor,Surrey,British Columbia,Surrey Main Branch
+1428,65,51-65,Other,Part-time,12000,Low Income,505,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1429,56,51-65,Male,Full-time,89621,High Income,626,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1430,46,36-50,Male,Student,13948,Low Income,650,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1431,59,51-65,Male,Full-time,71483,High Income,721,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1432,43,36-50,Female,Full-time,69233,Middle Income,705,Good,Montreal,Quebec,Montreal Main Branch
+1433,52,51-65,Male,Self-employed,124632,Very High Income,659,Fair,Hamilton,Ontario,Hamilton Main Branch
+1434,67,66+,Male,Full-time,73535,High Income,687,Good,Edmonton,Alberta,Edmonton Main Branch
+1435,42,36-50,Male,Full-time,86560,High Income,651,Fair,Toronto,Ontario,Toronto Main Branch
+1436,41,36-50,Male,Student,26372,Low Income,574,Poor,Montreal,Quebec,Montreal Main Branch
+1437,30,26-35,Male,Full-time,96469,High Income,650,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1438,24,18-25,Male,Self-employed,72826,High Income,741,Very Good,Brampton,Ontario,Brampton Main Branch
+1439,53,51-65,Female,Full-time,105653,High Income,755,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1440,62,51-65,Male,Student,12000,Low Income,602,Fair,Regina,Saskatchewan,Regina Main Branch
+1441,37,36-50,Male,Full-time,87435,High Income,633,Fair,Hamilton,Ontario,Hamilton Main Branch
+1442,18,18-25,Male,Full-time,56401,Middle Income,610,Fair,Mississauga,Ontario,Mississauga Main Branch
+1443,25,18-25,Male,Retired,38609,Middle Income,620,Fair,Toronto,Ontario,Toronto Main Branch
+1444,63,51-65,Female,Student,26555,Low Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch
+1445,33,26-35,Female,Part-time,44737,Middle Income,654,Fair,Surrey,British Columbia,Surrey Main Branch
+1446,31,26-35,Male,Full-time,82916,High Income,579,Poor,Brampton,Ontario,Brampton Main Branch
+1447,29,26-35,Male,Unemployed,12000,Low Income,579,Poor,Ottawa,Ontario,Ottawa Main Branch
+1448,68,66+,Male,Part-time,55388,Middle Income,457,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1449,40,36-50,Female,Self-employed,52981,Middle Income,567,Poor,Montreal,Quebec,Montreal Main Branch
+1450,32,26-35,Female,Self-employed,56981,Middle Income,743,Very Good,Surrey,British Columbia,Surrey Main Branch
+1451,45,36-50,Female,Full-time,83482,High Income,707,Good,Toronto,Ontario,Toronto Main Branch
+1452,51,51-65,Male,Full-time,66839,Middle Income,719,Good,Surrey,British Columbia,Surrey Main Branch
+1453,19,18-25,Female,Self-employed,89248,High Income,603,Fair,Hamilton,Ontario,Hamilton Main Branch
+1454,49,36-50,Male,Full-time,33181,Middle Income,586,Fair,Calgary,Alberta,Calgary Main Branch
+1455,40,36-50,Male,Full-time,77118,High Income,715,Good,Halifax,Nova Scotia,Halifax Main Branch
+1456,39,36-50,Male,Retired,49267,Middle Income,640,Fair,Hamilton,Ontario,Hamilton Main Branch
+1457,68,66+,Male,Part-time,31882,Middle Income,611,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1458,42,36-50,Female,Self-employed,17778,Low Income,667,Fair,Edmonton,Alberta,Edmonton Main Branch
+1459,39,36-50,Female,Part-time,35446,Middle Income,514,Poor,Ottawa,Ontario,Ottawa Main Branch
+1460,39,36-50,Male,Part-time,37552,Middle Income,573,Poor,Regina,Saskatchewan,Regina Main Branch
+1461,66,66+,Female,Full-time,65390,Middle Income,504,Poor,Quebec City,Quebec,Quebec City Main Branch
+1462,69,66+,Other,Full-time,38949,Middle Income,515,Poor,Hamilton,Ontario,Hamilton Main Branch
+1463,59,51-65,Female,Full-time,100705,High Income,730,Good,Calgary,Alberta,Calgary Main Branch
+1464,23,18-25,Female,Full-time,60500,Middle Income,552,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1465,32,26-35,Female,Student,20222,Low Income,612,Fair,Edmonton,Alberta,Edmonton Main Branch
+1466,60,51-65,Other,Full-time,28629,Low Income,682,Good,Hamilton,Ontario,Hamilton Main Branch
+1467,54,51-65,Female,Full-time,100707,High Income,649,Fair,Mississauga,Ontario,Mississauga Main Branch
+1468,50,36-50,Male,Full-time,63602,Middle Income,650,Fair,Calgary,Alberta,Calgary Main Branch
+1469,25,18-25,Male,Full-time,73772,High Income,676,Good,Regina,Saskatchewan,Regina Main Branch
+1470,70,66+,Female,Full-time,92173,High Income,571,Poor,Ottawa,Ontario,Ottawa Main Branch
+1471,61,51-65,Male,Full-time,59827,Middle Income,571,Poor,Brampton,Ontario,Brampton Main Branch
+1472,61,51-65,Female,Full-time,89338,High Income,581,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1473,22,18-25,Male,Full-time,34896,Middle Income,546,Poor,Edmonton,Alberta,Edmonton Main Branch
+1474,56,51-65,Male,Full-time,81918,High Income,684,Good,Mississauga,Ontario,Mississauga Main Branch
+1475,21,18-25,Male,Self-employed,127167,Very High Income,653,Fair,Quebec City,Quebec,Quebec City Main Branch
+1476,23,18-25,Male,Full-time,61552,Middle Income,611,Fair,Brampton,Ontario,Brampton Main Branch
+1477,62,51-65,Female,Full-time,92140,High Income,582,Fair,Toronto,Ontario,Toronto Main Branch
+1478,49,36-50,Female,Part-time,60007,Middle Income,691,Good,Regina,Saskatchewan,Regina Main Branch
+1479,69,66+,Female,Full-time,67413,Middle Income,585,Fair,Calgary,Alberta,Calgary Main Branch
+1480,47,36-50,Female,Unemployed,15637,Low Income,657,Fair,Montreal,Quebec,Montreal Main Branch
+1481,64,51-65,Male,Part-time,27220,Low Income,576,Poor,Mississauga,Ontario,Mississauga Main Branch
+1482,52,51-65,Female,Full-time,62825,Middle Income,523,Poor,Surrey,British Columbia,Surrey Main Branch
+1483,57,51-65,Female,Part-time,28216,Low Income,562,Poor,Toronto,Ontario,Toronto Main Branch
+1484,69,66+,Female,Full-time,55816,Middle Income,537,Poor,Toronto,Ontario,Toronto Main Branch
+1485,33,26-35,Male,Part-time,52386,Middle Income,641,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1486,30,26-35,Female,Full-time,57781,Middle Income,592,Fair,Quebec City,Quebec,Quebec City Main Branch
+1487,67,66+,Female,Unemployed,19810,Low Income,574,Poor,Edmonton,Alberta,Edmonton Main Branch
+1488,59,51-65,Other,Full-time,72688,High Income,603,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1489,47,36-50,Female,Part-time,55977,Middle Income,571,Poor,Quebec City,Quebec,Quebec City Main Branch
+1490,36,36-50,Male,Part-time,31962,Middle Income,515,Poor,Calgary,Alberta,Calgary Main Branch
+1491,34,26-35,Female,Full-time,78861,High Income,688,Good,Quebec City,Quebec,Quebec City Main Branch
+1492,36,36-50,Female,Full-time,86239,High Income,632,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1493,45,36-50,Male,Self-employed,124692,Very High Income,669,Fair,Mississauga,Ontario,Mississauga Main Branch
+1494,43,36-50,Female,Student,17858,Low Income,548,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1495,54,51-65,Female,Full-time,60878,Middle Income,568,Poor,Montreal,Quebec,Montreal Main Branch
+1496,43,36-50,Male,Student,13506,Low Income,535,Poor,Mississauga,Ontario,Mississauga Main Branch
+1497,70,66+,Male,Retired,79544,High Income,648,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1498,40,36-50,Male,Student,33076,Middle Income,512,Poor,Quebec City,Quebec,Quebec City Main Branch
+1499,26,26-35,Male,Full-time,71240,High Income,567,Poor,Hamilton,Ontario,Hamilton Main Branch
+1500,29,26-35,Male,Self-employed,137943,Very High Income,795,Very Good,Toronto,Ontario,Toronto Main Branch
+1501,70,66+,Female,Full-time,70166,High Income,600,Fair,Ottawa,Ontario,Ottawa Main Branch
+1502,18,18-25,Male,Retired,56866,Middle Income,572,Poor,Toronto,Ontario,Toronto Main Branch
+1503,18,18-25,Male,Part-time,38122,Middle Income,498,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1504,64,51-65,Female,Full-time,79160,High Income,690,Good,Toronto,Ontario,Toronto Main Branch
+1505,51,51-65,Female,Self-employed,88753,High Income,577,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1506,49,36-50,Male,Full-time,64350,Middle Income,616,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1507,65,51-65,Male,Retired,62387,Middle Income,503,Poor,Montreal,Quebec,Montreal Main Branch
+1508,42,36-50,Male,Retired,56739,Middle Income,661,Fair,Montreal,Quebec,Montreal Main Branch
+1509,57,51-65,Female,Self-employed,110831,High Income,749,Very Good,Regina,Saskatchewan,Regina Main Branch
+1510,62,51-65,Male,Full-time,77764,High Income,664,Fair,Surrey,British Columbia,Surrey Main Branch
+1511,70,66+,Female,Self-employed,52803,Middle Income,503,Poor,Quebec City,Quebec,Quebec City Main Branch
+1512,18,18-25,Female,Full-time,102769,High Income,717,Good,Vancouver,British Columbia,Vancouver Main Branch
+1513,33,26-35,Male,Full-time,67274,Middle Income,566,Poor,Brampton,Ontario,Brampton Main Branch
+1514,56,51-65,Female,Student,24913,Low Income,493,Poor,Regina,Saskatchewan,Regina Main Branch
+1515,22,18-25,Other,Full-time,83437,High Income,615,Fair,Montreal,Quebec,Montreal Main Branch
+1516,39,36-50,Male,Full-time,78434,High Income,607,Fair,Quebec City,Quebec,Quebec City Main Branch
+1517,46,36-50,Female,Retired,59731,Middle Income,578,Poor,Brampton,Ontario,Brampton Main Branch
+1518,20,18-25,Female,Full-time,91321,High Income,732,Good,Montreal,Quebec,Montreal Main Branch
+1519,29,26-35,Female,Full-time,67953,Middle Income,752,Very Good,Surrey,British Columbia,Surrey Main Branch
+1520,43,36-50,Female,Unemployed,29378,Low Income,486,Poor,Toronto,Ontario,Toronto Main Branch
+1521,33,26-35,Female,Full-time,67196,Middle Income,575,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1522,68,66+,Female,Self-employed,90102,High Income,657,Fair,Brampton,Ontario,Brampton Main Branch
+1523,54,51-65,Female,Retired,40185,Middle Income,562,Poor,Quebec City,Quebec,Quebec City Main Branch
+1524,39,36-50,Female,Unemployed,13286,Low Income,581,Fair,Calgary,Alberta,Calgary Main Branch
+1525,46,36-50,Female,Self-employed,111326,High Income,733,Good,Vancouver,British Columbia,Vancouver Main Branch
+1526,31,26-35,Female,Full-time,128194,Very High Income,742,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1527,45,36-50,Male,Full-time,65488,Middle Income,658,Fair,Regina,Saskatchewan,Regina Main Branch
+1528,22,18-25,Male,Student,31723,Middle Income,685,Good,Brampton,Ontario,Brampton Main Branch
+1529,64,51-65,Male,Unemployed,15719,Low Income,455,Poor,Surrey,British Columbia,Surrey Main Branch
+1530,66,66+,Male,Part-time,37874,Middle Income,681,Good,Hamilton,Ontario,Hamilton Main Branch
+1531,47,36-50,Male,Full-time,103637,High Income,637,Fair,Brampton,Ontario,Brampton Main Branch
+1532,63,51-65,Female,Full-time,52676,Middle Income,654,Fair,Quebec City,Quebec,Quebec City Main Branch
+1533,69,66+,Male,Full-time,47913,Middle Income,530,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1534,22,18-25,Female,Self-employed,77384,High Income,573,Poor,Montreal,Quebec,Montreal Main Branch
+1535,29,26-35,Male,Full-time,83946,High Income,683,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1536,33,26-35,Female,Unemployed,21246,Low Income,440,Poor,Edmonton,Alberta,Edmonton Main Branch
+1537,43,36-50,Female,Self-employed,90820,High Income,713,Good,Montreal,Quebec,Montreal Main Branch
+1538,43,36-50,Male,Full-time,72614,High Income,708,Good,Edmonton,Alberta,Edmonton Main Branch
+1539,65,51-65,Female,Part-time,47438,Middle Income,608,Fair,Regina,Saskatchewan,Regina Main Branch
+1540,38,36-50,Male,Full-time,19554,Low Income,572,Poor,Calgary,Alberta,Calgary Main Branch
+1541,56,51-65,Female,Part-time,28990,Low Income,520,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1542,53,51-65,Male,Self-employed,77192,High Income,676,Good,Mississauga,Ontario,Mississauga Main Branch
+1543,50,36-50,Female,Student,27636,Low Income,595,Fair,Mississauga,Ontario,Mississauga Main Branch
+1544,47,36-50,Male,Student,33918,Middle Income,520,Poor,Brampton,Ontario,Brampton Main Branch
+1545,54,51-65,Female,Full-time,56068,Middle Income,581,Fair,Ottawa,Ontario,Ottawa Main Branch
+1546,40,36-50,Female,Full-time,98227,High Income,647,Fair,Regina,Saskatchewan,Regina Main Branch
+1547,27,26-35,Male,Self-employed,66423,Middle Income,594,Fair,Quebec City,Quebec,Quebec City Main Branch
+1548,22,18-25,Male,Full-time,69662,Middle Income,534,Poor,Regina,Saskatchewan,Regina Main Branch
+1549,53,51-65,Male,Full-time,82466,High Income,684,Good,Hamilton,Ontario,Hamilton Main Branch
+1550,51,51-65,Male,Full-time,68342,Middle Income,606,Fair,Surrey,British Columbia,Surrey Main Branch
+1551,69,66+,Female,Self-employed,113304,High Income,676,Good,Hamilton,Ontario,Hamilton Main Branch
+1552,48,36-50,Male,Full-time,64717,Middle Income,580,Fair,Edmonton,Alberta,Edmonton Main Branch
+1553,27,26-35,Male,Self-employed,68314,Middle Income,652,Fair,Quebec City,Quebec,Quebec City Main Branch
+1554,36,36-50,Male,Retired,61780,Middle Income,626,Fair,Quebec City,Quebec,Quebec City Main Branch
+1555,49,36-50,Female,Full-time,58264,Middle Income,688,Good,Brampton,Ontario,Brampton Main Branch
+1556,18,18-25,Male,Full-time,76481,High Income,662,Fair,Montreal,Quebec,Montreal Main Branch
+1557,22,18-25,Male,Full-time,42111,Middle Income,577,Poor,Regina,Saskatchewan,Regina Main Branch
+1558,62,51-65,Male,Student,36557,Middle Income,535,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1559,21,18-25,Male,Full-time,93718,High Income,708,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1560,33,26-35,Female,Full-time,121502,Very High Income,667,Fair,Surrey,British Columbia,Surrey Main Branch
+1561,41,36-50,Male,Full-time,96091,High Income,644,Fair,Hamilton,Ontario,Hamilton Main Branch
+1562,33,26-35,Male,Self-employed,46110,Middle Income,584,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1563,19,18-25,Female,Full-time,84036,High Income,614,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1564,66,66+,Female,Self-employed,52460,Middle Income,592,Fair,Surrey,British Columbia,Surrey Main Branch
+1565,45,36-50,Male,Unemployed,29046,Low Income,700,Good,Hamilton,Ontario,Hamilton Main Branch
+1566,49,36-50,Female,Full-time,52179,Middle Income,534,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1567,44,36-50,Female,Student,12807,Low Income,502,Poor,Calgary,Alberta,Calgary Main Branch
+1568,37,36-50,Male,Full-time,43023,Middle Income,681,Good,Edmonton,Alberta,Edmonton Main Branch
+1569,41,36-50,Female,Unemployed,14581,Low Income,533,Poor,Toronto,Ontario,Toronto Main Branch
+1570,29,26-35,Female,Self-employed,59316,Middle Income,581,Fair,Surrey,British Columbia,Surrey Main Branch
+1571,67,66+,Male,Unemployed,12000,Low Income,621,Fair,Edmonton,Alberta,Edmonton Main Branch
+1572,52,51-65,Male,Full-time,107817,High Income,577,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1573,50,36-50,Male,Full-time,81538,High Income,691,Good,Quebec City,Quebec,Quebec City Main Branch
+1574,50,36-50,Female,Full-time,79420,High Income,638,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1575,68,66+,Other,Full-time,100605,High Income,690,Good,Ottawa,Ontario,Ottawa Main Branch
+1576,60,51-65,Female,Full-time,76613,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch
+1577,54,51-65,Male,Full-time,58524,Middle Income,569,Poor,Brampton,Ontario,Brampton Main Branch
+1578,29,26-35,Female,Full-time,41396,Middle Income,657,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1579,20,18-25,Female,Full-time,57509,Middle Income,573,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1580,18,18-25,Male,Student,34043,Middle Income,607,Fair,Quebec City,Quebec,Quebec City Main Branch
+1581,50,36-50,Male,Full-time,49404,Middle Income,679,Good,Quebec City,Quebec,Quebec City Main Branch
+1582,57,51-65,Female,Full-time,78356,High Income,723,Good,Surrey,British Columbia,Surrey Main Branch
+1583,27,26-35,Male,Full-time,90611,High Income,631,Fair,Brampton,Ontario,Brampton Main Branch
+1584,60,51-65,Female,Full-time,77136,High Income,662,Fair,Brampton,Ontario,Brampton Main Branch
+1585,61,51-65,Male,Retired,51985,Middle Income,578,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1586,46,36-50,Male,Full-time,83801,High Income,803,Excellent,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1587,30,26-35,Male,Self-employed,91378,High Income,700,Good,Regina,Saskatchewan,Regina Main Branch
+1588,29,26-35,Male,Retired,70136,High Income,629,Fair,Quebec City,Quebec,Quebec City Main Branch
+1589,48,36-50,Female,Student,13678,Low Income,576,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1590,63,51-65,Male,Self-employed,87213,High Income,671,Good,Toronto,Ontario,Toronto Main Branch
+1591,19,18-25,Female,Student,12000,Low Income,582,Fair,Hamilton,Ontario,Hamilton Main Branch
+1592,68,66+,Female,Retired,14894,Low Income,542,Poor,Surrey,British Columbia,Surrey Main Branch
+1593,67,66+,Female,Part-time,37020,Middle Income,558,Poor,Regina,Saskatchewan,Regina Main Branch
+1594,52,51-65,Male,Part-time,44521,Middle Income,583,Fair,Edmonton,Alberta,Edmonton Main Branch
+1595,40,36-50,Female,Part-time,57568,Middle Income,534,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1596,34,26-35,Female,Part-time,67038,Middle Income,667,Fair,Mississauga,Ontario,Mississauga Main Branch
+1597,43,36-50,Male,Part-time,53838,Middle Income,552,Poor,Quebec City,Quebec,Quebec City Main Branch
+1598,25,18-25,Male,Full-time,85089,High Income,573,Poor,Montreal,Quebec,Montreal Main Branch
+1599,46,36-50,Female,Full-time,74879,High Income,628,Fair,Surrey,British Columbia,Surrey Main Branch
+1600,43,36-50,Female,Full-time,44438,Middle Income,584,Fair,Surrey,British Columbia,Surrey Main Branch
+1601,27,26-35,Male,Full-time,69371,Middle Income,639,Fair,Surrey,British Columbia,Surrey Main Branch
+1602,43,36-50,Female,Full-time,95227,High Income,617,Fair,Brampton,Ontario,Brampton Main Branch
+1603,51,51-65,Female,Full-time,88169,High Income,620,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1604,68,66+,Female,Part-time,22564,Low Income,612,Fair,Brampton,Ontario,Brampton Main Branch
+1605,58,51-65,Female,Full-time,83052,High Income,680,Good,Vancouver,British Columbia,Vancouver Main Branch
+1606,24,18-25,Female,Student,26227,Low Income,609,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1607,21,18-25,Male,Full-time,78298,High Income,636,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1608,70,66+,Male,Full-time,71499,High Income,636,Fair,Mississauga,Ontario,Mississauga Main Branch
+1609,67,66+,Male,Self-employed,99968,High Income,674,Good,Regina,Saskatchewan,Regina Main Branch
+1610,62,51-65,Female,Part-time,46368,Middle Income,552,Poor,Brampton,Ontario,Brampton Main Branch
+1611,28,26-35,Female,Full-time,60454,Middle Income,708,Good,Quebec City,Quebec,Quebec City Main Branch
+1612,46,36-50,Male,Unemployed,21185,Low Income,651,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1613,53,51-65,Female,Unemployed,16674,Low Income,611,Fair,Regina,Saskatchewan,Regina Main Branch
+1614,42,36-50,Female,Full-time,45230,Middle Income,566,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1615,38,36-50,Female,Full-time,61891,Middle Income,649,Fair,Brampton,Ontario,Brampton Main Branch
+1616,53,51-65,Male,Retired,22545,Low Income,630,Fair,Ottawa,Ontario,Ottawa Main Branch
+1617,27,26-35,Female,Part-time,49761,Middle Income,520,Poor,Brampton,Ontario,Brampton Main Branch
+1618,54,51-65,Male,Part-time,42271,Middle Income,700,Good,Mississauga,Ontario,Mississauga Main Branch
+1619,26,26-35,Male,Student,19156,Low Income,449,Poor,Mississauga,Ontario,Mississauga Main Branch
+1620,41,36-50,Male,Full-time,97569,High Income,702,Good,Vancouver,British Columbia,Vancouver Main Branch
+1621,52,51-65,Male,Full-time,73224,High Income,722,Good,Vancouver,British Columbia,Vancouver Main Branch
+1622,66,66+,Male,Full-time,46238,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1623,52,51-65,Female,Student,18484,Low Income,552,Poor,Mississauga,Ontario,Mississauga Main Branch
+1624,65,51-65,Male,Part-time,57594,Middle Income,652,Fair,Mississauga,Ontario,Mississauga Main Branch
+1625,53,51-65,Female,Self-employed,59916,Middle Income,732,Good,Halifax,Nova Scotia,Halifax Main Branch
+1626,35,26-35,Male,Full-time,76954,High Income,614,Fair,Quebec City,Quebec,Quebec City Main Branch
+1627,66,66+,Female,Full-time,85390,High Income,591,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1628,56,51-65,Female,Part-time,45079,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch
+1629,49,36-50,Male,Self-employed,153484,Very High Income,623,Fair,Surrey,British Columbia,Surrey Main Branch
+1630,41,36-50,Male,Part-time,23884,Low Income,626,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1631,40,36-50,Male,Full-time,52624,Middle Income,569,Poor,Calgary,Alberta,Calgary Main Branch
+1632,49,36-50,Female,Student,12722,Low Income,541,Poor,Brampton,Ontario,Brampton Main Branch
+1633,54,51-65,Female,Full-time,66673,Middle Income,679,Good,Hamilton,Ontario,Hamilton Main Branch
+1634,29,26-35,Male,Retired,62491,Middle Income,590,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1635,66,66+,Female,Full-time,53429,Middle Income,653,Fair,Surrey,British Columbia,Surrey Main Branch
+1636,30,26-35,Male,Self-employed,113401,High Income,608,Fair,Calgary,Alberta,Calgary Main Branch
+1637,40,36-50,Male,Full-time,72632,High Income,689,Good,Toronto,Ontario,Toronto Main Branch
+1638,42,36-50,Female,Unemployed,12000,Low Income,576,Poor,Hamilton,Ontario,Hamilton Main Branch
+1639,52,51-65,Male,Full-time,40475,Middle Income,582,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1640,58,51-65,Female,Full-time,44504,Middle Income,601,Fair,Mississauga,Ontario,Mississauga Main Branch
+1641,47,36-50,Male,Full-time,60015,Middle Income,528,Poor,Ottawa,Ontario,Ottawa Main Branch
+1642,34,26-35,Other,Full-time,68955,Middle Income,629,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1643,66,66+,Male,Full-time,96229,High Income,646,Fair,Edmonton,Alberta,Edmonton Main Branch
+1644,37,36-50,Male,Retired,57986,Middle Income,527,Poor,Montreal,Quebec,Montreal Main Branch
+1645,65,51-65,Female,Full-time,56899,Middle Income,564,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1646,42,36-50,Male,Student,25269,Low Income,561,Poor,Mississauga,Ontario,Mississauga Main Branch
+1647,39,36-50,Other,Part-time,57819,Middle Income,569,Poor,Ottawa,Ontario,Ottawa Main Branch
+1648,30,26-35,Female,Self-employed,136218,Very High Income,546,Poor,Calgary,Alberta,Calgary Main Branch
+1649,36,36-50,Female,Full-time,66341,Middle Income,689,Good,Vancouver,British Columbia,Vancouver Main Branch
+1650,66,66+,Female,Full-time,89249,High Income,637,Fair,Hamilton,Ontario,Hamilton Main Branch
+1651,53,51-65,Female,Student,33120,Middle Income,431,Poor,Calgary,Alberta,Calgary Main Branch
+1652,29,26-35,Female,Retired,23394,Low Income,706,Good,Montreal,Quebec,Montreal Main Branch
+1653,58,51-65,Female,Full-time,62777,Middle Income,695,Good,Mississauga,Ontario,Mississauga Main Branch
+1654,36,36-50,Female,Full-time,111960,High Income,651,Fair,Mississauga,Ontario,Mississauga Main Branch
+1655,29,26-35,Male,Full-time,66581,Middle Income,565,Poor,Hamilton,Ontario,Hamilton Main Branch
+1656,26,26-35,Male,Retired,12000,Low Income,580,Fair,Edmonton,Alberta,Edmonton Main Branch
+1657,24,18-25,Female,Full-time,69823,Middle Income,636,Fair,Ottawa,Ontario,Ottawa Main Branch
+1658,45,36-50,Male,Full-time,92243,High Income,685,Good,Calgary,Alberta,Calgary Main Branch
+1659,31,26-35,Female,Unemployed,18046,Low Income,507,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1660,48,36-50,Male,Full-time,84877,High Income,713,Good,Mississauga,Ontario,Mississauga Main Branch
+1661,69,66+,Male,Full-time,88888,High Income,615,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1662,36,36-50,Female,Part-time,33741,Middle Income,624,Fair,Calgary,Alberta,Calgary Main Branch
+1663,64,51-65,Female,Unemployed,14364,Low Income,505,Poor,Quebec City,Quebec,Quebec City Main Branch
+1664,33,26-35,Male,Full-time,74762,High Income,801,Excellent,Edmonton,Alberta,Edmonton Main Branch
+1665,70,66+,Female,Full-time,75200,High Income,675,Good,Calgary,Alberta,Calgary Main Branch
+1666,22,18-25,Female,Full-time,72973,High Income,814,Excellent,Halifax,Nova Scotia,Halifax Main Branch
+1667,52,51-65,Male,Full-time,73713,High Income,682,Good,Hamilton,Ontario,Hamilton Main Branch
+1668,29,26-35,Female,Part-time,29017,Low Income,538,Poor,Regina,Saskatchewan,Regina Main Branch
+1669,42,36-50,Male,Full-time,85505,High Income,696,Good,Regina,Saskatchewan,Regina Main Branch
+1670,69,66+,Male,Full-time,82786,High Income,697,Good,Halifax,Nova Scotia,Halifax Main Branch
+1671,38,36-50,Other,Full-time,47952,Middle Income,621,Fair,Montreal,Quebec,Montreal Main Branch
+1672,53,51-65,Male,Part-time,33330,Middle Income,620,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1673,70,66+,Female,Part-time,39117,Middle Income,636,Fair,Toronto,Ontario,Toronto Main Branch
+1674,40,36-50,Female,Student,17725,Low Income,496,Poor,Hamilton,Ontario,Hamilton Main Branch
+1675,33,26-35,Male,Full-time,83473,High Income,570,Poor,Calgary,Alberta,Calgary Main Branch
+1676,56,51-65,Female,Student,21465,Low Income,514,Poor,Toronto,Ontario,Toronto Main Branch
+1677,62,51-65,Female,Student,23353,Low Income,576,Poor,Mississauga,Ontario,Mississauga Main Branch
+1678,70,66+,Male,Full-time,64787,Middle Income,603,Fair,Toronto,Ontario,Toronto Main Branch
+1679,59,51-65,Female,Full-time,36122,Middle Income,519,Poor,Edmonton,Alberta,Edmonton Main Branch
+1680,56,51-65,Female,Full-time,35094,Middle Income,632,Fair,Brampton,Ontario,Brampton Main Branch
+1681,31,26-35,Female,Full-time,82613,High Income,657,Fair,Edmonton,Alberta,Edmonton Main Branch
+1682,48,36-50,Female,Full-time,76804,High Income,643,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1683,22,18-25,Male,Full-time,79896,High Income,619,Fair,Hamilton,Ontario,Hamilton Main Branch
+1684,52,51-65,Female,Full-time,74421,High Income,604,Fair,Brampton,Ontario,Brampton Main Branch
+1685,40,36-50,Female,Student,23717,Low Income,513,Poor,Hamilton,Ontario,Hamilton Main Branch
+1686,46,36-50,Female,Full-time,89442,High Income,707,Good,Quebec City,Quebec,Quebec City Main Branch
+1687,60,51-65,Female,Student,25557,Low Income,524,Poor,Montreal,Quebec,Montreal Main Branch
+1688,28,26-35,Female,Part-time,50491,Middle Income,614,Fair,Montreal,Quebec,Montreal Main Branch
+1689,35,26-35,Female,Unemployed,19200,Low Income,671,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1690,64,51-65,Female,Part-time,34395,Middle Income,559,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1691,29,26-35,Female,Full-time,75496,High Income,692,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1692,26,26-35,Female,Self-employed,54915,Middle Income,642,Fair,Montreal,Quebec,Montreal Main Branch
+1693,27,26-35,Female,Full-time,65163,Middle Income,638,Fair,Surrey,British Columbia,Surrey Main Branch
+1694,61,51-65,Female,Full-time,75196,High Income,658,Fair,Mississauga,Ontario,Mississauga Main Branch
+1695,34,26-35,Male,Unemployed,19150,Low Income,556,Poor,Mississauga,Ontario,Mississauga Main Branch
+1696,55,51-65,Male,Full-time,70084,High Income,626,Fair,Quebec City,Quebec,Quebec City Main Branch
+1697,24,18-25,Male,Full-time,47013,Middle Income,560,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1698,63,51-65,Female,Self-employed,99092,High Income,661,Fair,Quebec City,Quebec,Quebec City Main Branch
+1699,30,26-35,Female,Unemployed,23840,Low Income,530,Poor,Calgary,Alberta,Calgary Main Branch
+1700,57,51-65,Female,Self-employed,129311,Very High Income,760,Very Good,Ottawa,Ontario,Ottawa Main Branch
+1701,59,51-65,Male,Full-time,79952,High Income,525,Poor,Hamilton,Ontario,Hamilton Main Branch
+1702,26,26-35,Female,Self-employed,80044,High Income,667,Fair,Surrey,British Columbia,Surrey Main Branch
+1703,67,66+,Male,Full-time,53765,Middle Income,626,Fair,Surrey,British Columbia,Surrey Main Branch
+1704,44,36-50,Male,Self-employed,124761,Very High Income,705,Good,Halifax,Nova Scotia,Halifax Main Branch
+1705,19,18-25,Female,Retired,49717,Middle Income,666,Fair,Edmonton,Alberta,Edmonton Main Branch
+1706,22,18-25,Female,Self-employed,85801,High Income,624,Fair,Edmonton,Alberta,Edmonton Main Branch
+1707,46,36-50,Male,Student,19968,Low Income,580,Fair,Ottawa,Ontario,Ottawa Main Branch
+1708,54,51-65,Male,Full-time,66277,Middle Income,507,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1709,55,51-65,Male,Self-employed,100648,High Income,633,Fair,Quebec City,Quebec,Quebec City Main Branch
+1710,36,36-50,Male,Student,13828,Low Income,612,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1711,25,18-25,Female,Full-time,101258,High Income,574,Poor,Calgary,Alberta,Calgary Main Branch
+1712,65,51-65,Male,Unemployed,27853,Low Income,583,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1713,62,51-65,Female,Full-time,65627,Middle Income,574,Poor,Toronto,Ontario,Toronto Main Branch
+1714,18,18-25,Female,Self-employed,54084,Middle Income,597,Fair,Edmonton,Alberta,Edmonton Main Branch
+1715,39,36-50,Male,Student,12000,Low Income,514,Poor,Calgary,Alberta,Calgary Main Branch
+1716,69,66+,Male,Self-employed,42458,Middle Income,509,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1717,34,26-35,Male,Full-time,85138,High Income,667,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1718,24,18-25,Male,Part-time,41784,Middle Income,586,Fair,Mississauga,Ontario,Mississauga Main Branch
+1719,42,36-50,Male,Part-time,43924,Middle Income,632,Fair,Mississauga,Ontario,Mississauga Main Branch
+1720,62,51-65,Female,Unemployed,12000,Low Income,605,Fair,Calgary,Alberta,Calgary Main Branch
+1721,21,18-25,Male,Full-time,64875,Middle Income,697,Good,Ottawa,Ontario,Ottawa Main Branch
+1722,53,51-65,Female,Full-time,96611,High Income,664,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1723,23,18-25,Male,Self-employed,77119,High Income,714,Good,Montreal,Quebec,Montreal Main Branch
+1724,48,36-50,Female,Full-time,49099,Middle Income,535,Poor,Regina,Saskatchewan,Regina Main Branch
+1725,36,36-50,Female,Part-time,36661,Middle Income,643,Fair,Surrey,British Columbia,Surrey Main Branch
+1726,61,51-65,Female,Part-time,28748,Low Income,604,Fair,Ottawa,Ontario,Ottawa Main Branch
+1727,56,51-65,Female,Unemployed,20336,Low Income,579,Poor,Calgary,Alberta,Calgary Main Branch
+1728,44,36-50,Female,Part-time,38247,Middle Income,614,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1729,27,26-35,Female,Part-time,44520,Middle Income,530,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1730,43,36-50,Female,Full-time,50077,Middle Income,522,Poor,Hamilton,Ontario,Hamilton Main Branch
+1731,36,36-50,Female,Full-time,63923,Middle Income,727,Good,Brampton,Ontario,Brampton Main Branch
+1732,56,51-65,Male,Full-time,91628,High Income,638,Fair,Mississauga,Ontario,Mississauga Main Branch
+1733,20,18-25,Male,Full-time,47623,Middle Income,585,Fair,Calgary,Alberta,Calgary Main Branch
+1734,62,51-65,Female,Part-time,25963,Low Income,499,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1735,30,26-35,Female,Self-employed,85979,High Income,546,Poor,Montreal,Quebec,Montreal Main Branch
+1736,67,66+,Female,Part-time,41441,Middle Income,583,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1737,45,36-50,Female,Student,18089,Low Income,539,Poor,Surrey,British Columbia,Surrey Main Branch
+1738,37,36-50,Other,Retired,41824,Middle Income,590,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1739,45,36-50,Male,Student,26266,Low Income,577,Poor,Brampton,Ontario,Brampton Main Branch
+1740,25,18-25,Male,Self-employed,105489,High Income,828,Excellent,Vancouver,British Columbia,Vancouver Main Branch
+1741,58,51-65,Male,Part-time,25169,Low Income,548,Poor,Edmonton,Alberta,Edmonton Main Branch
+1742,56,51-65,Male,Full-time,78558,High Income,736,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1743,18,18-25,Female,Full-time,99216,High Income,765,Very Good,Hamilton,Ontario,Hamilton Main Branch
+1744,20,18-25,Male,Full-time,69914,Middle Income,672,Good,Edmonton,Alberta,Edmonton Main Branch
+1745,30,26-35,Female,Unemployed,12000,Low Income,539,Poor,Brampton,Ontario,Brampton Main Branch
+1746,45,36-50,Male,Student,12991,Low Income,467,Poor,Brampton,Ontario,Brampton Main Branch
+1747,66,66+,Female,Full-time,69107,Middle Income,653,Fair,Edmonton,Alberta,Edmonton Main Branch
+1748,42,36-50,Female,Full-time,90645,High Income,714,Good,Quebec City,Quebec,Quebec City Main Branch
+1749,50,36-50,Male,Student,21674,Low Income,679,Good,Surrey,British Columbia,Surrey Main Branch
+1750,55,51-65,Female,Full-time,75406,High Income,568,Poor,Surrey,British Columbia,Surrey Main Branch
+1751,70,66+,Male,Full-time,54066,Middle Income,588,Fair,Toronto,Ontario,Toronto Main Branch
+1752,23,18-25,Male,Student,29865,Low Income,514,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1753,61,51-65,Male,Full-time,51378,Middle Income,560,Poor,Montreal,Quebec,Montreal Main Branch
+1754,62,51-65,Male,Full-time,62919,Middle Income,658,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1755,49,36-50,Male,Part-time,45559,Middle Income,550,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1756,62,51-65,Female,Student,12000,Low Income,500,Poor,Surrey,British Columbia,Surrey Main Branch
+1757,64,51-65,Female,Part-time,40088,Middle Income,639,Fair,Montreal,Quebec,Montreal Main Branch
+1758,38,36-50,Female,Full-time,53297,Middle Income,633,Fair,Regina,Saskatchewan,Regina Main Branch
+1759,33,26-35,Male,Full-time,72298,High Income,649,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1760,38,36-50,Female,Full-time,65663,Middle Income,576,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1761,28,26-35,Male,Part-time,63270,Middle Income,699,Good,Brampton,Ontario,Brampton Main Branch
+1762,54,51-65,Male,Self-employed,68206,Middle Income,622,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1763,53,51-65,Female,Full-time,105168,High Income,820,Excellent,Hamilton,Ontario,Hamilton Main Branch
+1764,52,51-65,Male,Unemployed,22109,Low Income,576,Poor,Edmonton,Alberta,Edmonton Main Branch
+1765,36,36-50,Female,Full-time,57574,Middle Income,457,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1766,37,36-50,Female,Full-time,77955,High Income,478,Poor,Quebec City,Quebec,Quebec City Main Branch
+1767,35,26-35,Male,Full-time,66521,Middle Income,660,Fair,Toronto,Ontario,Toronto Main Branch
+1768,64,51-65,Male,Full-time,76359,High Income,716,Good,Halifax,Nova Scotia,Halifax Main Branch
+1769,58,51-65,Male,Part-time,29433,Low Income,524,Poor,Calgary,Alberta,Calgary Main Branch
+1770,66,66+,Female,Part-time,58282,Middle Income,746,Very Good,Ottawa,Ontario,Ottawa Main Branch
+1771,31,26-35,Male,Full-time,88657,High Income,754,Very Good,Toronto,Ontario,Toronto Main Branch
+1772,32,26-35,Male,Part-time,38381,Middle Income,599,Fair,Hamilton,Ontario,Hamilton Main Branch
+1773,48,36-50,Male,Full-time,103124,High Income,698,Good,Toronto,Ontario,Toronto Main Branch
+1774,18,18-25,Female,Self-employed,82228,High Income,696,Good,Vancouver,British Columbia,Vancouver Main Branch
+1775,70,66+,Male,Retired,62464,Middle Income,737,Good,Brampton,Ontario,Brampton Main Branch
+1776,20,18-25,Male,Full-time,72689,High Income,671,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1777,33,26-35,Female,Part-time,42727,Middle Income,603,Fair,Ottawa,Ontario,Ottawa Main Branch
+1778,40,36-50,Female,Full-time,70534,High Income,668,Fair,Surrey,British Columbia,Surrey Main Branch
+1779,28,26-35,Male,Full-time,73715,High Income,663,Fair,Brampton,Ontario,Brampton Main Branch
+1780,29,26-35,Male,Full-time,75070,High Income,690,Good,Vancouver,British Columbia,Vancouver Main Branch
+1781,27,26-35,Male,Student,16642,Low Income,457,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1782,49,36-50,Female,Part-time,33187,Middle Income,600,Fair,Ottawa,Ontario,Ottawa Main Branch
+1783,33,26-35,Male,Full-time,68098,Middle Income,651,Fair,Ottawa,Ontario,Ottawa Main Branch
+1784,25,18-25,Female,Student,23838,Low Income,563,Poor,Regina,Saskatchewan,Regina Main Branch
+1785,55,51-65,Female,Part-time,37633,Middle Income,636,Fair,Mississauga,Ontario,Mississauga Main Branch
+1786,29,26-35,Female,Student,31384,Middle Income,702,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1787,41,36-50,Male,Part-time,48165,Middle Income,606,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1788,45,36-50,Female,Part-time,35644,Middle Income,627,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1789,70,66+,Female,Full-time,96872,High Income,760,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1790,25,18-25,Female,Full-time,105714,High Income,677,Good,Montreal,Quebec,Montreal Main Branch
+1791,45,36-50,Male,Retired,15343,Low Income,500,Poor,Quebec City,Quebec,Quebec City Main Branch
+1792,53,51-65,Other,Full-time,88781,High Income,686,Good,Brampton,Ontario,Brampton Main Branch
+1793,43,36-50,Male,Retired,35605,Middle Income,439,Poor,Surrey,British Columbia,Surrey Main Branch
+1794,25,18-25,Male,Part-time,47609,Middle Income,447,Poor,Toronto,Ontario,Toronto Main Branch
+1795,67,66+,Male,Full-time,94288,High Income,674,Good,Vancouver,British Columbia,Vancouver Main Branch
+1796,45,36-50,Female,Full-time,56214,Middle Income,454,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1797,45,36-50,Male,Full-time,38658,Middle Income,500,Poor,Mississauga,Ontario,Mississauga Main Branch
+1798,54,51-65,Male,Unemployed,23848,Low Income,543,Poor,Brampton,Ontario,Brampton Main Branch
+1799,58,51-65,Male,Full-time,74437,High Income,582,Fair,Quebec City,Quebec,Quebec City Main Branch
+1800,53,51-65,Male,Full-time,41968,Middle Income,580,Fair,Brampton,Ontario,Brampton Main Branch
+1801,44,36-50,Female,Full-time,117532,High Income,753,Very Good,Regina,Saskatchewan,Regina Main Branch
+1802,34,26-35,Female,Full-time,83240,High Income,655,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1803,26,26-35,Male,Part-time,46041,Middle Income,540,Poor,Edmonton,Alberta,Edmonton Main Branch
+1804,50,36-50,Male,Full-time,96585,High Income,743,Very Good,Montreal,Quebec,Montreal Main Branch
+1805,70,66+,Female,Student,17353,Low Income,467,Poor,Ottawa,Ontario,Ottawa Main Branch
+1806,37,36-50,Male,Full-time,74348,High Income,643,Fair,Surrey,British Columbia,Surrey Main Branch
+1807,30,26-35,Male,Full-time,48252,Middle Income,497,Poor,Quebec City,Quebec,Quebec City Main Branch
+1808,45,36-50,Other,Full-time,61057,Middle Income,629,Fair,Ottawa,Ontario,Ottawa Main Branch
+1809,65,51-65,Female,Full-time,78942,High Income,613,Fair,Surrey,British Columbia,Surrey Main Branch
+1810,46,36-50,Male,Retired,21021,Low Income,635,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1811,30,26-35,Female,Part-time,30365,Middle Income,623,Fair,Hamilton,Ontario,Hamilton Main Branch
+1812,63,51-65,Male,Full-time,55297,Middle Income,568,Poor,Calgary,Alberta,Calgary Main Branch
+1813,52,51-65,Female,Part-time,39705,Middle Income,536,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1814,23,18-25,Male,Full-time,82345,High Income,618,Fair,Montreal,Quebec,Montreal Main Branch
+1815,35,26-35,Male,Full-time,85359,High Income,764,Very Good,Regina,Saskatchewan,Regina Main Branch
+1816,68,66+,Male,Retired,60982,Middle Income,718,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1817,22,18-25,Female,Student,32977,Middle Income,516,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1818,64,51-65,Female,Retired,55109,Middle Income,658,Fair,Montreal,Quebec,Montreal Main Branch
+1819,42,36-50,Male,Full-time,105972,High Income,554,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1820,19,18-25,Male,Part-time,39434,Middle Income,558,Poor,Surrey,British Columbia,Surrey Main Branch
+1821,27,26-35,Female,Full-time,68880,Middle Income,562,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1822,47,36-50,Male,Full-time,82932,High Income,708,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1823,67,66+,Male,Student,20269,Low Income,480,Poor,Ottawa,Ontario,Ottawa Main Branch
+1824,62,51-65,Female,Full-time,105346,High Income,694,Good,Montreal,Quebec,Montreal Main Branch
+1825,22,18-25,Male,Student,31048,Middle Income,577,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1826,50,36-50,Female,Self-employed,102508,High Income,651,Fair,Ottawa,Ontario,Ottawa Main Branch
+1827,18,18-25,Other,Full-time,74366,High Income,737,Good,Surrey,British Columbia,Surrey Main Branch
+1828,35,26-35,Male,Part-time,33110,Middle Income,694,Good,Quebec City,Quebec,Quebec City Main Branch
+1829,49,36-50,Male,Self-employed,101040,High Income,651,Fair,Brampton,Ontario,Brampton Main Branch
+1830,64,51-65,Male,Full-time,51712,Middle Income,579,Poor,Ottawa,Ontario,Ottawa Main Branch
+1831,66,66+,Female,Student,34275,Middle Income,483,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1832,28,26-35,Female,Part-time,35868,Middle Income,582,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1833,38,36-50,Female,Full-time,77492,High Income,759,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1834,43,36-50,Male,Part-time,27085,Low Income,564,Poor,Mississauga,Ontario,Mississauga Main Branch
+1835,42,36-50,Female,Retired,56845,Middle Income,655,Fair,Edmonton,Alberta,Edmonton Main Branch
+1836,39,36-50,Female,Full-time,63833,Middle Income,525,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1837,44,36-50,Female,Student,27194,Low Income,544,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1838,66,66+,Female,Full-time,85633,High Income,672,Good,Halifax,Nova Scotia,Halifax Main Branch
+1839,30,26-35,Female,Student,16819,Low Income,567,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1840,50,36-50,Female,Self-employed,46294,Middle Income,649,Fair,Mississauga,Ontario,Mississauga Main Branch
+1841,51,51-65,Female,Full-time,99574,High Income,620,Fair,Surrey,British Columbia,Surrey Main Branch
+1842,58,51-65,Male,Full-time,68539,Middle Income,508,Poor,Hamilton,Ontario,Hamilton Main Branch
+1843,52,51-65,Male,Student,23799,Low Income,641,Fair,Regina,Saskatchewan,Regina Main Branch
+1844,18,18-25,Female,Full-time,80738,High Income,575,Poor,Mississauga,Ontario,Mississauga Main Branch
+1845,38,36-50,Male,Self-employed,42389,Middle Income,623,Fair,Calgary,Alberta,Calgary Main Branch
+1846,65,51-65,Female,Full-time,80328,High Income,665,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1847,23,18-25,Other,Student,22793,Low Income,459,Poor,Hamilton,Ontario,Hamilton Main Branch
+1848,45,36-50,Female,Self-employed,60694,Middle Income,680,Good,Montreal,Quebec,Montreal Main Branch
+1849,34,26-35,Male,Unemployed,12000,Low Income,517,Poor,Toronto,Ontario,Toronto Main Branch
+1850,22,18-25,Male,Full-time,82906,High Income,643,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1851,48,36-50,Male,Part-time,51533,Middle Income,578,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1852,22,18-25,Female,Part-time,40143,Middle Income,693,Good,Montreal,Quebec,Montreal Main Branch
+1853,55,51-65,Female,Full-time,46180,Middle Income,682,Good,Montreal,Quebec,Montreal Main Branch
+1854,20,18-25,Female,Full-time,52968,Middle Income,485,Poor,Toronto,Ontario,Toronto Main Branch
+1855,70,66+,Male,Full-time,64222,Middle Income,763,Very Good,Ottawa,Ontario,Ottawa Main Branch
+1856,40,36-50,Female,Self-employed,126939,Very High Income,648,Fair,Surrey,British Columbia,Surrey Main Branch
+1857,54,51-65,Female,Part-time,35039,Middle Income,718,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1858,70,66+,Male,Full-time,63566,Middle Income,599,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1859,54,51-65,Female,Self-employed,29795,Low Income,553,Poor,Regina,Saskatchewan,Regina Main Branch
+1860,27,26-35,Male,Full-time,60180,Middle Income,596,Fair,Brampton,Ontario,Brampton Main Branch
+1861,27,26-35,Male,Full-time,49807,Middle Income,573,Poor,Montreal,Quebec,Montreal Main Branch
+1862,36,36-50,Female,Retired,30952,Middle Income,741,Very Good,Hamilton,Ontario,Hamilton Main Branch
+1863,34,26-35,Male,Retired,47799,Middle Income,592,Fair,Montreal,Quebec,Montreal Main Branch
+1864,38,36-50,Female,Part-time,33186,Middle Income,560,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1865,31,26-35,Female,Full-time,102591,High Income,668,Fair,Brampton,Ontario,Brampton Main Branch
+1866,26,26-35,Female,Self-employed,112340,High Income,611,Fair,Montreal,Quebec,Montreal Main Branch
+1867,63,51-65,Male,Part-time,30693,Middle Income,680,Good,Toronto,Ontario,Toronto Main Branch
+1868,18,18-25,Female,Full-time,55497,Middle Income,510,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1869,68,66+,Female,Part-time,54592,Middle Income,565,Poor,Mississauga,Ontario,Mississauga Main Branch
+1870,62,51-65,Female,Part-time,57921,Middle Income,670,Good,Mississauga,Ontario,Mississauga Main Branch
+1871,30,26-35,Male,Part-time,12000,Low Income,557,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1872,21,18-25,Male,Full-time,73671,High Income,664,Fair,Quebec City,Quebec,Quebec City Main Branch
+1873,18,18-25,Female,Part-time,34977,Middle Income,681,Good,Surrey,British Columbia,Surrey Main Branch
+1874,66,66+,Male,Unemployed,22544,Low Income,632,Fair,Toronto,Ontario,Toronto Main Branch
+1875,57,51-65,Female,Full-time,106968,High Income,677,Good,Edmonton,Alberta,Edmonton Main Branch
+1876,49,36-50,Female,Self-employed,65478,Middle Income,754,Very Good,Montreal,Quebec,Montreal Main Branch
+1877,51,51-65,Female,Unemployed,12000,Low Income,513,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1878,45,36-50,Female,Full-time,82422,High Income,632,Fair,Hamilton,Ontario,Hamilton Main Branch
+1879,48,36-50,Female,Full-time,97019,High Income,654,Fair,Mississauga,Ontario,Mississauga Main Branch
+1880,25,18-25,Female,Part-time,34355,Middle Income,574,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1881,56,51-65,Female,Part-time,29540,Low Income,505,Poor,Mississauga,Ontario,Mississauga Main Branch
+1882,43,36-50,Female,Student,18502,Low Income,459,Poor,Brampton,Ontario,Brampton Main Branch
+1883,51,51-65,Male,Full-time,87304,High Income,671,Good,Brampton,Ontario,Brampton Main Branch
+1884,20,18-25,Male,Retired,39183,Middle Income,545,Poor,Regina,Saskatchewan,Regina Main Branch
+1885,67,66+,Female,Full-time,77918,High Income,757,Very Good,Quebec City,Quebec,Quebec City Main Branch
+1886,29,26-35,Male,Full-time,72500,High Income,622,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1887,18,18-25,Male,Part-time,37095,Middle Income,568,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1888,61,51-65,Male,Full-time,84623,High Income,712,Good,Ottawa,Ontario,Ottawa Main Branch
+1889,22,18-25,Female,Full-time,63386,Middle Income,642,Fair,Edmonton,Alberta,Edmonton Main Branch
+1890,47,36-50,Female,Full-time,64249,Middle Income,605,Fair,Brampton,Ontario,Brampton Main Branch
+1891,47,36-50,Female,Full-time,86357,High Income,601,Fair,Brampton,Ontario,Brampton Main Branch
+1892,34,26-35,Female,Full-time,54235,Middle Income,842,Excellent,Quebec City,Quebec,Quebec City Main Branch
+1893,65,51-65,Female,Retired,32797,Middle Income,602,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1894,64,51-65,Male,Full-time,49314,Middle Income,669,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1895,40,36-50,Female,Self-employed,105470,High Income,600,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1896,32,26-35,Male,Self-employed,76843,High Income,594,Fair,Winnipeg,Manitoba,Winnipeg Main Branch
+1897,54,51-65,Female,Unemployed,12000,Low Income,691,Good,Brampton,Ontario,Brampton Main Branch
+1898,38,36-50,Female,Full-time,87369,High Income,735,Good,Quebec City,Quebec,Quebec City Main Branch
+1899,31,26-35,Male,Unemployed,14111,Low Income,586,Fair,Hamilton,Ontario,Hamilton Main Branch
+1900,19,18-25,Male,Part-time,27540,Low Income,548,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1901,28,26-35,Male,Part-time,35652,Middle Income,567,Poor,Ottawa,Ontario,Ottawa Main Branch
+1902,68,66+,Male,Part-time,55745,Middle Income,562,Poor,Toronto,Ontario,Toronto Main Branch
+1903,56,51-65,Male,Student,18840,Low Income,487,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1904,55,51-65,Female,Full-time,82356,High Income,698,Good,Vancouver,British Columbia,Vancouver Main Branch
+1905,51,51-65,Female,Self-employed,101812,High Income,697,Good,Toronto,Ontario,Toronto Main Branch
+1906,55,51-65,Female,Part-time,43319,Middle Income,639,Fair,Mississauga,Ontario,Mississauga Main Branch
+1907,67,66+,Female,Student,32169,Middle Income,556,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1908,51,51-65,Female,Retired,35393,Middle Income,599,Fair,Ottawa,Ontario,Ottawa Main Branch
+1909,35,26-35,Female,Full-time,53220,Middle Income,575,Poor,Regina,Saskatchewan,Regina Main Branch
+1910,47,36-50,Male,Retired,30056,Middle Income,528,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1911,32,26-35,Female,Full-time,69400,Middle Income,731,Good,Halifax,Nova Scotia,Halifax Main Branch
+1912,44,36-50,Male,Full-time,54953,Middle Income,613,Fair,Ottawa,Ontario,Ottawa Main Branch
+1913,68,66+,Other,Full-time,74656,High Income,662,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1914,51,51-65,Female,Full-time,73386,High Income,682,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1915,69,66+,Female,Part-time,50223,Middle Income,608,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1916,55,51-65,Male,Full-time,77241,High Income,648,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1917,50,36-50,Female,Full-time,64509,Middle Income,546,Poor,Quebec City,Quebec,Quebec City Main Branch
+1918,41,36-50,Female,Unemployed,20876,Low Income,506,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1919,32,26-35,Male,Student,13758,Low Income,494,Poor,Calgary,Alberta,Calgary Main Branch
+1920,47,36-50,Male,Student,21695,Low Income,605,Fair,Ottawa,Ontario,Ottawa Main Branch
+1921,59,51-65,Female,Unemployed,20236,Low Income,568,Poor,Regina,Saskatchewan,Regina Main Branch
+1922,68,66+,Male,Self-employed,83880,High Income,582,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1923,34,26-35,Female,Full-time,79471,High Income,673,Good,Montreal,Quebec,Montreal Main Branch
+1924,22,18-25,Male,Full-time,60407,Middle Income,647,Fair,Toronto,Ontario,Toronto Main Branch
+1925,46,36-50,Male,Self-employed,114561,High Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch
+1926,21,18-25,Female,Full-time,104799,High Income,663,Fair,Mississauga,Ontario,Mississauga Main Branch
+1927,27,26-35,Male,Self-employed,31920,Middle Income,613,Fair,Hamilton,Ontario,Hamilton Main Branch
+1928,34,26-35,Female,Full-time,50119,Middle Income,544,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1929,27,26-35,Male,Full-time,72775,High Income,664,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1930,34,26-35,Male,Part-time,34921,Middle Income,601,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1931,37,36-50,Female,Part-time,60757,Middle Income,547,Poor,Calgary,Alberta,Calgary Main Branch
+1932,41,36-50,Female,Part-time,40637,Middle Income,602,Fair,Surrey,British Columbia,Surrey Main Branch
+1933,22,18-25,Female,Self-employed,121776,Very High Income,709,Good,Montreal,Quebec,Montreal Main Branch
+1934,51,51-65,Female,Full-time,35116,Middle Income,541,Poor,Ottawa,Ontario,Ottawa Main Branch
+1935,23,18-25,Female,Full-time,86655,High Income,608,Fair,Brampton,Ontario,Brampton Main Branch
+1936,70,66+,Male,Student,16276,Low Income,493,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1937,19,18-25,Male,Self-employed,58054,Middle Income,580,Fair,Montreal,Quebec,Montreal Main Branch
+1938,30,26-35,Female,Full-time,67530,Middle Income,620,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1939,60,51-65,Female,Student,12000,Low Income,518,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1940,60,51-65,Female,Full-time,79970,High Income,539,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1941,65,51-65,Male,Full-time,75433,High Income,585,Fair,Regina,Saskatchewan,Regina Main Branch
+1942,28,26-35,Male,Full-time,76791,High Income,604,Fair,Montreal,Quebec,Montreal Main Branch
+1943,68,66+,Female,Self-employed,106611,High Income,720,Good,Vancouver,British Columbia,Vancouver Main Branch
+1944,64,51-65,Female,Self-employed,125443,Very High Income,729,Good,Regina,Saskatchewan,Regina Main Branch
+1945,40,36-50,Female,Full-time,65453,Middle Income,672,Good,Edmonton,Alberta,Edmonton Main Branch
+1946,33,26-35,Female,Student,25819,Low Income,522,Poor,Montreal,Quebec,Montreal Main Branch
+1947,48,36-50,Female,Full-time,77274,High Income,641,Fair,Calgary,Alberta,Calgary Main Branch
+1948,28,26-35,Male,Full-time,78797,High Income,477,Poor,Calgary,Alberta,Calgary Main Branch
+1949,33,26-35,Male,Full-time,79067,High Income,662,Fair,Toronto,Ontario,Toronto Main Branch
+1950,25,18-25,Male,Full-time,100629,High Income,700,Good,Ottawa,Ontario,Ottawa Main Branch
+1951,21,18-25,Male,Full-time,63726,Middle Income,593,Fair,Surrey,British Columbia,Surrey Main Branch
+1952,57,51-65,Female,Part-time,19691,Low Income,582,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1953,21,18-25,Male,Student,16417,Low Income,461,Poor,Ottawa,Ontario,Ottawa Main Branch
+1954,42,36-50,Female,Part-time,47087,Middle Income,544,Poor,Calgary,Alberta,Calgary Main Branch
+1955,20,18-25,Male,Full-time,72420,High Income,676,Good,Mississauga,Ontario,Mississauga Main Branch
+1956,49,36-50,Male,Full-time,63583,Middle Income,649,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1957,20,18-25,Male,Full-time,52623,Middle Income,576,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1958,44,36-50,Male,Full-time,75983,High Income,683,Good,Ottawa,Ontario,Ottawa Main Branch
+1959,46,36-50,Female,Self-employed,99335,High Income,668,Fair,Calgary,Alberta,Calgary Main Branch
+1960,49,36-50,Male,Full-time,77506,High Income,600,Fair,Hamilton,Ontario,Hamilton Main Branch
+1961,67,66+,Female,Self-employed,72400,High Income,614,Fair,Calgary,Alberta,Calgary Main Branch
+1962,68,66+,Male,Student,23173,Low Income,538,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1963,36,36-50,Male,Full-time,74535,High Income,552,Poor,Regina,Saskatchewan,Regina Main Branch
+1964,38,36-50,Male,Student,23518,Low Income,649,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1965,22,18-25,Female,Part-time,23788,Low Income,531,Poor,Brampton,Ontario,Brampton Main Branch
+1966,35,26-35,Female,Part-time,40368,Middle Income,534,Poor,Edmonton,Alberta,Edmonton Main Branch
+1967,45,36-50,Male,Part-time,32713,Middle Income,479,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1968,59,51-65,Male,Full-time,90731,High Income,477,Poor,Edmonton,Alberta,Edmonton Main Branch
+1969,39,36-50,Female,Full-time,74393,High Income,674,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1970,38,36-50,Male,Full-time,87039,High Income,695,Good,Regina,Saskatchewan,Regina Main Branch
+1971,23,18-25,Male,Full-time,66568,Middle Income,697,Good,Winnipeg,Manitoba,Winnipeg Main Branch
+1972,18,18-25,Female,Part-time,34811,Middle Income,572,Poor,Winnipeg,Manitoba,Winnipeg Main Branch
+1973,22,18-25,Female,Full-time,98897,High Income,637,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1974,58,51-65,Male,Unemployed,21054,Low Income,532,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1975,29,26-35,Female,Self-employed,58565,Middle Income,583,Fair,Hamilton,Ontario,Hamilton Main Branch
+1976,43,36-50,Female,Full-time,88146,High Income,718,Good,Hamilton,Ontario,Hamilton Main Branch
+1977,63,51-65,Male,Full-time,62401,Middle Income,613,Fair,Halifax,Nova Scotia,Halifax Main Branch
+1978,51,51-65,Female,Unemployed,19580,Low Income,588,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1979,66,66+,Female,Student,36693,Middle Income,555,Poor,Ottawa,Ontario,Ottawa Main Branch
+1980,31,26-35,Male,Self-employed,37062,Middle Income,670,Good,Vancouver,British Columbia,Vancouver Main Branch
+1981,43,36-50,Male,Full-time,68836,Middle Income,498,Poor,Surrey,British Columbia,Surrey Main Branch
+1982,62,51-65,Male,Full-time,79349,High Income,555,Poor,Surrey,British Columbia,Surrey Main Branch
+1983,44,36-50,Female,Full-time,85765,High Income,667,Fair,Edmonton,Alberta,Edmonton Main Branch
+1984,26,26-35,Male,Full-time,49658,Middle Income,713,Good,Calgary,Alberta,Calgary Main Branch
+1985,43,36-50,Female,Student,12000,Low Income,539,Poor,Halifax,Nova Scotia,Halifax Main Branch
+1986,64,51-65,Female,Self-employed,112722,High Income,620,Fair,Vancouver,British Columbia,Vancouver Main Branch
+1987,39,36-50,Male,Part-time,29355,Low Income,640,Fair,Quebec City,Quebec,Quebec City Main Branch
+1988,64,51-65,Female,Unemployed,12664,Low Income,576,Poor,Vancouver,British Columbia,Vancouver Main Branch
+1989,47,36-50,Male,Part-time,56603,Middle Income,691,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1990,60,51-65,Female,Full-time,73255,High Income,543,Poor,Regina,Saskatchewan,Regina Main Branch
+1991,65,51-65,Female,Full-time,73372,High Income,706,Good,Ottawa,Ontario,Ottawa Main Branch
+1992,34,26-35,Male,Retired,43303,Middle Income,491,Poor,Toronto,Ontario,Toronto Main Branch
+1993,43,36-50,Male,Full-time,49968,Middle Income,581,Fair,Edmonton,Alberta,Edmonton Main Branch
+1994,53,51-65,Male,Unemployed,22730,Low Income,594,Fair,Edmonton,Alberta,Edmonton Main Branch
+1995,18,18-25,Male,Student,25276,Low Income,582,Fair,Edmonton,Alberta,Edmonton Main Branch
+1996,25,18-25,Male,Full-time,75036,High Income,698,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch
+1997,66,66+,Male,Part-time,36604,Middle Income,465,Poor,Montreal,Quebec,Montreal Main Branch
+1998,52,51-65,Other,Student,19661,Low Income,572,Poor,Calgary,Alberta,Calgary Main Branch
+1999,69,66+,Male,Part-time,48950,Middle Income,676,Good,Halifax,Nova Scotia,Halifax Main Branch
+2000,32,26-35,Male,Unemployed,17011,Low Income,564,Poor,Winnipeg,Manitoba,Winnipeg Main Branch

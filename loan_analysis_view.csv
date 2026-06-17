@@ -1,0 +1,853 @@
+loan_id,customer_id,loan_type,loan_amount,interest_rate,term_months,application_date,loan_status,age,age_group,gender,employment_status,annual_income,income_group,credit_score,credit_score_group,city,province,branch_name,approved_flag,rejected_flag,defaulted_flag
+9001,1573,Mortgage,543503.56,9.94,36,2024-07-09,Approved,50,36-50,Male,Full-time,81538,High Income,691,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9002,1312,Personal Loan,25402.34,11.87,12,2023-08-19,Approved,65,51-65,Male,Full-time,68662,Middle Income,590,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9003,1312,Personal Loan,24868.72,15.48,60,2023-02-02,Approved,65,51-65,Male,Full-time,68662,Middle Income,590,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9004,1281,Student Loan,29914.65,8.22,24,2023-05-09,Paid Off,57,51-65,Male,Student,18807,Low Income,674,Good,Toronto,Ontario,Toronto Main Branch,0,0,0
+9005,1268,Student Loan,12143.48,16.31,60,2024-08-01,Approved,20,18-25,Female,Unemployed,19543,Low Income,552,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9006,1418,Mortgage,383711.1,9.38,24,2023-07-10,Rejected,19,18-25,Female,Full-time,71048,High Income,629,Fair,Toronto,Ontario,Toronto Main Branch,0,1,0
+9007,1607,Student Loan,21676.4,11.74,300,2024-02-19,Approved,21,18-25,Male,Full-time,78298,High Income,636,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9008,1569,Auto Loan,21469.99,13.93,36,2023-08-16,Rejected,41,36-50,Female,Unemployed,14581,Low Income,533,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9009,1828,Personal Loan,20250.99,5.59,24,2023-09-07,Approved,35,26-35,Male,Part-time,33110,Middle Income,694,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9010,1828,Auto Loan,35588.5,5.7,12,2023-05-11,Approved,35,26-35,Male,Part-time,33110,Middle Income,694,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9011,1525,Mortgage,461460.23,5.79,24,2024-08-25,Paid Off,46,36-50,Female,Self-employed,111326,High Income,733,Good,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9012,1518,Student Loan,10014.43,6.47,240,2024-12-06,Approved,20,18-25,Female,Full-time,91321,High Income,732,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9013,1518,Business Loan,2000.0,8.56,300,2024-09-05,Rejected,20,18-25,Female,Full-time,91321,High Income,732,Good,Montreal,Quebec,Montreal Main Branch,0,1,0
+9014,1878,Personal Loan,2064.8,10.65,48,2023-10-07,Approved,45,36-50,Female,Full-time,82422,High Income,632,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9015,1878,Mortgage,212251.66,7.98,300,2024-09-02,Approved,45,36-50,Female,Full-time,82422,High Income,632,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9016,1248,Mortgage,412641.45,14.51,24,2023-11-04,Approved,23,18-25,Male,Self-employed,57466,Middle Income,568,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9017,1595,Mortgage,477140.88,15.9,48,2023-06-11,Approved,40,36-50,Female,Part-time,57568,Middle Income,534,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9018,1177,Student Loan,8484.26,12.72,300,2024-04-26,Approved,30,26-35,Female,Student,21942,Low Income,501,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9019,1370,Mortgage,355396.68,8.98,36,2023-01-17,Approved,50,36-50,Male,Full-time,55898,Middle Income,607,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9020,1575,Personal Loan,24987.16,6.86,60,2023-11-20,Paid Off,68,66+,Other,Full-time,100605,High Income,690,Good,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9021,1610,Business Loan,78401.57,14.99,36,2024-01-02,Defaulted,62,51-65,Female,Part-time,46368,Middle Income,552,Poor,Brampton,Ontario,Brampton Main Branch,0,0,1
+9022,1266,Auto Loan,15182.56,15.23,60,2023-04-25,Rejected,33,26-35,Female,Student,20552,Low Income,561,Poor,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9023,1272,Personal Loan,33295.39,18.08,24,2023-02-13,Rejected,43,36-50,Female,Self-employed,46584,Middle Income,496,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9024,1549,Mortgage,228123.26,6.37,300,2023-08-08,Approved,53,51-65,Male,Full-time,82466,High Income,684,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9025,1011,Business Loan,76148.83,9.27,240,2023-03-06,Approved,28,26-35,Female,Full-time,81902,High Income,644,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9026,1011,Student Loan,14598.37,6.51,48,2024-01-16,Approved,28,26-35,Female,Full-time,81902,High Income,644,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9027,1546,Business Loan,90125.39,11.94,60,2024-10-31,Approved,40,36-50,Female,Full-time,98227,High Income,647,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9028,1274,Personal Loan,18075.16,7.83,12,2023-05-18,Approved,36,36-50,Male,Self-employed,114234,High Income,747,Very Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9029,1274,Auto Loan,24134.45,8.65,60,2024-02-05,Rejected,36,36-50,Male,Self-employed,114234,High Income,747,Very Good,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9030,1424,Personal Loan,7998.27,7.71,24,2024-07-07,Approved,57,51-65,Male,Full-time,96172,High Income,621,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9031,1141,Personal Loan,11994.29,17.36,48,2023-06-19,Approved,44,36-50,Female,Full-time,81841,High Income,528,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9032,1995,Personal Loan,15946.44,17.82,24,2024-12-01,Paid Off,18,18-25,Male,Student,25276,Low Income,582,Fair,Edmonton,Alberta,Edmonton Main Branch,0,0,0
+9033,1681,Mortgage,301375.46,12.05,24,2023-04-22,Approved,31,26-35,Female,Full-time,82613,High Income,657,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9034,1515,Auto Loan,38677.74,12.29,12,2024-06-10,Paid Off,22,18-25,Other,Full-time,83437,High Income,615,Fair,Montreal,Quebec,Montreal Main Branch,0,0,0
+9035,1498,Personal Loan,16443.43,15.85,24,2023-07-19,Approved,40,36-50,Male,Student,33076,Middle Income,512,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9036,1687,Personal Loan,12028.51,12.26,24,2023-12-16,Rejected,60,51-65,Female,Student,25557,Low Income,524,Poor,Montreal,Quebec,Montreal Main Branch,0,1,0
+9037,1813,Personal Loan,22587.28,18.11,60,2024-08-08,Approved,52,51-65,Female,Part-time,39705,Middle Income,536,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9038,1093,Student Loan,21239.38,13.4,36,2024-12-24,Approved,33,26-35,Female,Full-time,87284,High Income,599,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9039,1349,Student Loan,8603.12,6.76,60,2024-02-22,Approved,24,18-25,Male,Self-employed,83439,High Income,740,Very Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9040,1496,Auto Loan,36659.9,12.52,24,2023-06-02,Approved,43,36-50,Male,Student,13506,Low Income,535,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9041,1013,Business Loan,143481.48,18.05,300,2023-08-09,Approved,41,36-50,Male,Full-time,61561,Middle Income,578,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9042,1765,Personal Loan,28671.99,11.41,12,2023-11-14,Rejected,36,36-50,Female,Full-time,57574,Middle Income,457,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9043,1781,Personal Loan,16614.23,18.3,36,2024-07-07,Rejected,27,26-35,Male,Student,16642,Low Income,457,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9044,1253,Auto Loan,23982.83,9.66,60,2023-02-10,Approved,55,51-65,Female,Full-time,74399,High Income,623,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9045,1874,Auto Loan,29310.55,12.42,48,2024-12-05,Approved,66,66+,Male,Unemployed,22544,Low Income,632,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9046,1874,Mortgage,525874.32,9.62,36,2023-07-16,Approved,66,66+,Male,Unemployed,22544,Low Income,632,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9047,1627,Personal Loan,24524.75,15.0,48,2023-02-18,Approved,66,66+,Female,Full-time,85390,High Income,591,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9048,1656,Student Loan,24940.78,15.89,24,2024-11-01,Rejected,26,26-35,Male,Retired,12000,Low Income,580,Fair,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9049,1589,Personal Loan,14847.0,15.47,36,2024-03-04,Approved,48,36-50,Female,Student,13678,Low Income,576,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9050,1247,Personal Loan,28731.46,5.57,48,2023-06-25,Rejected,49,36-50,Male,Full-time,84697,High Income,692,Good,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9051,1467,Personal Loan,21152.74,10.47,120,2024-06-10,Approved,54,51-65,Female,Full-time,100707,High Income,649,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9052,1467,Personal Loan,16783.85,11.07,48,2023-11-26,Approved,54,51-65,Female,Full-time,100707,High Income,649,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9053,1790,Personal Loan,2000.0,8.22,120,2023-09-02,Approved,25,18-25,Female,Full-time,105714,High Income,677,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9054,1867,Auto Loan,31708.75,8.08,60,2024-01-28,Rejected,63,51-65,Male,Part-time,30693,Middle Income,680,Good,Toronto,Ontario,Toronto Main Branch,0,1,0
+9055,1564,Personal Loan,18688.04,11.72,60,2023-09-07,Approved,66,66+,Female,Self-employed,52460,Middle Income,592,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9056,1035,Business Loan,149270.54,9.89,24,2023-10-09,Paid Off,59,51-65,Male,Full-time,84112,High Income,631,Fair,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9057,1103,Personal Loan,24207.42,10.25,60,2023-05-03,Approved,46,36-50,Female,Full-time,51531,Middle Income,625,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9058,1108,Personal Loan,24682.67,8.49,240,2023-02-28,Approved,24,18-25,Female,Full-time,81316,High Income,757,Very Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9059,1140,Personal Loan,10588.2,9.07,24,2024-02-10,Approved,39,36-50,Female,Part-time,65340,Middle Income,625,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9060,1279,Personal Loan,24847.15,11.4,120,2024-02-18,Approved,58,51-65,Female,Part-time,12000,Low Income,584,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9061,1279,Auto Loan,24789.19,12.53,120,2023-02-01,Approved,58,51-65,Female,Part-time,12000,Low Income,584,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9062,1914,Business Loan,115166.53,9.06,36,2023-01-28,Approved,51,51-65,Female,Full-time,73386,High Income,682,Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9063,1659,Mortgage,357191.61,14.89,300,2023-08-20,Rejected,31,26-35,Female,Unemployed,18046,Low Income,507,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9064,1412,Student Loan,13467.29,13.38,36,2024-09-14,Rejected,41,36-50,Female,Full-time,65001,Middle Income,539,Poor,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9065,1472,Auto Loan,18014.72,14.24,300,2023-07-24,Approved,61,51-65,Female,Full-time,89338,High Income,581,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9066,1725,Auto Loan,25719.68,7.91,48,2023-03-23,Defaulted,36,36-50,Female,Part-time,36661,Middle Income,643,Fair,Surrey,British Columbia,Surrey Main Branch,0,0,1
+9067,1394,Mortgage,381760.76,14.79,36,2023-09-12,Paid Off,63,51-65,Female,Full-time,65306,Middle Income,527,Poor,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9068,1394,Personal Loan,16547.53,16.08,60,2023-03-04,Approved,63,51-65,Female,Full-time,65306,Middle Income,527,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9069,1194,Personal Loan,17969.4,17.61,60,2023-05-08,Defaulted,28,26-35,Male,Part-time,20461,Low Income,427,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9070,1194,Personal Loan,14362.29,13.31,300,2024-09-13,Rejected,28,26-35,Male,Part-time,20461,Low Income,427,Poor,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9071,1791,Business Loan,85281.8,16.68,24,2024-06-14,Rejected,45,36-50,Male,Retired,15343,Low Income,500,Poor,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9072,1099,Personal Loan,4279.25,12.04,300,2024-06-21,Paid Off,43,36-50,Other,Full-time,59925,Middle Income,546,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,0
+9073,1650,Student Loan,16175.85,12.59,12,2024-02-07,Approved,66,66+,Female,Full-time,89249,High Income,637,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9074,1892,Student Loan,23242.71,4.16,240,2024-01-24,Paid Off,34,26-35,Female,Full-time,54235,Middle Income,842,Excellent,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9075,1326,Auto Loan,26028.43,15.01,60,2023-06-29,Paid Off,37,36-50,Male,Full-time,96042,High Income,534,Poor,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9076,1868,Business Loan,111084.31,13.84,60,2023-03-23,Approved,18,18-25,Female,Full-time,55497,Middle Income,510,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9077,1233,Personal Loan,12056.53,10.92,48,2023-06-05,Approved,66,66+,Male,Full-time,56404,Middle Income,601,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9078,1233,Personal Loan,9590.81,12.52,48,2024-09-22,Approved,66,66+,Male,Full-time,56404,Middle Income,601,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9079,1094,Auto Loan,12943.35,14.61,60,2024-09-26,Approved,62,51-65,Male,Part-time,59273,Middle Income,541,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9080,1991,Student Loan,21242.55,9.46,24,2024-09-13,Paid Off,65,51-65,Female,Full-time,73372,High Income,706,Good,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9081,1287,Personal Loan,8297.09,9.02,48,2023-07-12,Approved,45,36-50,Male,Self-employed,89192,High Income,660,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9082,1298,Auto Loan,21145.19,10.17,120,2024-12-03,Approved,65,51-65,Female,Self-employed,110448,High Income,668,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9083,1014,Mortgage,224870.9,8.94,240,2023-07-03,Paid Off,70,66+,Female,Full-time,57055,Middle Income,626,Fair,Edmonton,Alberta,Edmonton Main Branch,0,0,0
+9084,1014,Personal Loan,9372.96,10.34,300,2023-07-31,Rejected,70,66+,Female,Full-time,57055,Middle Income,626,Fair,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9085,1351,Personal Loan,9090.51,15.13,48,2024-10-08,Paid Off,34,26-35,Male,Part-time,54494,Middle Income,596,Fair,Calgary,Alberta,Calgary Main Branch,0,0,0
+9086,1738,Personal Loan,26724.15,14.17,300,2024-03-07,Approved,37,36-50,Other,Retired,41824,Middle Income,590,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9087,1327,Mortgage,366614.24,5.65,48,2023-05-19,Approved,52,51-65,Male,Full-time,71509,High Income,683,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9088,1406,Mortgage,479217.37,14.02,36,2023-01-02,Approved,42,36-50,Male,Part-time,39110,Middle Income,635,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9089,1720,Mortgage,468289.38,9.7,60,2023-01-29,Rejected,62,51-65,Female,Unemployed,12000,Low Income,605,Fair,Calgary,Alberta,Calgary Main Branch,0,1,0
+9090,1751,Personal Loan,23338.75,13.58,60,2023-11-20,Approved,70,66+,Male,Full-time,54066,Middle Income,588,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9091,2000,Business Loan,107795.34,10.49,120,2024-06-03,Paid Off,32,26-35,Male,Unemployed,17011,Low Income,564,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9092,1822,Student Loan,12813.46,5.76,240,2024-06-04,Approved,47,36-50,Male,Full-time,82932,High Income,708,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9093,1822,Auto Loan,30677.85,6.72,120,2023-09-26,Approved,47,36-50,Male,Full-time,82932,High Income,708,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9094,1705,Mortgage,393014.92,10.32,300,2023-11-14,Approved,19,18-25,Female,Retired,49717,Middle Income,666,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9095,1469,Auto Loan,41088.79,12.9,24,2023-10-20,Approved,25,18-25,Male,Full-time,73772,High Income,676,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9096,1168,Mortgage,377995.38,14.49,36,2024-07-28,Rejected,47,36-50,Male,Full-time,33900,Middle Income,498,Poor,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9097,1168,Business Loan,161741.31,14.49,240,2023-08-26,Paid Off,47,36-50,Male,Full-time,33900,Middle Income,498,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9098,1522,Personal Loan,21293.07,9.09,36,2024-03-11,Approved,68,66+,Female,Self-employed,90102,High Income,657,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9099,1100,Auto Loan,18294.93,12.64,48,2023-04-10,Approved,42,36-50,Male,Full-time,83335,High Income,576,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9100,1647,Personal Loan,23766.75,16.42,36,2023-08-05,Approved,39,36-50,Other,Part-time,57819,Middle Income,569,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9101,1188,Business Loan,148133.96,8.91,48,2023-02-16,Paid Off,45,36-50,Male,Full-time,67073,Middle Income,612,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9102,1188,Personal Loan,22732.57,12.47,60,2023-09-26,Approved,45,36-50,Male,Full-time,67073,Middle Income,612,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9103,1152,Personal Loan,23049.9,12.51,36,2024-04-26,Approved,31,26-35,Female,Full-time,54090,Middle Income,549,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9104,1154,Personal Loan,23542.21,7.13,48,2024-02-04,Rejected,44,36-50,Female,Self-employed,76349,High Income,641,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9105,1291,Business Loan,120551.94,7.8,12,2023-10-23,Defaulted,48,36-50,Female,Part-time,35831,Middle Income,676,Good,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9106,1393,Auto Loan,20592.02,16.73,240,2023-03-06,Approved,66,66+,Male,Full-time,46672,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9107,1994,Auto Loan,28689.02,17.71,24,2024-04-27,Rejected,53,51-65,Male,Unemployed,22730,Low Income,594,Fair,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9108,1994,Personal Loan,20644.23,16.81,60,2024-05-11,Rejected,53,51-65,Male,Unemployed,22730,Low Income,594,Fair,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9109,1797,Mortgage,296556.8,12.03,300,2024-04-12,Approved,45,36-50,Male,Full-time,38658,Middle Income,500,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9110,1952,Mortgage,471549.65,13.03,120,2024-09-17,Defaulted,57,51-65,Female,Part-time,19691,Low Income,582,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,0,1
+9111,1842,Personal Loan,11520.03,14.43,36,2023-11-30,Defaulted,58,51-65,Male,Full-time,68539,Middle Income,508,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9112,1842,Auto Loan,32721.26,10.46,36,2023-03-07,Paid Off,58,51-65,Male,Full-time,68539,Middle Income,508,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9113,1364,Mortgage,403749.43,12.53,300,2023-08-25,Rejected,25,18-25,Male,Part-time,31989,Middle Income,561,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9114,1191,Auto Loan,20147.11,11.34,48,2024-03-25,Approved,61,51-65,Male,Full-time,79946,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9115,1191,Personal Loan,19302.84,10.34,48,2024-11-03,Approved,61,51-65,Male,Full-time,79946,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9116,1008,Mortgage,322022.73,12.25,48,2024-02-20,Approved,56,51-65,Male,Full-time,62012,Middle Income,553,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9117,1663,Personal Loan,16602.99,10.35,60,2024-12-23,Approved,64,51-65,Female,Unemployed,14364,Low Income,505,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9118,1713,Personal Loan,18790.24,15.0,60,2023-06-14,Paid Off,62,51-65,Female,Full-time,65627,Middle Income,574,Poor,Toronto,Ontario,Toronto Main Branch,0,0,0
+9119,1713,Student Loan,14267.02,13.85,240,2023-06-17,Defaulted,62,51-65,Female,Full-time,65627,Middle Income,574,Poor,Toronto,Ontario,Toronto Main Branch,0,0,1
+9120,1928,Auto Loan,23236.88,11.93,36,2023-04-30,Approved,34,26-35,Female,Full-time,50119,Middle Income,544,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9121,1333,Auto Loan,18570.03,14.25,60,2023-07-24,Rejected,35,26-35,Female,Self-employed,39597,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9122,1920,Auto Loan,25501.85,10.45,36,2024-10-01,Approved,47,36-50,Male,Student,21695,Low Income,605,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9123,1920,Auto Loan,21214.27,10.44,36,2023-01-08,Rejected,47,36-50,Male,Student,21695,Low Income,605,Fair,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9124,1241,Mortgage,254270.66,17.01,60,2023-12-13,Defaulted,18,18-25,Female,Full-time,82640,High Income,575,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,1
+9125,1241,Business Loan,119022.15,11.27,12,2024-03-03,Approved,18,18-25,Female,Full-time,82640,High Income,575,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9126,1703,Mortgage,292613.68,9.6,12,2024-10-26,Approved,67,66+,Male,Full-time,53765,Middle Income,626,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9127,1643,Personal Loan,32569.33,12.1,120,2024-08-03,Approved,66,66+,Male,Full-time,96229,High Income,646,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9128,1643,Personal Loan,19561.3,11.52,12,2024-10-23,Approved,66,66+,Male,Full-time,96229,High Income,646,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9129,1697,Personal Loan,16616.72,11.48,12,2023-10-20,Approved,24,18-25,Male,Full-time,47013,Middle Income,560,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9130,1132,Personal Loan,19931.27,11.83,60,2024-11-11,Rejected,50,36-50,Female,Student,30986,Middle Income,503,Poor,Regina,Saskatchewan,Regina Main Branch,0,1,0
+9131,1969,Mortgage,446249.18,9.67,36,2024-07-24,Defaulted,39,36-50,Female,Full-time,74393,High Income,674,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9132,1787,Auto Loan,41536.61,12.68,48,2024-08-05,Approved,41,36-50,Male,Part-time,48165,Middle Income,606,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9133,1787,Auto Loan,35123.46,9.58,36,2024-08-19,Approved,41,36-50,Male,Part-time,48165,Middle Income,606,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9134,1908,Auto Loan,30028.69,11.36,300,2024-02-03,Approved,51,51-65,Female,Retired,35393,Middle Income,599,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9135,1854,Auto Loan,47230.53,15.0,120,2023-05-26,Rejected,20,18-25,Female,Full-time,52968,Middle Income,485,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9136,1812,Mortgage,224149.41,13.97,36,2024-12-12,Defaulted,63,51-65,Male,Full-time,55297,Middle Income,568,Poor,Calgary,Alberta,Calgary Main Branch,0,0,1
+9137,1307,Auto Loan,26382.19,14.88,12,2023-04-10,Approved,49,36-50,Female,Part-time,23277,Low Income,420,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9138,1307,Auto Loan,21316.07,14.61,120,2023-09-21,Approved,49,36-50,Female,Part-time,23277,Low Income,420,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9139,1698,Personal Loan,14457.04,10.06,12,2024-04-06,Rejected,63,51-65,Female,Self-employed,99092,High Income,661,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9140,1988,Mortgage,618831.21,14.77,36,2023-10-24,Rejected,64,51-65,Female,Unemployed,12664,Low Income,576,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9141,1988,Personal Loan,19738.98,13.18,60,2024-11-08,Approved,64,51-65,Female,Unemployed,12664,Low Income,576,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9142,1454,Mortgage,469685.66,14.09,24,2023-06-19,Defaulted,49,36-50,Male,Full-time,33181,Middle Income,586,Fair,Calgary,Alberta,Calgary Main Branch,0,0,1
+9143,1510,Auto Loan,20066.13,12.27,48,2023-04-11,Approved,62,51-65,Male,Full-time,77764,High Income,664,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9144,1086,Auto Loan,30413.3,15.5,12,2024-05-30,Approved,65,51-65,Female,Full-time,64844,Middle Income,571,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9145,1377,Student Loan,19367.0,13.2,240,2023-10-05,Approved,21,18-25,Female,Full-time,85105,High Income,615,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9146,1125,Business Loan,38078.62,15.01,48,2023-03-01,Defaulted,58,51-65,Male,Full-time,73939,High Income,580,Fair,Regina,Saskatchewan,Regina Main Branch,0,0,1
+9147,1458,Business Loan,83072.9,12.28,36,2024-11-10,Approved,42,36-50,Female,Self-employed,17778,Low Income,667,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9148,1808,Mortgage,312504.16,8.2,60,2024-10-19,Approved,45,36-50,Other,Full-time,61057,Middle Income,629,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9149,1808,Personal Loan,8782.44,9.32,36,2024-08-11,Approved,45,36-50,Other,Full-time,61057,Middle Income,629,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9150,1931,Auto Loan,23061.55,14.23,24,2024-01-03,Approved,37,36-50,Female,Part-time,60757,Middle Income,547,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9151,1881,Auto Loan,32402.91,9.91,36,2023-09-15,Approved,56,51-65,Female,Part-time,29540,Low Income,505,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9152,1176,Business Loan,22763.16,15.75,24,2024-11-13,Approved,53,51-65,Male,Self-employed,73467,High Income,547,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9153,1144,Auto Loan,12102.24,8.75,36,2023-05-30,Paid Off,52,51-65,Male,Student,22969,Low Income,639,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9154,1210,Personal Loan,16545.86,11.82,24,2024-05-09,Rejected,54,51-65,Male,Full-time,57732,Middle Income,540,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9155,1354,Personal Loan,29765.3,11.1,12,2024-02-10,Rejected,29,26-35,Female,Student,12000,Low Income,522,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9156,1354,Auto Loan,26072.87,11.69,24,2023-12-02,Defaulted,29,26-35,Female,Student,12000,Low Income,522,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,0,1
+9157,1414,Personal Loan,2000.0,15.26,48,2024-09-04,Rejected,49,36-50,Female,Retired,42444,Middle Income,543,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9158,1484,Mortgage,440617.02,11.58,300,2023-12-27,Approved,69,66+,Female,Full-time,55816,Middle Income,537,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9159,1485,Personal Loan,25705.81,10.82,240,2023-03-14,Approved,33,26-35,Male,Part-time,52386,Middle Income,641,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9160,1780,Business Loan,69617.84,7.48,36,2023-03-22,Approved,29,26-35,Male,Full-time,75070,High Income,690,Good,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9161,1869,Personal Loan,13880.54,12.46,12,2023-07-23,Approved,68,66+,Female,Part-time,54592,Middle Income,565,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9162,1869,Mortgage,340042.02,13.65,12,2024-03-15,Rejected,68,66+,Female,Part-time,54592,Middle Income,565,Poor,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9163,1046,Mortgage,464279.54,10.33,48,2024-09-06,Approved,24,18-25,Female,Part-time,45077,Middle Income,613,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9164,1046,Auto Loan,29206.22,8.3,48,2023-10-09,Approved,24,18-25,Female,Part-time,45077,Middle Income,613,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9165,1541,Personal Loan,32854.75,17.37,60,2023-06-22,Approved,56,51-65,Female,Part-time,28990,Low Income,520,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9166,1434,Business Loan,154807.65,8.05,36,2023-05-20,Rejected,67,66+,Male,Full-time,73535,High Income,687,Good,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9167,1352,Auto Loan,33197.65,4.07,36,2024-02-08,Approved,50,36-50,Female,Self-employed,108658,High Income,761,Very Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9168,1149,Mortgage,388349.56,14.42,240,2024-11-29,Rejected,18,18-25,Female,Student,26281,Low Income,528,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9169,1236,Mortgage,411197.89,17.09,24,2023-10-14,Approved,45,36-50,Male,Full-time,69075,Middle Income,493,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9170,1675,Student Loan,23254.81,14.67,24,2024-01-26,Approved,33,26-35,Male,Full-time,83473,High Income,570,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9171,1675,Student Loan,3616.39,13.76,12,2023-07-15,Approved,33,26-35,Male,Full-time,83473,High Income,570,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9172,1205,Auto Loan,32328.59,10.28,36,2023-08-31,Rejected,56,51-65,Female,Full-time,83916,High Income,625,Fair,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9173,1047,Business Loan,137329.5,16.31,240,2024-05-02,Approved,38,36-50,Female,Full-time,55335,Middle Income,536,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9174,1834,Business Loan,61265.4,12.52,240,2024-08-11,Paid Off,43,36-50,Male,Part-time,27085,Low Income,564,Poor,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9175,1237,Auto Loan,34114.36,8.2,60,2024-11-03,Approved,40,36-50,Female,Retired,62605,Middle Income,607,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9176,1038,Auto Loan,25398.95,8.85,60,2024-05-14,Approved,32,26-35,Female,Full-time,61425,Middle Income,678,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9177,1420,Mortgage,470881.23,13.77,300,2024-04-09,Approved,59,51-65,Female,Self-employed,65617,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9178,1321,Business Loan,62535.91,8.33,12,2023-03-06,Approved,66,66+,Male,Self-employed,101028,High Income,611,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9179,1157,Mortgage,329924.24,11.17,48,2024-10-03,Approved,32,26-35,Female,Full-time,79338,High Income,671,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9180,1846,Personal Loan,10156.89,9.46,240,2024-12-16,Approved,65,51-65,Female,Full-time,80328,High Income,665,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9181,1803,Auto Loan,22974.22,15.47,12,2023-03-15,Rejected,26,26-35,Male,Part-time,46041,Middle Income,540,Poor,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9182,1599,Personal Loan,19472.19,12.52,24,2023-05-06,Paid Off,46,36-50,Female,Full-time,74879,High Income,628,Fair,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9183,1295,Personal Loan,32673.08,12.16,36,2024-01-18,Rejected,24,18-25,Female,Student,26640,Low Income,641,Fair,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9184,1295,Personal Loan,36667.77,10.55,48,2024-09-05,Paid Off,24,18-25,Female,Student,26640,Low Income,641,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9185,1740,Personal Loan,22043.36,6.2,48,2024-03-09,Approved,25,18-25,Male,Self-employed,105489,High Income,828,Excellent,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9186,1740,Personal Loan,27463.64,4.29,12,2023-12-05,Approved,25,18-25,Male,Self-employed,105489,High Income,828,Excellent,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9187,1962,Student Loan,13659.36,16.32,240,2024-03-22,Defaulted,68,66+,Male,Student,23173,Low Income,538,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,1
+9188,1530,Auto Loan,24753.1,8.3,300,2024-05-17,Approved,66,66+,Male,Part-time,37874,Middle Income,681,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9189,1527,Personal Loan,11519.89,11.14,240,2024-05-07,Approved,45,36-50,Male,Full-time,65488,Middle Income,658,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9190,1527,Mortgage,333486.13,10.64,60,2023-12-10,Approved,45,36-50,Male,Full-time,65488,Middle Income,658,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9191,1883,Student Loan,20729.65,12.21,60,2024-06-27,Rejected,51,51-65,Male,Full-time,87304,High Income,671,Good,Brampton,Ontario,Brampton Main Branch,0,1,0
+9192,1883,Personal Loan,10774.35,9.69,12,2024-07-05,Approved,51,51-65,Male,Full-time,87304,High Income,671,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9193,1877,Personal Loan,20108.3,14.32,24,2024-10-07,Approved,51,51-65,Female,Unemployed,12000,Low Income,513,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9194,1056,Auto Loan,23360.78,12.5,60,2024-07-06,Rejected,43,36-50,Female,Full-time,54928,Middle Income,565,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9195,1788,Mortgage,565861.64,12.9,60,2023-05-30,Approved,45,36-50,Female,Part-time,35644,Middle Income,627,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9196,1649,Personal Loan,24090.79,7.01,120,2023-12-09,Approved,36,36-50,Female,Full-time,66341,Middle Income,689,Good,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9197,1829,Personal Loan,3214.55,8.85,48,2024-11-24,Paid Off,49,36-50,Male,Self-employed,101040,High Income,651,Fair,Brampton,Ontario,Brampton Main Branch,0,0,0
+9198,1811,Mortgage,390723.78,6.91,36,2024-12-08,Approved,30,26-35,Female,Part-time,30365,Middle Income,623,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9199,1666,Personal Loan,10734.26,4.73,48,2024-04-18,Approved,22,18-25,Female,Full-time,72973,High Income,814,Excellent,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9200,1225,Student Loan,23172.48,15.6,48,2024-08-19,Approved,29,26-35,Female,Unemployed,20579,Low Income,535,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9201,1742,Mortgage,377006.45,6.32,300,2023-07-29,Rejected,56,51-65,Male,Full-time,78558,High Income,736,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9202,1347,Personal Loan,16614.34,14.91,300,2024-08-17,Approved,37,36-50,Female,Retired,39984,Middle Income,512,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9203,1037,Business Loan,123077.17,15.71,24,2023-09-28,Paid Off,33,26-35,Female,Student,24977,Low Income,579,Poor,Brampton,Ontario,Brampton Main Branch,0,0,0
+9204,1965,Business Loan,2000.0,9.79,12,2024-06-18,Approved,22,18-25,Female,Part-time,23788,Low Income,531,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9205,1916,Personal Loan,26228.59,9.58,120,2023-07-07,Approved,55,51-65,Male,Full-time,77241,High Income,648,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9206,1987,Personal Loan,22191.61,9.01,60,2024-10-31,Rejected,39,36-50,Male,Part-time,29355,Low Income,640,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9207,1559,Business Loan,153428.8,6.98,240,2024-12-05,Approved,21,18-25,Male,Full-time,93718,High Income,708,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9208,1863,Student Loan,14799.14,15.88,12,2024-07-06,Rejected,34,26-35,Male,Retired,47799,Middle Income,592,Fair,Montreal,Quebec,Montreal Main Branch,0,1,0
+9209,1304,Business Loan,93111.83,6.35,48,2024-05-26,Paid Off,29,26-35,Female,Full-time,73833,High Income,724,Good,Brampton,Ontario,Brampton Main Branch,0,0,0
+9210,1715,Student Loan,12988.08,13.88,48,2024-01-09,Rejected,39,36-50,Male,Student,12000,Low Income,514,Poor,Calgary,Alberta,Calgary Main Branch,0,1,0
+9211,1798,Auto Loan,31129.06,16.94,60,2023-10-31,Rejected,54,51-65,Male,Unemployed,23848,Low Income,543,Poor,Brampton,Ontario,Brampton Main Branch,0,1,0
+9212,1662,Mortgage,487511.33,7.83,300,2024-02-29,Rejected,36,36-50,Female,Part-time,33741,Middle Income,624,Fair,Calgary,Alberta,Calgary Main Branch,0,1,0
+9213,1244,Personal Loan,21717.27,8.78,48,2024-05-13,Approved,70,66+,Female,Full-time,55377,Middle Income,684,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9214,1771,Auto Loan,27154.9,5.26,60,2023-04-19,Approved,31,26-35,Male,Full-time,88657,High Income,754,Very Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9215,1948,Mortgage,495769.57,18.7,12,2024-12-28,Approved,28,26-35,Male,Full-time,78797,High Income,477,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9216,1948,Mortgage,156336.66,14.38,24,2023-08-10,Defaulted,28,26-35,Male,Full-time,78797,High Income,477,Poor,Calgary,Alberta,Calgary Main Branch,0,0,1
+9217,1753,Mortgage,300973.44,13.36,300,2024-04-08,Approved,61,51-65,Male,Full-time,51378,Middle Income,560,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9218,1785,Business Loan,12984.0,8.1,24,2024-04-24,Paid Off,55,51-65,Female,Part-time,37633,Middle Income,636,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9219,1201,Personal Loan,8192.86,9.97,120,2023-04-27,Approved,69,66+,Female,Full-time,87825,High Income,669,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9220,1482,Student Loan,14726.51,15.31,60,2024-10-05,Approved,52,51-65,Female,Full-time,62825,Middle Income,523,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9221,1358,Business Loan,29603.11,17.14,300,2024-03-18,Approved,63,51-65,Female,Full-time,117428,High Income,585,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9222,1358,Auto Loan,39603.62,13.69,48,2024-07-24,Approved,63,51-65,Female,Full-time,117428,High Income,585,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9223,1628,Personal Loan,16304.41,14.69,240,2024-09-09,Approved,56,51-65,Female,Part-time,45079,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9224,1316,Mortgage,433136.15,16.82,12,2023-05-20,Approved,41,36-50,Female,Full-time,67799,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9225,1714,Personal Loan,18752.56,18.46,36,2023-11-13,Approved,18,18-25,Female,Self-employed,54084,Middle Income,597,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9226,1714,Personal Loan,24728.31,11.47,24,2024-12-19,Approved,18,18-25,Female,Self-employed,54084,Middle Income,597,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9227,1028,Mortgage,499562.87,9.34,36,2024-09-10,Approved,50,36-50,Female,Full-time,96095,High Income,637,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9228,1891,Personal Loan,11475.39,9.04,60,2023-07-19,Paid Off,47,36-50,Female,Full-time,86357,High Income,601,Fair,Brampton,Ontario,Brampton Main Branch,0,0,0
+9229,1098,Mortgage,224806.76,7.39,36,2024-12-13,Paid Off,41,36-50,Female,Full-time,107668,High Income,636,Fair,Montreal,Quebec,Montreal Main Branch,0,0,0
+9230,1736,Auto Loan,21567.58,15.63,48,2024-05-06,Rejected,67,66+,Female,Part-time,41441,Middle Income,583,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9231,1428,Personal Loan,25393.45,8.62,36,2023-03-24,Approved,65,51-65,Other,Part-time,12000,Low Income,505,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9232,1080,Business Loan,72944.08,14.92,12,2024-04-08,Approved,61,51-65,Female,Full-time,85833,High Income,590,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9233,1801,Business Loan,73843.78,6.77,24,2023-03-16,Approved,44,36-50,Female,Full-time,117532,High Income,753,Very Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9234,1838,Personal Loan,10458.11,12.59,24,2024-11-21,Paid Off,66,66+,Female,Full-time,85633,High Income,672,Good,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9235,1922,Business Loan,52630.52,15.61,36,2023-12-22,Approved,68,66+,Male,Self-employed,83880,High Income,582,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9236,1076,Mortgage,510754.14,14.6,36,2023-07-12,Paid Off,21,18-25,Male,Part-time,60051,Middle Income,610,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,0
+9237,1193,Auto Loan,39663.35,12.62,60,2023-07-21,Approved,47,36-50,Male,Full-time,65438,Middle Income,665,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9238,1489,Student Loan,20157.58,17.13,36,2023-09-07,Approved,47,36-50,Female,Part-time,55977,Middle Income,571,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9239,1942,Personal Loan,5373.68,8.92,60,2024-08-28,Approved,28,26-35,Male,Full-time,76791,High Income,604,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9240,1497,Student Loan,19284.92,8.35,12,2024-08-03,Approved,70,66+,Male,Retired,79544,High Income,648,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9241,1602,Business Loan,95754.94,11.85,300,2023-10-04,Approved,43,36-50,Female,Full-time,95227,High Income,617,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9242,1602,Personal Loan,15651.7,10.96,48,2023-02-25,Approved,43,36-50,Female,Full-time,95227,High Income,617,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9243,1421,Auto Loan,38176.06,14.72,48,2024-01-12,Rejected,19,18-25,Female,Part-time,38032,Middle Income,502,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9244,1717,Mortgage,551128.32,10.54,36,2024-08-17,Approved,34,26-35,Male,Full-time,85138,High Income,667,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9245,1462,Student Loan,12357.46,17.97,240,2023-02-15,Defaulted,69,66+,Other,Full-time,38949,Middle Income,515,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9246,1185,Mortgage,53657.16,7.22,48,2024-12-12,Approved,62,51-65,Male,Retired,64670,Middle Income,695,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9247,1260,Mortgage,416446.22,8.85,48,2024-07-24,Paid Off,28,26-35,Male,Full-time,80847,High Income,649,Fair,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9248,1318,Auto Loan,28717.75,14.91,24,2023-07-20,Approved,41,36-50,Female,Part-time,24070,Low Income,573,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9249,1799,Mortgage,231562.0,14.73,24,2023-10-20,Approved,58,51-65,Male,Full-time,74437,High Income,582,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9250,1296,Mortgage,297092.16,11.84,12,2024-07-15,Approved,33,26-35,Male,Full-time,90199,High Income,614,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9251,1709,Personal Loan,16223.81,9.08,48,2023-11-08,Approved,55,51-65,Male,Self-employed,100648,High Income,633,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9252,1368,Personal Loan,5847.16,14.3,48,2024-06-02,Rejected,38,36-50,Male,Student,22536,Low Income,513,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9253,1368,Mortgage,462046.1,10.0,60,2023-07-06,Defaulted,38,36-50,Male,Student,22536,Low Income,513,Poor,Ottawa,Ontario,Ottawa Main Branch,0,0,1
+9254,1459,Mortgage,209018.41,11.59,120,2023-08-13,Approved,39,36-50,Female,Part-time,35446,Middle Income,514,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9255,1459,Auto Loan,34602.77,14.56,60,2023-05-01,Approved,39,36-50,Female,Part-time,35446,Middle Income,514,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9256,1674,Personal Loan,19069.24,17.09,48,2024-08-12,Rejected,40,36-50,Female,Student,17725,Low Income,496,Poor,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9257,1499,Personal Loan,17211.13,10.85,120,2023-01-10,Approved,26,26-35,Male,Full-time,71240,High Income,567,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9258,1499,Personal Loan,10367.11,12.55,24,2024-12-27,Approved,26,26-35,Male,Full-time,71240,High Income,567,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9259,1116,Auto Loan,43696.93,16.46,48,2024-06-15,Rejected,68,66+,Female,Self-employed,85955,High Income,530,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9260,1796,Mortgage,461553.35,10.58,48,2024-05-30,Approved,45,36-50,Female,Full-time,56214,Middle Income,454,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9261,1040,Business Loan,132427.91,9.01,36,2024-09-30,Paid Off,68,66+,Female,Unemployed,31753,Middle Income,632,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9262,1847,Personal Loan,17088.03,16.72,60,2024-01-31,Approved,23,18-25,Other,Student,22793,Low Income,459,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9263,1488,Personal Loan,17644.52,8.47,24,2024-09-03,Approved,59,51-65,Other,Full-time,72688,High Income,603,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9264,1639,Personal Loan,16186.58,15.4,24,2024-05-14,Approved,52,51-65,Male,Full-time,40475,Middle Income,582,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9265,1379,Personal Loan,3553.18,9.99,120,2024-08-31,Rejected,66,66+,Female,Full-time,76696,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9266,1379,Auto Loan,32963.67,10.57,60,2023-08-27,Rejected,66,66+,Female,Full-time,76696,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9267,1933,Personal Loan,31826.64,6.65,24,2024-08-28,Approved,22,18-25,Female,Self-employed,121776,Very High Income,709,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9268,1120,Personal Loan,18382.92,11.15,60,2024-04-05,Approved,52,51-65,Female,Full-time,62210,Middle Income,693,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9269,1731,Business Loan,90381.91,5.63,24,2023-11-07,Approved,36,36-50,Female,Full-time,63923,Middle Income,727,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9270,1731,Personal Loan,28987.01,5.84,48,2024-08-15,Paid Off,36,36-50,Female,Full-time,63923,Middle Income,727,Good,Brampton,Ontario,Brampton Main Branch,0,0,0
+9271,1635,Auto Loan,24549.56,9.5,36,2023-01-21,Approved,66,66+,Female,Full-time,53429,Middle Income,653,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9272,1767,Mortgage,370274.77,7.61,48,2024-03-15,Approved,35,26-35,Male,Full-time,66521,Middle Income,660,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9273,1898,Mortgage,545571.56,7.11,48,2023-06-10,Defaulted,38,36-50,Female,Full-time,87369,High Income,735,Good,Quebec City,Quebec,Quebec City Main Branch,0,0,1
+9274,1898,Mortgage,244222.15,7.1,36,2023-03-05,Approved,38,36-50,Female,Full-time,87369,High Income,735,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9275,1091,Mortgage,383755.83,13.61,36,2023-07-09,Approved,57,51-65,Male,Part-time,29518,Low Income,499,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9276,1091,Personal Loan,25858.33,13.85,240,2023-08-17,Defaulted,57,51-65,Male,Part-time,29518,Low Income,499,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,0,1
+9277,1911,Mortgage,552457.07,10.92,120,2023-01-01,Approved,32,26-35,Female,Full-time,69400,Middle Income,731,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9278,1896,Personal Loan,8228.47,14.81,120,2023-10-05,Approved,32,26-35,Male,Self-employed,76843,High Income,594,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9279,1574,Personal Loan,15381.57,9.41,60,2024-12-23,Approved,50,36-50,Female,Full-time,79420,High Income,638,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9280,1407,Business Loan,57247.15,14.17,48,2023-01-24,Approved,59,51-65,Male,Retired,40096,Middle Income,528,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9281,1407,Mortgage,371418.8,15.88,24,2024-02-17,Approved,59,51-65,Male,Retired,40096,Middle Income,528,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9282,1476,Personal Loan,10195.74,6.96,48,2024-12-08,Approved,23,18-25,Male,Full-time,61552,Middle Income,611,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9283,1476,Auto Loan,31977.54,11.24,60,2023-07-15,Approved,23,18-25,Male,Full-time,61552,Middle Income,611,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9284,1551,Personal Loan,19218.16,12.34,60,2023-03-27,Approved,69,66+,Female,Self-employed,113304,High Income,676,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9285,1551,Personal Loan,9203.98,14.12,60,2024-07-20,Rejected,69,66+,Female,Self-employed,113304,High Income,676,Good,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9286,1501,Personal Loan,14801.83,9.09,60,2024-02-04,Approved,70,66+,Female,Full-time,70166,High Income,600,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9287,1821,Auto Loan,32838.58,14.05,12,2023-06-09,Approved,27,26-35,Female,Full-time,68880,Middle Income,562,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9288,1830,Personal Loan,15557.53,15.78,36,2024-03-14,Approved,64,51-65,Male,Full-time,51712,Middle Income,579,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9289,1386,Personal Loan,7354.88,14.93,24,2024-04-12,Defaulted,70,66+,Female,Student,27200,Low Income,478,Poor,Edmonton,Alberta,Edmonton Main Branch,0,0,1
+9290,1959,Personal Loan,25849.97,9.8,60,2024-05-02,Approved,46,36-50,Female,Self-employed,99335,High Income,668,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9291,1092,Personal Loan,20233.92,10.11,36,2023-12-13,Approved,38,36-50,Female,Full-time,71231,High Income,605,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9292,1007,Mortgage,616935.22,14.42,60,2024-06-30,Approved,38,36-50,Male,Full-time,73410,High Income,582,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9293,1500,Business Loan,64476.66,5.07,120,2024-10-12,Approved,29,26-35,Male,Self-employed,137943,Very High Income,795,Very Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9294,1500,Mortgage,301059.69,5.77,12,2024-04-02,Approved,29,26-35,Male,Self-employed,137943,Very High Income,795,Very Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9295,1618,Auto Loan,23523.67,7.12,36,2023-08-11,Approved,54,51-65,Male,Part-time,42271,Middle Income,700,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9296,1030,Auto Loan,23118.85,6.54,240,2023-05-16,Approved,39,36-50,Female,Full-time,97507,High Income,759,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9297,1390,Auto Loan,36161.83,8.95,36,2023-03-16,Approved,54,51-65,Female,Full-time,67641,Middle Income,713,Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9298,1390,Business Loan,140317.47,6.2,36,2023-07-03,Approved,54,51-65,Female,Full-time,67641,Middle Income,713,Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9299,1363,Personal Loan,31270.96,6.15,300,2023-06-19,Approved,68,66+,Male,Self-employed,84262,High Income,746,Very Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9300,1461,Auto Loan,26169.48,11.92,36,2023-02-22,Rejected,66,66+,Female,Full-time,65390,Middle Income,504,Poor,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9301,1598,Auto Loan,35227.54,13.57,12,2024-02-07,Approved,25,18-25,Male,Full-time,85089,High Income,573,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9302,1053,Mortgage,50692.27,13.23,120,2024-07-21,Approved,31,26-35,Male,Full-time,83863,High Income,488,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9303,1374,Student Loan,19351.77,13.99,12,2024-12-27,Defaulted,22,18-25,Male,Unemployed,12000,Low Income,562,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9304,1538,Personal Loan,14760.25,7.21,12,2023-03-07,Approved,43,36-50,Male,Full-time,72614,High Income,708,Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9305,1511,Business Loan,154484.17,15.15,36,2023-04-21,Approved,70,66+,Female,Self-employed,52803,Middle Income,503,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9306,1113,Business Loan,22548.39,10.09,48,2023-12-25,Approved,25,18-25,Female,Self-employed,84970,High Income,751,Very Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9307,1888,Personal Loan,23351.52,7.36,60,2024-10-12,Approved,61,51-65,Male,Full-time,84623,High Income,712,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9308,1506,Personal Loan,7627.13,14.98,24,2023-01-31,Defaulted,49,36-50,Male,Full-time,64350,Middle Income,616,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9309,1506,Personal Loan,31698.44,11.18,300,2024-06-04,Approved,49,36-50,Male,Full-time,64350,Middle Income,616,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9310,1264,Personal Loan,26376.86,6.53,48,2024-04-11,Rejected,26,26-35,Female,Full-time,89282,High Income,725,Good,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9311,1411,Auto Loan,19477.16,9.04,24,2024-06-10,Paid Off,63,51-65,Male,Full-time,87361,High Income,707,Good,Calgary,Alberta,Calgary Main Branch,0,0,0
+9312,1479,Business Loan,66605.36,16.35,36,2023-01-16,Approved,69,66+,Female,Full-time,67413,Middle Income,585,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9313,1621,Personal Loan,12843.88,7.65,24,2024-10-16,Approved,52,51-65,Male,Full-time,73224,High Income,722,Good,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9314,1836,Mortgage,390306.18,16.72,300,2024-01-29,Rejected,39,36-50,Female,Full-time,63833,Middle Income,525,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9315,1732,Personal Loan,21930.19,10.67,12,2023-12-24,Rejected,56,51-65,Male,Full-time,91628,High Income,638,Fair,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9316,1613,Auto Loan,25582.41,9.19,24,2023-06-05,Approved,53,51-65,Female,Unemployed,16674,Low Income,611,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9317,1502,Personal Loan,28869.66,16.46,48,2024-03-02,Approved,18,18-25,Male,Retired,56866,Middle Income,572,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9318,1206,Mortgage,213444.4,16.01,36,2024-03-15,Defaulted,23,18-25,Male,Unemployed,21773,Low Income,575,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,1
+9319,1156,Mortgage,416178.07,11.99,24,2023-06-29,Defaulted,32,26-35,Male,Student,25215,Low Income,359,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,1
+9320,1156,Mortgage,512054.38,10.93,12,2024-02-08,Approved,32,26-35,Male,Student,25215,Low Income,359,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9321,1067,Student Loan,15152.77,15.3,36,2024-11-03,Approved,31,26-35,Female,Full-time,51722,Middle Income,564,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9322,1044,Auto Loan,24966.76,11.91,36,2024-12-23,Approved,54,51-65,Male,Part-time,34271,Middle Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9323,1256,Mortgage,540756.87,9.14,300,2024-06-28,Paid Off,69,66+,Female,Self-employed,38140,Middle Income,631,Fair,Brampton,Ontario,Brampton Main Branch,0,0,0
+9324,1993,Personal Loan,17850.34,10.06,12,2023-02-07,Approved,43,36-50,Male,Full-time,49968,Middle Income,581,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9325,1410,Personal Loan,10721.81,12.62,60,2024-05-16,Approved,57,51-65,Female,Full-time,61455,Middle Income,589,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9326,1809,Auto Loan,47092.94,11.34,48,2023-03-15,Paid Off,65,51-65,Female,Full-time,78942,High Income,613,Fair,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9327,1809,Auto Loan,40758.06,14.06,240,2024-01-20,Approved,65,51-65,Female,Full-time,78942,High Income,613,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9328,1961,Business Loan,73474.78,10.19,48,2024-06-24,Approved,67,66+,Female,Self-employed,72400,High Income,614,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9329,1337,Personal Loan,17910.41,15.51,60,2024-02-07,Approved,52,51-65,Male,Part-time,42687,Middle Income,569,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9330,1968,Personal Loan,26193.84,13.74,300,2023-01-09,Approved,59,51-65,Male,Full-time,90731,High Income,477,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9331,1968,Mortgage,459126.04,12.75,60,2024-04-29,Approved,59,51-65,Male,Full-time,90731,High Income,477,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9332,1683,Personal Loan,11429.71,10.7,36,2024-03-21,Approved,22,18-25,Male,Full-time,79896,High Income,619,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9333,1214,Auto Loan,17774.57,13.69,24,2023-06-23,Rejected,61,51-65,Male,Part-time,34201,Middle Income,373,Poor,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9334,1311,Personal Loan,15915.89,8.76,36,2023-01-27,Approved,36,36-50,Male,Self-employed,110272,High Income,638,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9335,1311,Personal Loan,25920.49,10.54,120,2024-04-16,Approved,36,36-50,Male,Self-employed,110272,High Income,638,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9336,1172,Auto Loan,22422.27,6.43,60,2024-12-23,Approved,62,51-65,Male,Full-time,73190,High Income,667,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9337,1430,Personal Loan,15897.28,8.43,240,2023-05-12,Approved,46,36-50,Male,Student,13948,Low Income,650,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9338,1475,Mortgage,422683.71,10.51,12,2024-08-06,Rejected,21,18-25,Male,Self-employed,127167,Very High Income,653,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9339,1536,Personal Loan,20389.57,14.33,240,2024-08-18,Rejected,33,26-35,Female,Unemployed,21246,Low Income,440,Poor,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9340,1359,Personal Loan,18642.56,7.1,48,2024-02-27,Approved,47,36-50,Male,Full-time,110796,High Income,750,Very Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9341,1023,Personal Loan,19783.84,15.68,36,2024-12-05,Approved,61,51-65,Female,Full-time,77186,High Income,556,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9342,1023,Student Loan,29455.57,16.06,120,2023-07-12,Paid Off,61,51-65,Female,Full-time,77186,High Income,556,Poor,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9343,1772,Personal Loan,24250.37,15.76,24,2024-03-13,Approved,32,26-35,Male,Part-time,38381,Middle Income,599,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9344,1772,Business Loan,144758.18,11.88,60,2024-06-07,Rejected,32,26-35,Male,Part-time,38381,Middle Income,599,Fair,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9345,1324,Mortgage,205606.73,16.71,36,2023-05-17,Defaulted,55,51-65,Male,Student,19117,Low Income,529,Poor,Quebec City,Quebec,Quebec City Main Branch,0,0,1
+9346,1433,Student Loan,22742.78,13.69,48,2023-02-21,Approved,52,51-65,Male,Self-employed,124632,Very High Income,659,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9347,1442,Business Loan,101155.3,9.73,300,2024-08-29,Approved,18,18-25,Male,Full-time,56401,Middle Income,610,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9348,1770,Auto Loan,27348.87,7.35,36,2024-02-06,Rejected,66,66+,Female,Part-time,58282,Middle Income,746,Very Good,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9349,1261,Business Loan,106754.97,17.57,12,2023-04-23,Approved,65,51-65,Female,Part-time,40064,Middle Income,519,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9350,1625,Auto Loan,15657.28,10.32,60,2024-11-30,Approved,53,51-65,Female,Self-employed,59916,Middle Income,732,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9351,1552,Student Loan,10658.26,12.99,48,2024-02-03,Approved,48,36-50,Male,Full-time,64717,Middle Income,580,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9352,1762,Personal Loan,23617.25,11.61,24,2023-05-10,Approved,54,51-65,Male,Self-employed,68206,Middle Income,622,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9353,1164,Auto Loan,30284.98,12.21,120,2024-12-24,Approved,66,66+,Female,Full-time,90984,High Income,630,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9354,1856,Mortgage,261009.1,8.11,24,2023-08-20,Approved,40,36-50,Female,Self-employed,126939,Very High Income,648,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9355,1938,Business Loan,117086.16,10.2,300,2024-07-08,Rejected,30,26-35,Female,Full-time,67530,Middle Income,620,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9356,1045,Student Loan,20725.29,10.51,24,2023-09-20,Approved,68,66+,Male,Full-time,81259,High Income,655,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9357,1045,Personal Loan,25171.4,10.56,120,2023-12-13,Approved,68,66+,Male,Full-time,81259,High Income,655,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9358,1104,Personal Loan,5353.25,10.16,60,2023-12-10,Approved,32,26-35,Male,Self-employed,51818,Middle Income,635,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9359,1323,Mortgage,483299.6,11.58,36,2024-03-29,Paid Off,53,51-65,Female,Full-time,76749,High Income,610,Fair,Toronto,Ontario,Toronto Main Branch,0,0,0
+9360,1305,Business Loan,119614.69,14.51,24,2023-04-10,Approved,22,18-25,Female,Full-time,60070,Middle Income,464,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9361,1283,Mortgage,420041.7,18.03,48,2024-10-03,Rejected,35,26-35,Female,Student,25889,Low Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9362,1054,Personal Loan,24488.86,18.85,24,2023-05-18,Approved,67,66+,Female,Full-time,67041,Middle Income,531,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9363,1880,Personal Loan,24722.75,18.73,60,2023-06-22,Approved,25,18-25,Female,Part-time,34355,Middle Income,574,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9364,1102,Auto Loan,30874.92,12.42,300,2024-08-04,Approved,58,51-65,Female,Full-time,98062,High Income,576,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9365,1576,Auto Loan,36324.84,6.11,240,2024-08-26,Approved,60,51-65,Female,Full-time,76613,High Income,660,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9366,1632,Mortgage,241299.78,9.95,48,2023-12-14,Rejected,49,36-50,Female,Student,12722,Low Income,541,Poor,Brampton,Ontario,Brampton Main Branch,0,1,0
+9367,1439,Business Loan,66395.25,7.05,60,2024-05-22,Approved,53,51-65,Female,Full-time,105653,High Income,755,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9368,1215,Business Loan,39589.79,9.94,24,2024-02-29,Approved,41,36-50,Male,Full-time,46696,Middle Income,640,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9369,1614,Auto Loan,42568.01,18.78,24,2024-07-18,Rejected,42,36-50,Female,Full-time,45230,Middle Income,566,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9370,1186,Personal Loan,29232.7,9.09,36,2024-04-01,Rejected,70,66+,Female,Student,12000,Low Income,614,Fair,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9371,1101,Personal Loan,24145.55,7.74,36,2024-07-21,Approved,62,51-65,Male,Student,28147,Low Income,652,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9372,1101,Mortgage,278862.99,10.73,48,2024-06-05,Approved,62,51-65,Male,Student,28147,Low Income,652,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9373,1173,Auto Loan,39882.19,13.46,240,2024-09-04,Approved,32,26-35,Male,Full-time,56795,Middle Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9374,1173,Personal Loan,9226.01,11.83,60,2024-08-17,Approved,32,26-35,Male,Full-time,56795,Middle Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9375,1668,Student Loan,17164.22,19.91,60,2024-07-06,Approved,29,26-35,Female,Part-time,29017,Low Income,538,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9376,1927,Business Loan,46044.81,11.93,60,2023-10-10,Approved,27,26-35,Male,Self-employed,31920,Middle Income,613,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9377,1314,Auto Loan,16489.62,14.5,48,2024-09-23,Rejected,20,18-25,Female,Part-time,45167,Middle Income,483,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9378,1199,Personal Loan,15512.89,10.09,48,2024-01-06,Approved,18,18-25,Male,Self-employed,74547,High Income,525,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9379,1580,Personal Loan,5268.01,11.06,120,2024-06-12,Approved,18,18-25,Male,Student,34043,Middle Income,607,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9380,1580,Auto Loan,50819.31,9.28,240,2024-02-13,Approved,18,18-25,Male,Student,34043,Middle Income,607,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9381,1601,Business Loan,152739.47,12.04,24,2023-10-29,Approved,27,26-35,Male,Full-time,69371,Middle Income,639,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9382,1545,Business Loan,48131.62,14.04,60,2023-03-20,Approved,54,51-65,Female,Full-time,56068,Middle Income,581,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9383,1873,Business Loan,115753.66,6.89,60,2023-04-21,Approved,18,18-25,Female,Part-time,34977,Middle Income,681,Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9384,1118,Business Loan,104714.56,13.26,12,2023-08-04,Approved,25,18-25,Female,Part-time,37812,Middle Income,579,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9385,1967,Mortgage,399037.44,15.07,60,2024-02-24,Approved,45,36-50,Male,Part-time,32713,Middle Income,479,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9386,1401,Personal Loan,18709.21,11.2,240,2024-12-26,Approved,49,36-50,Male,Unemployed,12000,Low Income,613,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9387,1999,Mortgage,183247.37,9.84,12,2023-03-20,Approved,69,66+,Male,Part-time,48950,Middle Income,676,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9388,1875,Student Loan,27488.11,9.06,300,2023-05-30,Approved,57,51-65,Female,Full-time,106968,High Income,677,Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9389,1290,Personal Loan,15707.49,17.71,48,2023-12-18,Approved,40,36-50,Male,Full-time,96295,High Income,561,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9390,1531,Personal Loan,24122.45,10.98,24,2023-07-04,Rejected,47,36-50,Male,Full-time,103637,High Income,637,Fair,Brampton,Ontario,Brampton Main Branch,0,1,0
+9391,1306,Personal Loan,17117.08,13.21,36,2024-01-06,Paid Off,54,51-65,Female,Unemployed,14526,Low Income,496,Poor,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9392,1945,Mortgage,246169.26,9.61,24,2023-01-31,Rejected,40,36-50,Female,Full-time,65453,Middle Income,672,Good,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9393,1759,Business Loan,104633.72,9.88,60,2023-10-28,Approved,33,26-35,Male,Full-time,72298,High Income,649,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9394,1270,Auto Loan,31796.45,12.5,12,2023-08-28,Paid Off,53,51-65,Female,Full-time,70778,High Income,674,Good,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9395,1438,Business Loan,129379.11,5.97,60,2024-07-19,Approved,24,18-25,Male,Self-employed,72826,High Income,741,Very Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9396,1438,Business Loan,91496.12,6.51,24,2024-04-13,Defaulted,24,18-25,Male,Self-employed,72826,High Income,741,Very Good,Brampton,Ontario,Brampton Main Branch,0,0,1
+9397,1017,Auto Loan,24332.72,14.48,12,2024-02-15,Paid Off,41,36-50,Male,Full-time,112340,High Income,528,Poor,Edmonton,Alberta,Edmonton Main Branch,0,0,0
+9398,1373,Auto Loan,36425.38,7.44,12,2024-09-29,Approved,50,36-50,Male,Full-time,83633,High Income,633,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9399,1570,Auto Loan,37586.49,13.78,300,2024-09-08,Approved,29,26-35,Female,Self-employed,59316,Middle Income,581,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9400,1544,Personal Loan,41476.4,14.18,300,2023-03-24,Approved,47,36-50,Male,Student,33918,Middle Income,520,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9401,1365,Auto Loan,38531.73,9.3,36,2023-09-08,Approved,44,36-50,Female,Full-time,83182,High Income,622,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9402,1700,Mortgage,380869.77,3.0,60,2023-05-24,Paid Off,57,51-65,Female,Self-employed,129311,Very High Income,760,Very Good,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9403,1939,Mortgage,594174.93,14.96,24,2024-03-24,Approved,60,51-65,Female,Student,12000,Low Income,518,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9404,1955,Personal Loan,20079.97,8.47,36,2023-10-12,Approved,20,18-25,Male,Full-time,72420,High Income,676,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9405,1862,Mortgage,526653.16,9.5,60,2024-09-01,Rejected,36,36-50,Female,Retired,30952,Middle Income,741,Very Good,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9406,1213,Personal Loan,17207.65,14.02,60,2024-11-06,Approved,59,51-65,Female,Part-time,39106,Middle Income,581,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9407,1213,Auto Loan,23366.58,11.39,300,2023-02-19,Approved,59,51-65,Female,Part-time,39106,Middle Income,581,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9408,1151,Business Loan,115272.01,7.64,60,2023-03-02,Approved,43,36-50,Male,Retired,66418,Middle Income,633,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9409,1158,Personal Loan,13251.28,12.94,240,2023-01-29,Rejected,43,36-50,Male,Full-time,81518,High Income,565,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9410,1756,Business Loan,10944.61,11.92,48,2023-01-12,Approved,62,51-65,Female,Student,12000,Low Income,500,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9411,1234,Personal Loan,6390.25,12.38,48,2023-01-28,Rejected,19,18-25,Male,Part-time,45747,Middle Income,658,Fair,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9412,1585,Mortgage,160617.37,13.51,300,2023-06-15,Approved,61,51-65,Male,Retired,51985,Middle Income,578,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9413,1310,Personal Loan,12893.29,9.96,300,2023-05-01,Approved,52,51-65,Female,Full-time,69528,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9414,1310,Personal Loan,16232.21,9.37,60,2023-09-10,Approved,52,51-65,Female,Full-time,69528,Middle Income,650,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9415,1166,Auto Loan,43054.57,6.12,60,2023-04-08,Rejected,49,36-50,Male,Full-time,81837,High Income,634,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9416,1494,Personal Loan,16007.6,16.23,240,2023-06-14,Approved,43,36-50,Female,Student,17858,Low Income,548,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9417,1372,Personal Loan,16603.3,16.47,120,2023-06-26,Paid Off,64,51-65,Male,Full-time,84557,High Income,543,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,0
+9418,1783,Personal Loan,20921.45,11.7,36,2024-01-28,Approved,33,26-35,Male,Full-time,68098,Middle Income,651,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9419,1187,Mortgage,277219.8,6.88,300,2023-05-11,Approved,23,18-25,Female,Full-time,92272,High Income,799,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9420,1187,Student Loan,19925.33,5.94,36,2023-01-31,Approved,23,18-25,Female,Full-time,92272,High Income,799,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9421,1273,Personal Loan,10765.03,3.83,60,2023-02-15,Approved,20,18-25,Female,Full-time,85273,High Income,752,Very Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9422,1588,Auto Loan,31861.36,7.79,300,2024-06-09,Defaulted,29,26-35,Male,Retired,70136,High Income,629,Fair,Quebec City,Quebec,Quebec City Main Branch,0,0,1
+9423,1936,Auto Loan,23664.11,12.98,60,2024-12-29,Rejected,70,66+,Male,Student,16276,Low Income,493,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9424,1936,Mortgage,416572.08,12.2,48,2024-02-12,Approved,70,66+,Male,Student,16276,Low Income,493,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9425,1906,Business Loan,105434.13,13.14,300,2023-07-27,Approved,55,51-65,Female,Part-time,43319,Middle Income,639,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9426,1490,Personal Loan,14005.03,11.77,36,2023-05-16,Defaulted,36,36-50,Male,Part-time,31962,Middle Income,515,Poor,Calgary,Alberta,Calgary Main Branch,0,0,1
+9427,1135,Personal Loan,19717.5,13.14,240,2023-12-26,Paid Off,41,36-50,Female,Full-time,29238,Low Income,591,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9428,1870,Auto Loan,37996.19,10.3,300,2023-08-22,Approved,62,51-65,Female,Part-time,57921,Middle Income,670,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9429,1963,Auto Loan,26263.37,15.88,12,2024-12-16,Approved,36,36-50,Male,Full-time,74535,High Income,552,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9430,1826,Mortgage,399506.77,10.2,12,2024-06-16,Approved,50,36-50,Female,Self-employed,102508,High Income,651,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9431,1825,Personal Loan,19052.41,15.99,60,2024-01-25,Rejected,22,18-25,Male,Student,31048,Middle Income,577,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9432,1831,Personal Loan,21948.3,18.3,300,2023-06-04,Approved,66,66+,Female,Student,34275,Middle Income,483,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9433,1831,Auto Loan,35458.34,13.11,12,2023-04-03,Defaulted,66,66+,Female,Student,34275,Middle Income,483,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9434,1124,Personal Loan,2000.0,12.93,12,2023-05-18,Approved,56,51-65,Male,Full-time,69339,Middle Income,542,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9435,1977,Auto Loan,37978.07,9.14,48,2023-03-30,Paid Off,63,51-65,Male,Full-time,62401,Middle Income,613,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9436,1309,Student Loan,7840.22,12.62,60,2023-02-26,Paid Off,58,51-65,Male,Full-time,84174,High Income,598,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9437,1429,Auto Loan,17974.85,16.31,60,2023-02-23,Paid Off,56,51-65,Male,Full-time,89621,High Income,626,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,0
+9438,1624,Personal Loan,24266.43,8.03,24,2024-01-01,Paid Off,65,51-65,Male,Part-time,57594,Middle Income,652,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9439,1165,Personal Loan,25625.88,6.76,36,2024-02-05,Paid Off,69,66+,Male,Full-time,80342,High Income,680,Good,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9440,1590,Personal Loan,9034.97,11.33,60,2023-07-01,Approved,63,51-65,Male,Self-employed,87213,High Income,671,Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9441,1257,Mortgage,384318.71,10.37,120,2024-08-21,Approved,51,51-65,Male,Part-time,12000,Low Income,572,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9442,1360,Mortgage,319673.48,12.36,240,2024-10-12,Approved,55,51-65,Female,Part-time,26269,Low Income,467,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9443,1901,Student Loan,12665.52,19.04,36,2023-10-04,Approved,28,26-35,Male,Part-time,35652,Middle Income,567,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9444,1437,Business Loan,49166.94,13.4,24,2023-01-17,Defaulted,30,26-35,Male,Full-time,96469,High Income,650,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9445,1122,Student Loan,20564.53,10.5,36,2024-07-02,Approved,22,18-25,Male,Retired,34215,Middle Income,543,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9446,1122,Personal Loan,14807.44,17.05,12,2023-05-05,Approved,22,18-25,Male,Retired,34215,Middle Income,543,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9447,1634,Mortgage,336827.69,14.53,60,2023-11-27,Rejected,29,26-35,Male,Retired,62491,Middle Income,590,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9448,1634,Business Loan,93559.49,16.11,300,2024-09-19,Approved,29,26-35,Male,Retired,62491,Middle Income,590,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9449,1529,Student Loan,21061.49,16.82,24,2023-05-04,Approved,64,51-65,Male,Unemployed,15719,Low Income,455,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9450,1555,Auto Loan,17905.18,8.7,48,2023-02-21,Approved,49,36-50,Female,Full-time,58264,Middle Income,688,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9451,1480,Mortgage,229974.53,12.59,12,2024-06-19,Approved,47,36-50,Female,Unemployed,15637,Low Income,657,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9452,1480,Student Loan,29350.96,8.64,24,2023-11-04,Rejected,47,36-50,Female,Unemployed,15637,Low Income,657,Fair,Montreal,Quebec,Montreal Main Branch,0,1,0
+9453,1688,Mortgage,487286.93,12.42,36,2024-02-10,Paid Off,28,26-35,Female,Part-time,50491,Middle Income,614,Fair,Montreal,Quebec,Montreal Main Branch,0,0,0
+9454,1966,Mortgage,451245.76,14.2,120,2023-06-19,Approved,35,26-35,Female,Part-time,40368,Middle Income,534,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9455,1507,Mortgage,340149.97,17.09,120,2024-06-18,Approved,65,51-65,Male,Retired,62387,Middle Income,503,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9456,1611,Mortgage,289837.5,7.88,12,2024-03-12,Paid Off,28,26-35,Female,Full-time,60454,Middle Income,708,Good,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9457,1611,Business Loan,57350.94,6.41,60,2024-01-06,Approved,28,26-35,Female,Full-time,60454,Middle Income,708,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9458,1958,Personal Loan,26300.81,7.33,60,2023-12-31,Approved,44,36-50,Male,Full-time,75983,High Income,683,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9459,1669,Mortgage,218529.0,8.14,300,2024-07-14,Approved,42,36-50,Male,Full-time,85505,High Income,696,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9460,1669,Business Loan,160843.99,6.08,240,2023-04-21,Rejected,42,36-50,Male,Full-time,85505,High Income,696,Good,Regina,Saskatchewan,Regina Main Branch,0,1,0
+9461,1217,Personal Loan,21319.42,11.9,60,2023-04-17,Paid Off,49,36-50,Female,Full-time,70038,High Income,536,Poor,Toronto,Ontario,Toronto Main Branch,0,0,0
+9462,1217,Personal Loan,12026.71,12.53,60,2024-07-06,Approved,49,36-50,Female,Full-time,70038,High Income,536,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9463,1763,Personal Loan,30301.88,4.82,240,2023-08-03,Approved,53,51-65,Female,Full-time,105168,High Income,820,Excellent,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9464,1653,Personal Loan,9944.42,10.17,60,2023-01-26,Approved,58,51-65,Female,Full-time,62777,Middle Income,695,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9465,1653,Personal Loan,18647.61,8.42,36,2023-04-10,Paid Off,58,51-65,Female,Full-time,62777,Middle Income,695,Good,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9466,1385,Auto Loan,30085.49,6.72,300,2023-05-29,Defaulted,63,51-65,Female,Full-time,54761,Middle Income,698,Good,Vancouver,British Columbia,Vancouver Main Branch,0,0,1
+9467,1385,Personal Loan,29655.83,8.95,60,2024-02-29,Paid Off,63,51-65,Female,Full-time,54761,Middle Income,698,Good,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9468,1174,Business Loan,118085.86,13.03,60,2023-11-17,Approved,60,51-65,Female,Full-time,57274,Middle Income,563,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9469,1200,Personal Loan,28415.73,7.07,60,2024-09-19,Approved,44,36-50,Female,Full-time,75120,High Income,686,Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9470,1648,Personal Loan,20622.62,14.54,48,2024-04-12,Paid Off,30,26-35,Female,Self-employed,136218,Very High Income,546,Poor,Calgary,Alberta,Calgary Main Branch,0,0,0
+9471,1600,Personal Loan,22661.84,15.74,36,2024-11-19,Approved,43,36-50,Female,Full-time,44438,Middle Income,584,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9472,1597,Auto Loan,32392.86,11.63,12,2024-07-17,Approved,43,36-50,Male,Part-time,53838,Middle Income,552,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9473,1857,Auto Loan,35069.34,6.7,48,2024-07-06,Approved,54,51-65,Female,Part-time,35039,Middle Income,718,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9474,1473,Personal Loan,17431.71,15.98,120,2024-05-04,Rejected,22,18-25,Male,Full-time,34896,Middle Income,546,Poor,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9475,1473,Auto Loan,49846.36,12.83,36,2024-06-01,Rejected,22,18-25,Male,Full-time,34896,Middle Income,546,Poor,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9476,1289,Mortgage,240838.48,13.76,36,2023-09-01,Rejected,67,66+,Male,Student,12000,Low Income,490,Poor,Regina,Saskatchewan,Regina Main Branch,0,1,0
+9477,1636,Auto Loan,17145.15,13.15,48,2023-09-01,Approved,30,26-35,Male,Self-employed,113401,High Income,608,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9478,1636,Business Loan,45958.48,9.95,60,2023-07-03,Approved,30,26-35,Male,Self-employed,113401,High Income,608,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9479,1006,Personal Loan,21061.92,11.86,60,2023-12-23,Approved,25,18-25,Female,Full-time,78151,High Income,653,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9480,1263,Business Loan,15286.39,9.18,12,2023-07-29,Paid Off,50,36-50,Male,Full-time,84835,High Income,685,Good,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9481,1263,Business Loan,59489.0,8.78,60,2023-01-05,Approved,50,36-50,Male,Full-time,84835,High Income,685,Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9482,1416,Personal Loan,19030.47,16.86,300,2023-04-13,Rejected,39,36-50,Male,Full-time,79849,High Income,570,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9483,1235,Personal Loan,7829.73,14.5,12,2024-03-12,Paid Off,19,18-25,Female,Part-time,49940,Middle Income,582,Fair,Montreal,Quebec,Montreal Main Branch,0,0,0
+9484,1973,Business Loan,49802.12,12.41,48,2023-09-28,Approved,22,18-25,Female,Full-time,98897,High Income,637,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9485,1973,Mortgage,347660.53,8.01,12,2024-07-16,Approved,22,18-25,Female,Full-time,98897,High Income,637,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9486,1737,Personal Loan,24665.42,12.17,24,2024-12-12,Approved,45,36-50,Female,Student,18089,Low Income,539,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9487,1737,Mortgage,459889.94,12.84,120,2024-08-28,Rejected,45,36-50,Female,Student,18089,Low Income,539,Poor,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9488,1902,Personal Loan,8389.78,15.11,36,2024-01-25,Paid Off,68,66+,Male,Part-time,55745,Middle Income,562,Poor,Toronto,Ontario,Toronto Main Branch,0,0,0
+9489,1471,Personal Loan,27237.81,9.96,24,2024-01-05,Rejected,61,51-65,Male,Full-time,59827,Middle Income,571,Poor,Brampton,Ontario,Brampton Main Branch,0,1,0
+9490,1060,Personal Loan,8848.53,14.93,60,2024-08-29,Paid Off,45,36-50,Other,Retired,41072,Middle Income,520,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9491,1464,Mortgage,305054.16,12.23,36,2024-10-17,Approved,23,18-25,Female,Full-time,60500,Middle Income,552,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9492,1464,Mortgage,438631.75,11.62,60,2024-04-23,Approved,23,18-25,Female,Full-time,60500,Middle Income,552,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9493,1691,Personal Loan,33410.76,9.96,60,2023-08-15,Approved,29,26-35,Female,Full-time,75496,High Income,692,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9494,1899,Mortgage,272801.4,13.76,36,2024-08-19,Approved,31,26-35,Male,Unemployed,14111,Low Income,586,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9495,1355,Auto Loan,13934.95,14.56,24,2023-01-14,Rejected,68,66+,Male,Full-time,107076,High Income,567,Poor,Montreal,Quebec,Montreal Main Branch,0,1,0
+9496,1807,Business Loan,110094.44,11.16,60,2023-08-31,Approved,30,26-35,Male,Full-time,48252,Middle Income,497,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9497,1807,Mortgage,494026.71,17.88,48,2023-12-08,Defaulted,30,26-35,Male,Full-time,48252,Middle Income,497,Poor,Quebec City,Quebec,Quebec City Main Branch,0,0,1
+9498,1203,Personal Loan,5816.4,17.25,12,2023-11-02,Approved,58,51-65,Male,Full-time,66313,Middle Income,519,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9499,1344,Auto Loan,28824.69,10.12,12,2024-12-13,Rejected,31,26-35,Male,Retired,29999,Low Income,620,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9500,1322,Personal Loan,21338.63,15.6,36,2024-05-29,Paid Off,25,18-25,Female,Retired,58827,Middle Income,593,Fair,Calgary,Alberta,Calgary Main Branch,0,0,0
+9501,1477,Mortgage,303778.12,13.26,24,2023-10-24,Approved,62,51-65,Female,Full-time,92140,High Income,582,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9502,1477,Auto Loan,24089.12,16.26,60,2024-03-29,Approved,62,51-65,Female,Full-time,92140,High Income,582,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9503,1145,Auto Loan,23174.81,6.34,300,2023-04-17,Approved,54,51-65,Female,Full-time,86818,High Income,788,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9504,1761,Mortgage,357380.66,10.47,60,2023-08-25,Approved,28,26-35,Male,Part-time,63270,Middle Income,699,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9505,1761,Mortgage,434054.03,6.41,36,2024-04-24,Approved,28,26-35,Male,Part-time,63270,Middle Income,699,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9506,1090,Personal Loan,29104.7,11.67,48,2023-07-21,Approved,40,36-50,Male,Full-time,83443,High Income,568,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9507,1195,Auto Loan,33016.82,10.24,60,2023-08-21,Approved,45,36-50,Male,Unemployed,21443,Low Income,590,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9508,1117,Personal Loan,24548.39,12.85,48,2023-08-31,Approved,34,26-35,Male,Full-time,43722,Middle Income,587,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9509,1871,Auto Loan,35402.95,15.57,36,2023-02-26,Approved,30,26-35,Male,Part-time,12000,Low Income,557,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9510,1850,Personal Loan,31082.39,10.21,36,2023-01-04,Rejected,22,18-25,Male,Full-time,82906,High Income,643,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9511,1661,Mortgage,441232.41,11.82,60,2023-12-03,Approved,69,66+,Male,Full-time,88888,High Income,615,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9512,1661,Business Loan,63429.98,9.36,300,2023-02-24,Approved,69,66+,Male,Full-time,88888,High Income,615,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9513,1240,Auto Loan,23439.3,9.33,24,2023-02-12,Approved,50,36-50,Female,Full-time,104640,High Income,734,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9514,1671,Business Loan,150049.01,8.17,300,2024-10-03,Approved,38,36-50,Other,Full-time,47952,Middle Income,621,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9515,1558,Personal Loan,23244.54,10.59,48,2023-07-26,Paid Off,62,51-65,Male,Student,36557,Middle Income,535,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9516,1619,Auto Loan,35058.56,15.37,12,2024-07-29,Rejected,26,26-35,Male,Student,19156,Low Income,449,Poor,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9517,1025,Personal Loan,14982.27,12.64,36,2024-04-07,Rejected,55,51-65,Male,Student,19709,Low Income,583,Fair,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9518,1025,Mortgage,267545.94,12.16,120,2024-11-05,Approved,55,51-65,Male,Student,19709,Low Income,583,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9519,1768,Mortgage,403020.05,10.01,24,2023-09-27,Approved,64,51-65,Male,Full-time,76359,High Income,716,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9520,1346,Auto Loan,25936.25,15.6,60,2024-04-04,Defaulted,65,51-65,Female,Part-time,29323,Low Income,535,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9521,1384,Personal Loan,7676.67,8.27,300,2024-02-18,Approved,46,36-50,Female,Full-time,81716,High Income,718,Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9522,1478,Personal Loan,23104.35,6.03,36,2024-10-23,Approved,49,36-50,Female,Part-time,60007,Middle Income,691,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9523,1478,Personal Loan,9937.16,8.06,12,2024-03-13,Approved,49,36-50,Female,Part-time,60007,Middle Income,691,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9524,1794,Business Loan,94271.6,20.14,60,2023-04-19,Approved,25,18-25,Male,Part-time,47609,Middle Income,447,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9525,1285,Student Loan,23268.49,15.97,48,2023-01-18,Defaulted,18,18-25,Female,Self-employed,81618,High Income,644,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,1
+9526,1285,Student Loan,16199.96,9.3,48,2023-02-12,Approved,18,18-25,Female,Self-employed,81618,High Income,644,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9527,1051,Mortgage,461860.45,8.36,48,2023-08-21,Approved,21,18-25,Female,Part-time,40118,Middle Income,684,Good,Calgary,Alberta,Calgary Main Branch,1,0,0
+9528,1251,Mortgage,362000.3,6.84,48,2024-04-10,Rejected,28,26-35,Female,Part-time,22520,Low Income,640,Fair,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9529,1081,Business Loan,47891.63,17.08,12,2024-03-26,Paid Off,51,51-65,Male,Part-time,53143,Middle Income,540,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9530,1562,Student Loan,17416.67,15.59,48,2024-10-04,Approved,33,26-35,Male,Self-employed,46110,Middle Income,584,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9531,1562,Personal Loan,17287.2,5.15,24,2024-06-26,Rejected,33,26-35,Male,Self-employed,46110,Middle Income,584,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9532,1362,Business Loan,34874.97,19.09,12,2023-03-15,Approved,62,51-65,Male,Unemployed,28012,Low Income,556,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9533,1806,Personal Loan,19231.59,9.65,60,2023-04-28,Approved,37,36-50,Male,Full-time,74348,High Income,643,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9534,1777,Business Loan,75602.69,10.96,36,2024-10-29,Paid Off,33,26-35,Female,Part-time,42727,Middle Income,603,Fair,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9535,1207,Auto Loan,30145.96,10.45,36,2024-08-27,Defaulted,25,18-25,Female,Full-time,74025,High Income,614,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,1
+9536,1202,Personal Loan,23437.48,6.44,24,2023-11-01,Approved,30,26-35,Male,Full-time,69260,Middle Income,694,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9537,1957,Personal Loan,16546.84,14.57,12,2023-01-28,Approved,20,18-25,Male,Full-time,52623,Middle Income,576,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9538,1582,Auto Loan,18550.45,6.54,240,2024-05-25,Approved,57,51-65,Female,Full-time,78356,High Income,723,Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9539,1303,Mortgage,388511.17,8.64,240,2024-03-07,Approved,65,51-65,Male,Full-time,72487,High Income,725,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9540,1070,Mortgage,284735.75,16.83,60,2024-05-24,Rejected,67,66+,Female,Full-time,58948,Middle Income,577,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9541,1064,Personal Loan,22722.56,9.71,300,2024-12-29,Rejected,25,18-25,Female,Full-time,91761,High Income,722,Good,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9542,1064,Mortgage,331728.1,6.49,300,2024-07-29,Approved,25,18-25,Female,Full-time,91761,High Income,722,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9543,1302,Business Loan,6338.45,9.65,12,2024-06-14,Approved,18,18-25,Male,Full-time,63533,Middle Income,685,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9544,1284,Auto Loan,28730.42,7.47,24,2024-10-01,Paid Off,57,51-65,Female,Full-time,94462,High Income,709,Good,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9545,1059,Mortgage,527622.67,11.16,48,2024-09-15,Rejected,37,36-50,Male,Full-time,41469,Middle Income,601,Fair,Montreal,Quebec,Montreal Main Branch,0,1,0
+9546,1657,Auto Loan,41469.23,8.91,240,2024-08-10,Approved,24,18-25,Female,Full-time,69823,Middle Income,636,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9547,1657,Mortgage,296936.32,12.56,36,2023-12-20,Approved,24,18-25,Female,Full-time,69823,Middle Income,636,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9548,1232,Business Loan,15886.77,12.7,60,2024-07-15,Rejected,34,26-35,Female,Unemployed,14134,Low Income,578,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9549,1232,Student Loan,12582.08,13.21,60,2024-12-11,Paid Off,34,26-35,Female,Unemployed,14134,Low Income,578,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,0
+9550,1587,Student Loan,14772.49,7.13,240,2024-08-16,Approved,30,26-35,Male,Self-employed,91378,High Income,700,Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9551,1673,Personal Loan,13446.21,12.64,60,2024-09-01,Paid Off,70,66+,Female,Part-time,39117,Middle Income,636,Fair,Toronto,Ontario,Toronto Main Branch,0,0,0
+9552,1521,Student Loan,19559.54,13.3,36,2023-05-11,Approved,33,26-35,Female,Full-time,67196,Middle Income,575,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9553,1951,Personal Loan,12023.18,14.14,36,2024-08-07,Approved,21,18-25,Male,Full-time,63726,Middle Income,593,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9554,1018,Business Loan,160902.69,18.55,300,2023-04-08,Approved,20,18-25,Female,Self-employed,67692,Middle Income,578,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9555,1254,Business Loan,90229.08,17.17,36,2024-07-26,Rejected,41,36-50,Other,Full-time,40514,Middle Income,461,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9556,1858,Personal Loan,21414.78,15.0,48,2023-08-24,Paid Off,70,66+,Male,Full-time,63566,Middle Income,599,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9557,1858,Mortgage,387275.52,14.49,120,2023-05-23,Rejected,70,66+,Male,Full-time,63566,Middle Income,599,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9558,1417,Business Loan,47621.62,7.6,60,2023-02-01,Approved,40,36-50,Male,Self-employed,177815,Very High Income,730,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9559,1136,Personal Loan,33543.69,14.54,240,2023-08-07,Approved,54,51-65,Female,Full-time,82768,High Income,447,Poor,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9560,1136,Auto Loan,19118.14,11.47,36,2024-04-12,Defaulted,54,51-65,Female,Full-time,82768,High Income,447,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9561,1106,Business Loan,34803.57,5.63,36,2023-08-29,Paid Off,18,18-25,Female,Part-time,42533,Middle Income,705,Good,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9562,1106,Business Loan,41001.05,7.61,60,2023-05-23,Approved,18,18-25,Female,Part-time,42533,Middle Income,705,Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9563,1075,Mortgage,393185.09,10.54,36,2023-06-18,Approved,59,51-65,Female,Full-time,103880,High Income,654,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9564,1983,Auto Loan,25982.06,14.56,12,2023-06-15,Approved,44,36-50,Female,Full-time,85765,High Income,667,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9565,1483,Mortgage,403437.17,12.21,36,2024-05-14,Rejected,57,51-65,Female,Part-time,28216,Low Income,562,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9566,1615,Mortgage,263702.34,11.23,48,2024-07-05,Approved,38,36-50,Female,Full-time,61891,Middle Income,649,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9567,1686,Personal Loan,28005.48,7.02,60,2023-10-01,Rejected,46,36-50,Female,Full-time,89442,High Income,707,Good,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9568,1586,Business Loan,139006.37,3.91,60,2024-03-06,Approved,46,36-50,Male,Full-time,83801,High Income,803,Excellent,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9569,1058,Mortgage,547296.72,16.39,60,2024-09-11,Approved,19,18-25,Female,Full-time,62084,Middle Income,438,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9570,1556,Student Loan,16983.27,9.52,48,2023-11-13,Approved,18,18-25,Male,Full-time,76481,High Income,662,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9571,1652,Mortgage,702247.22,8.09,12,2023-02-28,Approved,29,26-35,Female,Retired,23394,Low Income,706,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9572,1652,Mortgage,414084.59,7.63,240,2023-05-13,Rejected,29,26-35,Female,Retired,23394,Low Income,706,Good,Montreal,Quebec,Montreal Main Branch,0,1,0
+9573,1301,Personal Loan,20921.04,9.11,300,2024-04-02,Paid Off,19,18-25,Other,Full-time,68307,Middle Income,613,Fair,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9574,1446,Business Loan,80348.33,12.98,12,2023-03-18,Approved,31,26-35,Male,Full-time,82916,High Income,579,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9575,1503,Auto Loan,35193.22,15.14,120,2023-02-09,Defaulted,18,18-25,Male,Part-time,38122,Middle Income,498,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,0,1
+9576,1503,Personal Loan,3366.55,13.98,24,2024-09-23,Defaulted,18,18-25,Male,Part-time,38122,Middle Income,498,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,0,1
+9577,1872,Personal Loan,17359.34,8.88,120,2023-07-31,Approved,21,18-25,Male,Full-time,73671,High Income,664,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9578,1228,Mortgage,623064.8,12.04,60,2023-03-14,Paid Off,20,18-25,Male,Full-time,32264,Middle Income,491,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,0
+9579,1228,Personal Loan,33337.68,13.38,120,2023-11-08,Approved,20,18-25,Male,Full-time,32264,Middle Income,491,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9580,1859,Student Loan,10715.34,15.58,36,2023-05-15,Defaulted,54,51-65,Female,Self-employed,29795,Low Income,553,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,1
+9581,1583,Business Loan,60746.12,9.1,300,2024-01-03,Approved,27,26-35,Male,Full-time,90611,High Income,631,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9582,1684,Auto Loan,34362.6,12.11,300,2023-10-10,Rejected,52,51-65,Female,Full-time,74421,High Income,604,Fair,Brampton,Ontario,Brampton Main Branch,0,1,0
+9583,1684,Personal Loan,23026.36,11.72,120,2024-02-15,Approved,52,51-65,Female,Full-time,74421,High Income,604,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9584,1252,Auto Loan,27087.61,10.43,60,2024-10-20,Approved,34,26-35,Female,Full-time,39610,Middle Income,634,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9585,1557,Personal Loan,8550.96,15.4,12,2023-07-18,Rejected,22,18-25,Male,Full-time,42111,Middle Income,577,Poor,Regina,Saskatchewan,Regina Main Branch,0,1,0
+9586,1774,Personal Loan,26992.77,7.24,36,2023-12-18,Approved,18,18-25,Female,Self-employed,82228,High Income,696,Good,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9587,1470,Auto Loan,31314.27,15.68,12,2023-01-06,Approved,70,66+,Female,Full-time,92173,High Income,571,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9588,1971,Auto Loan,27337.63,8.61,60,2023-02-20,Rejected,23,18-25,Male,Full-time,66568,Middle Income,697,Good,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9589,1300,Personal Loan,11818.33,9.17,36,2024-05-16,Approved,66,66+,Female,Full-time,96351,High Income,655,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9590,1380,Auto Loan,22068.46,8.54,24,2023-01-16,Approved,34,26-35,Male,Full-time,77348,High Income,660,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9591,1271,Personal Loan,9614.87,15.24,36,2023-08-25,Defaulted,36,36-50,Female,Unemployed,22493,Low Income,523,Poor,Surrey,British Columbia,Surrey Main Branch,0,0,1
+9592,1981,Auto Loan,40619.64,7.67,24,2024-07-23,Rejected,43,36-50,Male,Full-time,68836,Middle Income,498,Poor,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9593,1909,Personal Loan,28796.37,14.13,12,2023-02-24,Approved,35,26-35,Female,Full-time,53220,Middle Income,575,Poor,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9594,1022,Student Loan,23368.06,11.09,300,2023-12-25,Approved,41,36-50,Male,Full-time,92011,High Income,611,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9595,1724,Student Loan,16545.78,17.35,120,2023-01-17,Defaulted,48,36-50,Female,Full-time,49099,Middle Income,535,Poor,Regina,Saskatchewan,Regina Main Branch,0,0,1
+9596,1032,Mortgage,335235.45,9.58,48,2024-09-17,Rejected,42,36-50,Female,Full-time,83333,High Income,613,Fair,Quebec City,Quebec,Quebec City Main Branch,0,1,0
+9597,1980,Personal Loan,7159.31,9.6,12,2023-04-04,Rejected,31,26-35,Male,Self-employed,37062,Middle Income,670,Good,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9598,1975,Business Loan,26069.68,11.13,120,2024-10-03,Approved,29,26-35,Female,Self-employed,58565,Middle Income,583,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9599,1465,Personal Loan,33114.46,7.95,120,2023-03-09,Approved,32,26-35,Female,Student,20222,Low Income,612,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9600,1851,Business Loan,153502.56,13.22,300,2023-04-26,Rejected,48,36-50,Male,Part-time,51533,Middle Income,578,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9601,1134,Mortgage,284849.28,5.49,36,2023-10-29,Approved,40,36-50,Male,Full-time,84383,High Income,776,Very Good,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9602,1897,Student Loan,23986.61,8.47,36,2024-08-10,Approved,54,51-65,Female,Unemployed,12000,Low Income,691,Good,Brampton,Ontario,Brampton Main Branch,1,0,0
+9603,1505,Auto Loan,35596.59,9.07,36,2023-08-10,Approved,51,51-65,Female,Self-employed,88753,High Income,577,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9604,1071,Personal Loan,6943.08,7.86,12,2023-12-06,Approved,57,51-65,Male,Retired,64661,Middle Income,609,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9605,1719,Personal Loan,16742.14,9.7,60,2024-03-03,Approved,42,36-50,Male,Part-time,43924,Middle Income,632,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9606,1591,Personal Loan,2000.0,12.94,60,2023-07-17,Paid Off,19,18-25,Female,Student,12000,Low Income,582,Fair,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9607,1163,Business Loan,140317.75,22.0,60,2024-08-23,Rejected,56,51-65,Female,Part-time,41672,Middle Income,580,Fair,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9608,1679,Mortgage,608876.18,12.47,120,2024-04-06,Defaulted,59,51-65,Female,Full-time,36122,Middle Income,519,Poor,Edmonton,Alberta,Edmonton Main Branch,0,0,1
+9609,1366,Personal Loan,20302.65,12.9,36,2024-05-14,Defaulted,44,36-50,Female,Unemployed,16860,Low Income,471,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,1
+9610,1250,Personal Loan,24922.17,16.55,24,2023-11-03,Approved,21,18-25,Male,Retired,48130,Middle Income,586,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9611,1654,Mortgage,287264.76,12.19,36,2024-05-24,Approved,36,36-50,Female,Full-time,111960,High Income,651,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9612,1861,Auto Loan,33918.7,19.66,24,2023-02-21,Approved,27,26-35,Male,Full-time,49807,Middle Income,573,Poor,Montreal,Quebec,Montreal Main Branch,1,0,0
+9613,1328,Auto Loan,27045.89,5.8,12,2023-03-22,Rejected,65,51-65,Female,Self-employed,71982,High Income,736,Good,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9614,1110,Auto Loan,21241.9,12.6,60,2023-08-09,Approved,41,36-50,Male,Full-time,79496,High Income,594,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9615,1779,Mortgage,334062.6,9.23,24,2024-05-20,Approved,28,26-35,Male,Full-time,73715,High Income,663,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9616,1779,Business Loan,57212.15,7.89,300,2023-07-08,Approved,28,26-35,Male,Full-time,73715,High Income,663,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9617,1707,Mortgage,515367.25,12.71,120,2023-11-23,Rejected,46,36-50,Male,Student,19968,Low Income,580,Fair,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9618,1804,Business Loan,117111.89,7.95,240,2024-06-22,Approved,50,36-50,Male,Full-time,96585,High Income,743,Very Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9619,1128,Business Loan,46813.39,15.13,24,2023-03-24,Approved,26,26-35,Male,Self-employed,85750,High Income,590,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9620,1128,Personal Loan,17584.65,15.26,120,2023-12-20,Approved,26,26-35,Male,Self-employed,85750,High Income,590,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9621,1947,Mortgage,387239.02,10.23,60,2024-06-21,Approved,48,36-50,Female,Full-time,77274,High Income,641,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9622,1029,Auto Loan,11179.23,12.28,60,2023-05-27,Approved,29,26-35,Male,Full-time,57039,Middle Income,608,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9623,1992,Auto Loan,9009.79,16.06,240,2023-01-18,Approved,34,26-35,Male,Retired,43303,Middle Income,491,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9624,1468,Personal Loan,19650.21,8.37,120,2023-04-08,Rejected,50,36-50,Male,Full-time,63602,Middle Income,650,Fair,Calgary,Alberta,Calgary Main Branch,0,1,0
+9625,1560,Personal Loan,18113.15,11.78,48,2024-06-27,Rejected,33,26-35,Female,Full-time,121502,Very High Income,667,Fair,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9626,1491,Auto Loan,22461.4,7.99,120,2023-03-23,Approved,34,26-35,Female,Full-time,78861,High Income,688,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9627,1491,Mortgage,414136.13,4.01,48,2024-12-01,Approved,34,26-35,Female,Full-time,78861,High Income,688,Good,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9628,1392,Business Loan,24777.96,11.69,12,2024-07-18,Approved,46,36-50,Female,Part-time,46373,Middle Income,632,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9629,1167,Personal Loan,18562.08,11.45,60,2024-12-24,Approved,21,18-25,Male,Unemployed,24262,Low Income,644,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9630,1451,Student Loan,6673.94,6.86,48,2024-09-12,Approved,45,36-50,Female,Full-time,83482,High Income,707,Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9631,1680,Personal Loan,16997.74,11.85,240,2024-05-29,Approved,56,51-65,Female,Full-time,35094,Middle Income,632,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9632,1793,Personal Loan,4522.69,13.58,120,2024-11-24,Approved,43,36-50,Male,Retired,35605,Middle Income,439,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9633,1089,Auto Loan,34706.68,12.55,48,2024-06-18,Approved,31,26-35,Male,Full-time,74702,High Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9634,1396,Personal Loan,14296.66,5.58,60,2024-01-26,Approved,48,36-50,Female,Full-time,101416,High Income,840,Excellent,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9635,1396,Mortgage,357705.24,3.34,24,2024-11-04,Approved,48,36-50,Female,Full-time,101416,High Income,840,Excellent,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9636,1146,Personal Loan,39638.38,13.96,12,2023-05-21,Paid Off,64,51-65,Female,Self-employed,77583,High Income,633,Fair,Montreal,Quebec,Montreal Main Branch,0,0,0
+9637,1308,Auto Loan,32738.16,14.04,24,2023-03-12,Approved,26,26-35,Male,Self-employed,66961,Middle Income,542,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9638,1941,Mortgage,389669.0,19.63,60,2023-08-29,Approved,65,51-65,Male,Full-time,75433,High Income,585,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9639,1313,Auto Loan,29225.76,15.04,60,2023-07-27,Approved,33,26-35,Female,Part-time,20822,Low Income,576,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9640,1492,Mortgage,391034.13,10.36,48,2023-05-13,Approved,36,36-50,Female,Full-time,86239,High Income,632,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9641,1160,Auto Loan,20045.53,8.76,48,2024-09-30,Approved,30,26-35,Female,Full-time,58503,Middle Income,651,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9642,1160,Personal Loan,16357.66,10.68,240,2024-07-22,Approved,30,26-35,Female,Full-time,58503,Middle Income,651,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9643,1974,Auto Loan,39435.89,15.96,60,2024-01-28,Paid Off,58,51-65,Male,Unemployed,21054,Low Income,532,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9644,1974,Personal Loan,20263.89,17.86,60,2023-07-21,Approved,58,51-65,Male,Unemployed,21054,Low Income,532,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9645,1448,Auto Loan,26133.79,15.88,36,2023-05-23,Defaulted,68,66+,Male,Part-time,55388,Middle Income,457,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,0,1
+9646,1448,Personal Loan,14307.54,16.26,240,2024-04-14,Approved,68,66+,Male,Part-time,55388,Middle Income,457,Poor,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9647,1466,Business Loan,173763.61,10.71,24,2024-04-20,Defaulted,60,51-65,Other,Full-time,28629,Low Income,682,Good,Hamilton,Ontario,Hamilton Main Branch,0,0,1
+9648,1894,Business Loan,82114.97,9.15,24,2024-08-15,Approved,64,51-65,Male,Full-time,49314,Middle Income,669,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9649,1077,Personal Loan,26871.84,9.83,48,2023-01-11,Paid Off,46,36-50,Female,Full-time,82638,High Income,667,Fair,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9650,1749,Auto Loan,43064.6,9.18,240,2023-03-08,Rejected,50,36-50,Male,Student,21674,Low Income,679,Good,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9651,1196,Personal Loan,28580.39,12.55,300,2024-12-14,Approved,42,36-50,Female,Student,35616,Middle Income,602,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9652,1682,Personal Loan,21266.72,10.75,240,2023-02-27,Rejected,48,36-50,Female,Full-time,76804,High Income,643,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9653,1329,Auto Loan,28784.31,14.27,12,2024-02-07,Approved,42,36-50,Male,Full-time,78987,High Income,617,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9654,1932,Auto Loan,22718.42,9.39,24,2024-04-06,Approved,41,36-50,Female,Part-time,40637,Middle Income,602,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9655,1641,Business Loan,121760.41,14.98,120,2024-06-02,Approved,47,36-50,Male,Full-time,60015,Middle Income,528,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9656,1641,Personal Loan,14811.26,12.85,12,2023-10-08,Approved,47,36-50,Male,Full-time,60015,Middle Income,528,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9657,1718,Personal Loan,21606.59,14.46,300,2023-08-05,Approved,24,18-25,Male,Part-time,41784,Middle Income,586,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9658,1718,Mortgage,475350.32,14.54,120,2024-12-17,Approved,24,18-25,Male,Part-time,41784,Middle Income,586,Fair,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9659,1864,Auto Loan,18254.49,15.71,60,2024-05-10,Defaulted,38,36-50,Female,Part-time,33186,Middle Income,560,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9660,1223,Personal Loan,26824.12,7.83,36,2023-03-16,Approved,66,66+,Male,Full-time,61119,Middle Income,621,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9661,1646,Business Loan,122110.09,14.71,36,2024-02-01,Approved,42,36-50,Male,Student,25269,Low Income,561,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9662,1818,Student Loan,29415.84,9.4,300,2023-08-19,Approved,64,51-65,Female,Retired,55109,Middle Income,658,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9663,1084,Auto Loan,26390.13,10.5,300,2023-05-15,Approved,31,26-35,Female,Full-time,86201,High Income,644,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9664,1397,Personal Loan,8384.46,18.64,300,2023-07-26,Approved,52,51-65,Male,Full-time,45393,Middle Income,560,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9665,1072,Business Loan,150236.36,8.66,36,2024-10-06,Approved,21,18-25,Female,Student,15413,Low Income,576,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9666,1230,Mortgage,252576.11,9.86,24,2024-11-09,Approved,54,51-65,Male,Self-employed,105733,High Income,662,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9667,1069,Auto Loan,33564.6,15.4,48,2024-03-03,Approved,53,51-65,Female,Student,12000,Low Income,595,Fair,Calgary,Alberta,Calgary Main Branch,1,0,0
+9668,1513,Personal Loan,25793.41,19.38,60,2024-11-24,Approved,33,26-35,Male,Full-time,67274,Middle Income,566,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9669,1150,Business Loan,72693.21,12.63,36,2024-05-05,Rejected,22,18-25,Male,Full-time,85669,High Income,617,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9670,1073,Student Loan,19890.24,13.13,240,2024-07-25,Approved,19,18-25,Female,Self-employed,98861,High Income,599,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9671,1572,Personal Loan,14991.97,8.69,60,2024-04-28,Approved,52,51-65,Male,Full-time,107817,High Income,577,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9672,1823,Personal Loan,14521.88,11.79,300,2024-01-25,Approved,67,66+,Male,Student,20269,Low Income,480,Poor,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9673,1227,Student Loan,18390.34,13.44,36,2023-10-30,Approved,19,18-25,Male,Part-time,49436,Middle Income,564,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9674,1184,Business Loan,72389.43,15.68,12,2023-01-25,Approved,59,51-65,Male,Retired,39662,Middle Income,581,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9675,1905,Auto Loan,14011.1,6.25,36,2024-02-08,Approved,51,51-65,Female,Self-employed,101812,High Income,697,Good,Toronto,Ontario,Toronto Main Branch,1,0,0
+9676,1722,Business Loan,69931.72,10.14,60,2023-04-19,Approved,53,51-65,Female,Full-time,96611,High Income,664,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9677,1457,Business Loan,77688.08,8.83,60,2023-10-23,Paid Off,68,66+,Male,Part-time,31882,Middle Income,611,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,0,0
+9678,1748,Personal Loan,12041.95,8.54,12,2023-02-18,Paid Off,42,36-50,Female,Full-time,90645,High Income,714,Good,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9679,1021,Mortgage,442907.57,10.26,240,2023-06-18,Approved,19,18-25,Female,Self-employed,77809,High Income,615,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9680,1449,Mortgage,263965.02,12.26,300,2024-09-21,Rejected,40,36-50,Female,Self-employed,52981,Middle Income,567,Poor,Montreal,Quebec,Montreal Main Branch,0,1,0
+9681,1800,Auto Loan,26423.59,17.69,48,2024-10-14,Approved,53,51-65,Male,Full-time,41968,Middle Income,580,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9682,1800,Auto Loan,21648.24,17.73,36,2024-04-10,Rejected,53,51-65,Male,Full-time,41968,Middle Income,580,Fair,Brampton,Ontario,Brampton Main Branch,0,1,0
+9683,1413,Student Loan,13589.46,7.29,240,2024-01-04,Approved,67,66+,Female,Retired,60990,Middle Income,687,Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9684,1907,Student Loan,12215.24,12.8,60,2024-07-29,Approved,67,66+,Female,Student,32169,Middle Income,556,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9685,1345,Auto Loan,48499.2,16.74,120,2024-12-16,Paid Off,38,36-50,Female,Full-time,69901,Middle Income,561,Poor,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9686,1693,Personal Loan,21041.35,10.64,36,2023-09-10,Approved,27,26-35,Female,Full-time,65163,Middle Income,638,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9687,1216,Personal Loan,2805.51,14.06,48,2024-11-05,Approved,32,26-35,Male,Full-time,55237,Middle Income,585,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9688,1750,Business Loan,23493.8,19.43,36,2023-12-02,Approved,55,51-65,Female,Full-time,75406,High Income,568,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9689,1043,Business Loan,73453.23,13.1,300,2024-10-29,Rejected,20,18-25,Male,Part-time,39362,Middle Income,540,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9690,1043,Mortgage,351487.06,15.52,60,2023-06-11,Approved,20,18-25,Male,Part-time,39362,Middle Income,540,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9691,1027,Mortgage,284817.08,17.93,36,2024-11-04,Paid Off,38,36-50,Male,Part-time,12023,Low Income,528,Poor,Calgary,Alberta,Calgary Main Branch,0,0,0
+9692,1027,Auto Loan,35133.18,14.11,24,2023-05-29,Approved,38,36-50,Male,Part-time,12023,Low Income,528,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9693,1436,Auto Loan,31255.46,13.1,12,2023-02-25,Paid Off,41,36-50,Male,Student,26372,Low Income,574,Poor,Montreal,Quebec,Montreal Main Branch,0,0,0
+9694,1142,Business Loan,121775.65,12.5,12,2023-02-19,Approved,52,51-65,Female,Full-time,69973,Middle Income,489,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9695,1142,Auto Loan,17491.9,15.5,48,2024-10-27,Approved,52,51-65,Female,Full-time,69973,Middle Income,489,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9696,1009,Personal Loan,22804.08,17.08,240,2023-08-10,Defaulted,36,36-50,Male,Student,15261,Low Income,528,Poor,Toronto,Ontario,Toronto Main Branch,0,0,1
+9697,1923,Auto Loan,34618.45,12.59,48,2023-08-26,Approved,34,26-35,Female,Full-time,79471,High Income,673,Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9698,1516,Auto Loan,45108.0,11.98,60,2023-07-13,Approved,39,36-50,Male,Full-time,78434,High Income,607,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9699,1486,Mortgage,292539.79,15.71,300,2024-03-26,Approved,30,26-35,Female,Full-time,57781,Middle Income,592,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9700,1003,Personal Loan,16216.03,6.88,12,2024-09-21,Approved,46,36-50,Male,Retired,55049,Middle Income,619,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9701,1616,Student Loan,9576.69,9.8,12,2023-07-26,Approved,53,51-65,Male,Retired,22545,Low Income,630,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9702,1033,Auto Loan,22012.28,14.92,24,2023-09-06,Approved,66,66+,Female,Full-time,92690,High Income,539,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9703,1978,Personal Loan,6809.39,12.47,24,2023-08-18,Rejected,51,51-65,Female,Unemployed,19580,Low Income,588,Fair,Vancouver,British Columbia,Vancouver Main Branch,0,1,0
+9704,1946,Personal Loan,21042.7,14.03,60,2024-06-06,Rejected,33,26-35,Female,Student,25819,Low Income,522,Poor,Montreal,Quebec,Montreal Main Branch,0,1,0
+9705,1689,Mortgage,293318.91,11.17,48,2024-05-02,Rejected,35,26-35,Female,Unemployed,19200,Low Income,671,Good,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9706,1519,Mortgage,245971.2,6.58,60,2023-10-24,Approved,29,26-35,Female,Full-time,67953,Middle Income,752,Very Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9707,1810,Mortgage,447365.28,8.97,300,2023-09-07,Paid Off,46,36-50,Male,Retired,21021,Low Income,635,Fair,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9708,1820,Business Loan,115126.84,13.14,300,2023-07-05,Approved,19,18-25,Male,Part-time,39434,Middle Income,558,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9709,1447,Business Loan,72099.84,18.0,60,2024-05-21,Defaulted,29,26-35,Male,Unemployed,12000,Low Income,579,Poor,Ottawa,Ontario,Ottawa Main Branch,0,0,1
+9710,1509,Personal Loan,15896.2,9.4,48,2024-01-19,Approved,57,51-65,Female,Self-employed,110831,High Income,749,Very Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9711,1159,Mortgage,200407.84,15.84,300,2023-03-17,Paid Off,59,51-65,Female,Unemployed,12000,Low Income,597,Fair,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9712,1170,Student Loan,30004.38,6.75,300,2023-07-31,Paid Off,40,36-50,Female,Full-time,80435,High Income,686,Good,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9713,1170,Personal Loan,13049.66,7.77,120,2024-09-30,Approved,40,36-50,Female,Full-time,80435,High Income,686,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9714,1622,Personal Loan,21682.76,18.78,240,2024-12-08,Approved,66,66+,Male,Full-time,46238,Middle Income,588,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9715,1171,Student Loan,20050.75,17.97,120,2023-04-01,Approved,56,51-65,Male,Retired,66815,Middle Income,544,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9716,1171,Student Loan,19579.91,12.87,24,2023-01-19,Rejected,56,51-65,Male,Retired,66815,Middle Income,544,Poor,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9717,1747,Student Loan,27854.79,10.36,60,2024-08-29,Approved,66,66+,Female,Full-time,69107,Middle Income,653,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9718,1408,Business Loan,115252.99,4.06,36,2023-01-13,Approved,48,36-50,Female,Full-time,98456,High Income,690,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9719,1408,Business Loan,42006.92,7.03,60,2024-10-05,Rejected,48,36-50,Female,Full-time,98456,High Income,690,Good,Halifax,Nova Scotia,Halifax Main Branch,0,1,0
+9720,1629,Personal Loan,19724.92,8.48,60,2023-05-26,Approved,49,36-50,Male,Self-employed,153484,Very High Income,623,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9721,1526,Personal Loan,19889.47,5.48,12,2024-09-01,Approved,31,26-35,Female,Full-time,128194,Very High Income,742,Very Good,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9722,1726,Personal Loan,15759.81,10.11,240,2023-09-19,Paid Off,61,51-65,Female,Part-time,28748,Low Income,604,Fair,Ottawa,Ontario,Ottawa Main Branch,0,0,0
+9723,1096,Mortgage,284702.97,14.37,300,2024-06-02,Approved,64,51-65,Female,Part-time,43196,Middle Income,577,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9724,1721,Mortgage,412313.7,3.16,48,2023-11-17,Approved,21,18-25,Male,Full-time,64875,Middle Income,697,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9725,1259,Personal Loan,16376.25,12.73,60,2023-07-20,Defaulted,39,36-50,Male,Full-time,74603,High Income,512,Poor,Surrey,British Columbia,Surrey Main Branch,0,0,1
+9726,1925,Mortgage,343728.99,8.92,240,2024-04-16,Approved,46,36-50,Male,Self-employed,114561,High Income,632,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9727,1827,Personal Loan,14723.3,6.14,240,2023-06-26,Approved,18,18-25,Other,Full-time,74366,High Income,737,Good,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9728,1137,Auto Loan,11570.39,8.26,60,2024-12-18,Approved,52,51-65,Female,Full-time,58290,Middle Income,690,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9729,1179,Student Loan,22059.59,11.35,24,2024-01-02,Approved,24,18-25,Male,Full-time,19773,Low Income,568,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9730,1696,Business Loan,99315.71,9.99,12,2023-06-23,Approved,55,51-65,Male,Full-time,70084,High Income,626,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9731,1275,Student Loan,18977.61,14.18,48,2024-04-08,Paid Off,37,36-50,Male,Student,35073,Middle Income,510,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,0
+9732,1937,Auto Loan,22382.17,12.09,36,2024-11-28,Approved,19,18-25,Male,Self-employed,58054,Middle Income,580,Fair,Montreal,Quebec,Montreal Main Branch,1,0,0
+9733,1155,Mortgage,361168.93,17.96,300,2023-12-30,Rejected,26,26-35,Female,Retired,44616,Middle Income,537,Poor,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9734,1910,Personal Loan,20719.24,19.2,240,2023-10-18,Approved,47,36-50,Male,Retired,30056,Middle Income,528,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9735,1041,Personal Loan,13796.37,11.68,60,2024-12-22,Approved,61,51-65,Male,Full-time,57453,Middle Income,539,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9736,1912,Personal Loan,13364.14,9.42,36,2023-04-17,Approved,44,36-50,Male,Full-time,54953,Middle Income,613,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9737,1917,Business Loan,91218.67,13.89,120,2024-02-17,Approved,50,36-50,Female,Full-time,64509,Middle Income,546,Poor,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9738,1976,Personal Loan,20276.97,7.62,60,2023-05-31,Approved,43,36-50,Female,Full-time,88146,High Income,718,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9739,1520,Personal Loan,7755.1,11.45,36,2023-01-02,Defaulted,43,36-50,Female,Unemployed,29378,Low Income,486,Poor,Toronto,Ontario,Toronto Main Branch,0,0,1
+9740,1443,Personal Loan,16045.36,8.58,300,2023-01-09,Approved,25,18-25,Male,Retired,38609,Middle Income,620,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9741,1835,Business Loan,92253.32,12.1,36,2024-10-27,Defaulted,42,36-50,Female,Retired,56845,Middle Income,655,Fair,Edmonton,Alberta,Edmonton Main Branch,0,0,1
+9742,1890,Personal Loan,8857.32,7.43,48,2023-08-09,Approved,47,36-50,Female,Full-time,64249,Middle Income,605,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9743,1286,Auto Loan,21136.39,5.11,60,2024-08-04,Approved,28,26-35,Female,Self-employed,167701,Very High Income,763,Very Good,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9744,1695,Mortgage,389795.48,12.45,120,2023-04-20,Approved,34,26-35,Male,Unemployed,19150,Low Income,556,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9745,1387,Personal Loan,21490.63,12.9,60,2024-11-03,Approved,23,18-25,Other,Full-time,91071,High Income,593,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9746,1387,Personal Loan,18138.11,9.62,300,2024-05-15,Approved,23,18-25,Other,Full-time,91071,High Income,593,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9747,1734,Mortgage,290141.43,17.57,240,2023-08-07,Rejected,62,51-65,Female,Part-time,25963,Low Income,499,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9748,1445,Mortgage,404287.64,13.6,48,2023-11-23,Approved,33,26-35,Female,Part-time,44737,Middle Income,654,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9749,1550,Personal Loan,18254.27,13.04,300,2023-11-14,Approved,51,51-65,Male,Full-time,68342,Middle Income,606,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9750,1083,Personal Loan,14315.57,16.28,24,2024-03-04,Defaulted,53,51-65,Female,Unemployed,12000,Low Income,546,Poor,Quebec City,Quebec,Quebec City Main Branch,0,0,1
+9751,1539,Business Loan,37467.83,10.08,120,2023-11-09,Approved,65,51-65,Female,Part-time,47438,Middle Income,608,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9752,1523,Auto Loan,26973.3,9.95,300,2024-07-29,Paid Off,54,51-65,Female,Retired,40185,Middle Income,562,Poor,Quebec City,Quebec,Quebec City Main Branch,0,0,0
+9753,1381,Personal Loan,8359.29,16.41,120,2024-11-19,Defaulted,61,51-65,Female,Full-time,21241,Low Income,520,Poor,Calgary,Alberta,Calgary Main Branch,0,0,1
+9754,1395,Business Loan,131430.19,11.83,48,2023-12-21,Paid Off,70,66+,Other,Student,34765,Middle Income,650,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9755,1566,Personal Loan,23744.5,13.35,300,2023-07-14,Rejected,49,36-50,Female,Full-time,52179,Middle Income,534,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9756,1708,Personal Loan,2000.0,19.23,24,2024-06-12,Approved,54,51-65,Male,Full-time,66277,Middle Income,507,Poor,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9757,1956,Personal Loan,16225.02,10.1,60,2024-08-22,Approved,49,36-50,Male,Full-time,63583,Middle Income,649,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9758,1982,Personal Loan,21218.1,10.09,60,2024-09-14,Paid Off,62,51-65,Male,Full-time,79349,High Income,555,Poor,Surrey,British Columbia,Surrey Main Branch,0,0,0
+9759,1758,Mortgage,351334.02,10.47,36,2024-11-15,Approved,38,36-50,Female,Full-time,53297,Middle Income,633,Fair,Regina,Saskatchewan,Regina Main Branch,1,0,0
+9760,1984,Personal Loan,22439.74,7.2,24,2023-06-25,Approved,26,26-35,Male,Full-time,49658,Middle Income,713,Good,Calgary,Alberta,Calgary Main Branch,1,0,0
+9761,1706,Auto Loan,35327.71,12.29,60,2023-11-22,Approved,22,18-25,Female,Self-employed,85801,High Income,624,Fair,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9762,1269,Personal Loan,14218.52,10.77,240,2024-02-01,Approved,37,36-50,Other,Full-time,68311,Middle Income,624,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9763,1293,Mortgage,503972.23,7.83,120,2024-08-30,Paid Off,59,51-65,Female,Full-time,79570,High Income,685,Good,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9764,1739,Personal Loan,17907.28,13.4,12,2023-07-05,Defaulted,45,36-50,Male,Student,26266,Low Income,577,Poor,Brampton,Ontario,Brampton Main Branch,0,0,1
+9765,1664,Mortgage,319914.88,4.69,12,2023-08-06,Approved,33,26-35,Male,Full-time,74762,High Income,801,Excellent,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9766,1667,Personal Loan,7272.22,6.4,120,2024-11-23,Approved,52,51-65,Male,Full-time,73713,High Income,682,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9767,1183,Auto Loan,31960.33,8.64,120,2024-08-20,Defaulted,19,18-25,Male,Retired,20430,Low Income,663,Fair,Regina,Saskatchewan,Regina Main Branch,0,0,1
+9768,1596,Mortgage,622636.5,9.95,48,2023-01-23,Paid Off,34,26-35,Female,Part-time,67038,Middle Income,667,Fair,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9769,1735,Auto Loan,33305.45,14.97,120,2024-01-17,Rejected,30,26-35,Female,Self-employed,85979,High Income,546,Poor,Montreal,Quebec,Montreal Main Branch,0,1,0
+9770,1335,Student Loan,7690.09,10.79,24,2024-11-28,Approved,35,26-35,Female,Full-time,57651,Middle Income,640,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9771,1245,Mortgage,390850.25,13.73,36,2023-01-04,Defaulted,61,51-65,Female,Part-time,33697,Middle Income,592,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,1
+9772,1935,Business Loan,41679.59,10.69,300,2023-09-17,Approved,23,18-25,Female,Full-time,86655,High Income,608,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9773,1208,Auto Loan,34192.5,8.03,60,2024-12-23,Approved,44,36-50,Female,Full-time,89697,High Income,682,Good,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9774,1895,Mortgage,218545.15,9.33,48,2024-09-23,Approved,40,36-50,Female,Self-employed,105470,High Income,600,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9775,1895,Business Loan,126646.27,10.45,48,2024-07-19,Approved,40,36-50,Female,Self-employed,105470,High Income,600,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9776,1330,Auto Loan,17347.3,10.69,36,2023-03-12,Approved,52,51-65,Female,Full-time,72697,High Income,608,Fair,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9777,1882,Auto Loan,28517.56,17.49,24,2023-03-19,Rejected,43,36-50,Female,Student,18502,Low Income,459,Poor,Brampton,Ontario,Brampton Main Branch,0,1,0
+9778,1849,Personal Loan,22912.29,17.78,240,2023-03-09,Rejected,34,26-35,Male,Unemployed,12000,Low Income,517,Poor,Toronto,Ontario,Toronto Main Branch,0,1,0
+9779,1361,Mortgage,380083.06,11.31,240,2023-08-13,Approved,55,51-65,Male,Full-time,45999,Middle Income,580,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9780,1886,Mortgage,320265.99,11.04,24,2024-04-13,Approved,29,26-35,Male,Full-time,72500,High Income,622,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9781,1998,Mortgage,423124.76,9.94,24,2024-03-13,Defaulted,52,51-65,Other,Student,19661,Low Income,572,Poor,Calgary,Alberta,Calgary Main Branch,0,0,1
+9782,1685,Personal Loan,13838.33,16.51,60,2023-07-03,Paid Off,40,36-50,Female,Student,23717,Low Income,513,Poor,Hamilton,Ontario,Hamilton Main Branch,0,0,0
+9783,1685,Personal Loan,23764.52,13.57,12,2024-04-29,Rejected,40,36-50,Female,Student,23717,Low Income,513,Poor,Hamilton,Ontario,Hamilton Main Branch,0,1,0
+9784,1841,Business Loan,173647.21,4.55,60,2023-04-07,Approved,51,51-65,Female,Full-time,99574,High Income,620,Fair,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9785,1841,Personal Loan,34896.71,10.88,36,2023-02-21,Rejected,51,51-65,Female,Full-time,99574,High Income,620,Fair,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9786,1612,Business Loan,106562.78,11.89,24,2023-02-12,Rejected,46,36-50,Male,Unemployed,21185,Low Income,651,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,1,0
+9787,1133,Personal Loan,24418.66,9.04,60,2024-07-06,Rejected,65,51-65,Female,Part-time,41619,Middle Income,620,Fair,Montreal,Quebec,Montreal Main Branch,0,1,0
+9788,1334,Mortgage,434934.38,8.43,240,2024-07-17,Approved,63,51-65,Male,Self-employed,91234,High Income,710,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9789,1111,Personal Loan,21395.45,8.41,24,2023-12-23,Approved,18,18-25,Male,Self-employed,89031,High Income,681,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9790,1844,Auto Loan,38984.29,16.03,24,2023-08-05,Paid Off,18,18-25,Female,Full-time,80738,High Income,575,Poor,Mississauga,Ontario,Mississauga Main Branch,0,0,0
+9791,1004,Personal Loan,24576.49,6.51,60,2024-01-01,Approved,32,26-35,Female,Part-time,35964,Middle Income,689,Good,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9792,1085,Mortgage,282806.93,13.68,60,2024-01-31,Paid Off,48,36-50,Male,Student,18225,Low Income,565,Poor,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9793,1050,Mortgage,419822.7,12.32,48,2024-09-20,Approved,35,26-35,Male,Self-employed,103656,High Income,568,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9794,1336,Auto Loan,20201.9,5.71,48,2023-12-16,Approved,19,18-25,Male,Full-time,72664,High Income,780,Very Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9795,1336,Auto Loan,16004.63,5.5,300,2023-03-28,Rejected,19,18-25,Male,Full-time,72664,High Income,780,Very Good,Edmonton,Alberta,Edmonton Main Branch,0,1,0
+9796,1078,Student Loan,13878.09,8.6,36,2024-02-14,Approved,35,26-35,Female,Full-time,107843,High Income,713,Good,Ottawa,Ontario,Ottawa Main Branch,1,0,0
+9797,1651,Mortgage,284645.56,19.4,12,2024-12-13,Rejected,53,51-65,Female,Student,33120,Middle Income,431,Poor,Calgary,Alberta,Calgary Main Branch,0,1,0
+9798,1181,Mortgage,406435.95,8.12,36,2024-08-29,Rejected,39,36-50,Female,Full-time,58841,Middle Income,638,Fair,Brampton,Ontario,Brampton Main Branch,0,1,0
+9799,1249,Student Loan,11772.57,11.63,120,2023-09-17,Approved,49,36-50,Female,Full-time,50910,Middle Income,608,Fair,Quebec City,Quebec,Quebec City Main Branch,1,0,0
+9800,1670,Student Loan,20620.92,8.08,60,2024-01-04,Approved,69,66+,Male,Full-time,82786,High Income,697,Good,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9801,1371,Student Loan,2000.0,14.3,36,2023-09-12,Paid Off,45,36-50,Female,Full-time,97640,High Income,498,Poor,Calgary,Alberta,Calgary Main Branch,0,0,0
+9802,1371,Business Loan,96904.33,15.24,120,2024-10-08,Approved,45,36-50,Female,Full-time,97640,High Income,498,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9803,1280,Mortgage,328850.01,12.72,300,2024-05-21,Approved,50,36-50,Female,Part-time,39729,Middle Income,576,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9804,1426,Personal Loan,19788.8,15.17,36,2024-05-14,Approved,26,26-35,Male,Student,12000,Low Income,466,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9805,1435,Business Loan,92437.8,7.61,240,2023-07-05,Rejected,42,36-50,Male,Full-time,86560,High Income,651,Fair,Toronto,Ontario,Toronto Main Branch,0,1,0
+9806,1435,Personal Loan,20584.47,10.18,36,2024-12-11,Approved,42,36-50,Male,Full-time,86560,High Income,651,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9807,1678,Personal Loan,18440.61,10.11,60,2024-05-11,Paid Off,70,66+,Male,Full-time,64787,Middle Income,603,Fair,Toronto,Ontario,Toronto Main Branch,0,0,0
+9808,1678,Auto Loan,23328.23,10.17,240,2023-07-09,Approved,70,66+,Male,Full-time,64787,Middle Income,603,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9809,1350,Student Loan,14710.28,16.8,300,2024-07-19,Rejected,20,18-25,Female,Part-time,27489,Low Income,470,Poor,Regina,Saskatchewan,Regina Main Branch,0,1,0
+9810,1528,Auto Loan,28001.44,8.77,60,2024-08-19,Paid Off,22,18-25,Male,Student,31723,Middle Income,685,Good,Brampton,Ontario,Brampton Main Branch,0,0,0
+9811,1258,Auto Loan,16708.29,13.64,60,2023-10-27,Approved,23,18-25,Female,Full-time,66712,Middle Income,522,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9812,1258,Personal Loan,33676.61,15.33,24,2024-11-17,Approved,23,18-25,Female,Full-time,66712,Middle Income,522,Poor,Brampton,Ontario,Brampton Main Branch,1,0,0
+9813,1325,Mortgage,326480.71,8.37,60,2023-11-13,Paid Off,57,51-65,Male,Part-time,43680,Middle Income,610,Fair,Toronto,Ontario,Toronto Main Branch,0,0,0
+9814,1325,Personal Loan,10817.78,11.89,300,2023-03-09,Approved,57,51-65,Male,Part-time,43680,Middle Income,610,Fair,Toronto,Ontario,Toronto Main Branch,1,0,0
+9815,1112,Business Loan,106685.57,17.01,24,2023-12-25,Approved,61,51-65,Female,Student,35960,Middle Income,566,Poor,Toronto,Ontario,Toronto Main Branch,1,0,0
+9816,1204,Personal Loan,16834.14,10.13,300,2023-07-19,Rejected,20,18-25,Female,Retired,62547,Middle Income,647,Fair,Calgary,Alberta,Calgary Main Branch,0,1,0
+9817,1487,Auto Loan,18674.41,17.68,12,2024-12-25,Defaulted,67,66+,Female,Unemployed,19810,Low Income,574,Poor,Edmonton,Alberta,Edmonton Main Branch,0,0,1
+9818,1487,Auto Loan,32258.77,13.11,12,2024-10-11,Approved,67,66+,Female,Unemployed,19810,Low Income,574,Poor,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9819,1860,Personal Loan,11886.55,15.23,12,2024-05-16,Rejected,27,26-35,Male,Full-time,60180,Middle Income,596,Fair,Brampton,Ontario,Brampton Main Branch,0,1,0
+9820,1623,Mortgage,481675.87,14.47,24,2024-03-21,Approved,52,51-65,Female,Student,18484,Low Income,552,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9821,1444,Personal Loan,11741.3,16.62,48,2023-04-03,Rejected,63,51-65,Female,Student,26555,Low Income,537,Poor,Ottawa,Ontario,Ottawa Main Branch,0,1,0
+9822,1398,Personal Loan,16961.67,14.58,60,2023-05-11,Approved,50,36-50,Male,Self-employed,46058,Middle Income,574,Poor,Mississauga,Ontario,Mississauga Main Branch,1,0,0
+9823,1565,Mortgage,297269.51,8.33,36,2023-09-23,Approved,45,36-50,Male,Unemployed,29046,Low Income,700,Good,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9824,1153,Student Loan,9463.26,14.88,120,2023-02-19,Rejected,56,51-65,Female,Full-time,81468,High Income,529,Poor,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9825,1153,Auto Loan,36968.16,16.65,60,2024-10-16,Rejected,56,51-65,Female,Full-time,81468,High Income,529,Poor,Mississauga,Ontario,Mississauga Main Branch,0,1,0
+9826,1340,Personal Loan,10621.79,5.74,36,2023-08-25,Paid Off,53,51-65,Male,Self-employed,120944,Very High Income,685,Good,Halifax,Nova Scotia,Halifax Main Branch,0,0,0
+9827,1409,Personal Loan,24807.31,11.22,60,2023-08-11,Approved,20,18-25,Female,Self-employed,97930,High Income,667,Fair,Brampton,Ontario,Brampton Main Branch,1,0,0
+9828,1913,Personal Loan,12833.5,6.49,12,2024-08-04,Approved,68,66+,Other,Full-time,74656,High Income,662,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9829,1567,Student Loan,24091.87,13.35,300,2023-08-03,Approved,44,36-50,Female,Student,12807,Low Income,502,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9830,1567,Auto Loan,25802.06,16.01,120,2023-09-18,Approved,44,36-50,Female,Student,12807,Low Income,502,Poor,Calgary,Alberta,Calgary Main Branch,1,0,0
+9831,1568,Personal Loan,12407.77,6.6,60,2024-01-10,Approved,37,36-50,Male,Full-time,43023,Middle Income,681,Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9832,1568,Auto Loan,10946.49,6.05,48,2023-11-14,Approved,37,36-50,Male,Full-time,43023,Middle Income,681,Good,Edmonton,Alberta,Edmonton Main Branch,1,0,0
+9833,1887,Auto Loan,44744.56,14.41,300,2024-11-05,Approved,18,18-25,Male,Part-time,37095,Middle Income,568,Poor,Winnipeg,Manitoba,Winnipeg Main Branch,1,0,0
+9834,1243,Business Loan,121943.52,9.64,300,2023-07-12,Approved,19,18-25,Female,Self-employed,54382,Middle Income,659,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9835,1642,Mortgage,209689.94,6.41,12,2024-10-09,Rejected,34,26-35,Other,Full-time,68955,Middle Income,629,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9836,1197,Student Loan,15088.7,18.12,36,2023-01-13,Rejected,56,51-65,Male,Full-time,39160,Middle Income,595,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9837,1441,Auto Loan,32350.09,10.55,48,2023-07-03,Approved,37,36-50,Male,Full-time,87435,High Income,633,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9838,1026,Personal Loan,15347.25,10.96,12,2024-10-20,Rejected,19,18-25,Male,Part-time,41929,Middle Income,639,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,1,0
+9839,1578,Mortgage,403061.92,10.06,300,2023-02-01,Paid Off,29,26-35,Female,Full-time,41396,Middle Income,657,Fair,Winnipeg,Manitoba,Winnipeg Main Branch,0,0,0
+9840,1055,Mortgage,287022.61,14.54,24,2023-07-19,Paid Off,26,26-35,Other,Student,29312,Low Income,512,Poor,Saskatoon,Saskatchewan,Saskatoon Main Branch,0,0,0
+9841,1376,Auto Loan,52282.36,8.39,36,2024-08-24,Approved,36,36-50,Female,Full-time,71753,High Income,623,Fair,Vancouver,British Columbia,Vancouver Main Branch,1,0,0
+9842,1276,Mortgage,386443.91,15.39,24,2023-12-01,Approved,49,36-50,Male,Part-time,12280,Low Income,563,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9843,1276,Personal Loan,10597.31,14.92,120,2023-09-16,Rejected,49,36-50,Male,Part-time,12280,Low Income,563,Poor,Surrey,British Columbia,Surrey Main Branch,0,1,0
+9844,1292,Mortgage,219110.27,8.76,60,2023-09-05,Approved,47,36-50,Male,Full-time,36930,Middle Income,600,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
+9845,1130,Personal Loan,11472.85,14.99,36,2024-11-29,Approved,29,26-35,Male,Part-time,19319,Low Income,586,Fair,Halifax,Nova Scotia,Halifax Main Branch,1,0,0
+9846,1592,Mortgage,406463.88,14.37,240,2023-08-27,Approved,68,66+,Female,Retired,14894,Low Income,542,Poor,Surrey,British Columbia,Surrey Main Branch,1,0,0
+9847,1402,Business Loan,36998.0,12.94,60,2023-09-05,Defaulted,40,36-50,Male,Full-time,71013,High Income,512,Poor,Vancouver,British Columbia,Vancouver Main Branch,0,0,1
+9848,1534,Personal Loan,6499.18,14.23,60,2024-12-08,Defaulted,22,18-25,Female,Self-employed,77384,High Income,573,Poor,Montreal,Quebec,Montreal Main Branch,0,0,1
+9849,1231,Personal Loan,18985.6,11.88,36,2024-06-18,Approved,66,66+,Male,Full-time,68876,Middle Income,618,Fair,Saskatoon,Saskatchewan,Saskatoon Main Branch,1,0,0
+9850,1876,Personal Loan,25569.95,6.46,24,2024-09-26,Approved,49,36-50,Female,Self-employed,65478,Middle Income,754,Very Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9851,1876,Business Loan,193873.01,8.06,24,2024-11-21,Approved,49,36-50,Female,Self-employed,65478,Middle Income,754,Very Good,Montreal,Quebec,Montreal Main Branch,1,0,0
+9852,1456,Personal Loan,19076.67,11.78,48,2024-02-28,Approved,39,36-50,Male,Retired,49267,Middle Income,640,Fair,Hamilton,Ontario,Hamilton Main Branch,1,0,0
