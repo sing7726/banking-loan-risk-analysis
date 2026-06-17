@@ -56,7 +56,7 @@ The Executive Summary provides an overview of:
 - Loan applications by type
 - Regional lending performance
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](executive_summary.png)
 
 ### Loan Risk Analysis
 
@@ -68,7 +68,7 @@ The Loan Risk Analysis page examines:
 - Defaulted loans by loan type
 - Customer risk segments
 
-![Loan Risk Analysis](images/loan_risk_analysis.png)
+![Loan Risk Analysis](loan_risk_analysis.png)
 
 ## Key Measures
 
